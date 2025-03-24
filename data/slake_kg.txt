@@ -1,0 +1,2601 @@
+Alveolar Proteinosis#location#Lung		
+Alveolar Proteinosis#description#a rare disease characterized by positive pas staining in the alveolar and bronchiolar lumens and phospholipid-rich proteins from the lungs	 occurs in young and middle-aged adults	 with about three times as many males as females.
+Alveolar Proteinosis#prevention#avoid bacterial infection and improve immunity		
+Alveolar Proteinosis#cause#decreased immune function	 genetic factors	 alcohol abuse
+Alveolar Proteinosis#symptom#cyanosis	 chest pain	 dyspnea
+Alveolar Proteinosis#treatment#bronchoalveolar lavage		
+Alveolar Proteinosis#infectivity#non-infectious		
+Pertussis#location#Respiratory System		
+Pertussis#description#acute respiratory infectious diseases caused by pertussis bacilli		
+Pertussis#prevention#vaccination		
+Pertussis#cause#bordetella pertussis		
+Pertussis#symptom#spastic cough		
+Pertussis#treatment#medication		
+Pertussis#infectivity#respiratory transmission		
+Asthmatoid Bronchitis#location#Bronchial Tube		
+Asthmatoid Bronchitis#description#asthmatoid bronchitis is a clinical syndrome	 generally referring to a group of infants with wheezing manifestations of acute bronchitis	
+Asthmatoid Bronchitis#prevention#pay attention to family and child allergy history		
+Asthmatoid Bronchitis#cause#often secondary to upper respiratory tract infection		
+Asthmatoid Bronchitis#symptom#asthmatic bronchitis	 fever	 prolonged expiratory time with wheezing and coarse moist rales
+Asthmatoid Bronchitis#treatment#medication		
+Asthmatoid Bronchitis#infectivity#non-infectious		
+Asthmatoid Bronchitis#susceptible population#children aged 1-3 years		
+Lobar Pneumonia#location#Lung		
+Lobar Pneumonia#description#also known as pneumococcal pneumonia	 is a lobar distribution of acute lung inflammation caused by bacterial infections such as diplococcus pneumoniae.	
+Lobar Pneumonia#prevention#pay attention to prevent upper respiratory tract infection	 avoid rain and cold	
+Lobar Pneumonia#cause#infection due to streptococcus pneumoniae		
+Lobar Pneumonia#symptom#chills	 high fever	 chest pain
+Lobar Pneumonia#treatment#antibiotic drug therapy		
+Lobar Pneumonia#infectivity#non-infectious		
+Lobar Pneumonia#alias#pneumococcal pneumonia		
+Pulmonary Actinomycosis#location#Lung		
+Pulmonary Actinomycosis#description#pulmonary actinomycosis chronic pyogenic granulomatous disease caused by anaerobic israeli actinomycetes infecting the lungs		
+Pulmonary Actinomycosis#prevention#attention should be paid to dietary hygiene	 oral hygiene and early treatment of lesions such as teeth and tonsils.
+Pulmonary Actinomycosis#cause#pulmonary actinomycete infection		
+Pulmonary Actinomycosis#symptom#low or irregular fever	 cough	 cough up a small amount of mucous sputum
+Pulmonary Actinomycosis#treatment#high dose penicillin treatment	 surgical treatment	
+Pulmonary Actinomycosis#infectivity#non-infectious		
+Radiation Pneumonia#location#Lung		
+Radiation Pneumonia#description#radiation pneumonia is an inflammatory reaction caused by damage to normal lung tissue in the radiation field after radiotherapy for lung cancer	 breast cancer	 esophageal cancer
+Radiation Pneumonia#prevention#strict control of radiation dose and timely treatment of disease		
+Radiation Pneumonia#cause#radiotherapy		
+Radiation Pneumonia#symptom#irritant cough	 shortness of breath	 palpitation
+Radiation Pneumonia#treatment#drug symptomatic treatment mainly	 early may need hormone treatment	
+Radiation Pneumonia#infectivity#non-infectious		
+Pulmonary Candidiasis#location#Lung		
+Pulmonary Candidiasis#description#pulmonary candidiasis is an acute	 subacute	 or chronic bronchial and pulmonary infection caused by candida spp
+Pulmonary Candidiasis#prevention#do not abuse broad-spectrum antibiotics		
+Pulmonary Candidiasis#cause#candidiasis		
+Pulmonary Candidiasis#symptom#cough	 cough up a small amount of mucous sputum	
+Pulmonary Candidiasis#treatment#antifungal therapy		
+Pulmonary Candidiasis#infectivity#respiratory transmission		
+Pulmonary Bullae#location#Lung		
+Pulmonary Bullae#description#pulmonary bullae refer to the air-containing sac cavity formed in the lung tissue due to the increase of pressure in the alveolar cavity	 the rupture and fusion of alveolar walls due to various reasons	
+Pulmonary Bullae#prevention#stop smoking and prevent bronchopulmonary infection.		
+Pulmonary Bullae#cause#most are secondary to pulmonary and bronchitis lesions	 and a few are congenital	
+Pulmonary Bullae#symptom#cough	 chest tightness	 shortness of breath
+Pulmonary Bullae#treatment#rehabilitation therapy	 surgical treatment	
+Pulmonary Bullae#infectivity#non-infectious		
+Pulmonary Bullae#alias#bullae		
+Emphysema#location#Lung		
+Emphysema#description#emphysema refers to a pathological condition in which the airway elasticity at the distal end of the bronchioles is reduced	 hyperinflation	 inflation
+Emphysema#prevention#quit smoking and pay attention to living environment		
+Emphysema#cause#smoking	 infection	 air pollution
+Emphysema#symptom#in cough	 expectoration	 dyspnea
+Emphysema#treatment#medical treatment	 surgical treatment	
+Emphysema#infectivity#non-infectious		
+Emphysema#susceptible population#middle-aged and elderly people		
+Pulmonary Abscess#location#Lung		
+Pulmonary Abscess#description#pulmonary abscess is a suppurative lesion of lung tissue caused by various etiologies		
+Pulmonary Abscess#prevention#attention should be paid to the prevention and treatment of chronic infection of oral cavity and upper respiratory tract
+Pulmonary Abscess#cause#bacterial infection	 bronchial obstruction	 reduced systemic resistance
+Pulmonary Abscess#symptom#chest pain	 sticky or purulent sputum	
+Pulmonary Abscess#treatment#medical treatment	 surgical treatment	
+Pulmonary Abscess#infectivity#non-infectious		
+Pulmonary Abscess#susceptible population#adult male		
+Pulmonary Embolism#location#Lung		
+Pulmonary Embolism#description#clinical pathophysiological syndrome of pulmonary circulation disorders caused by obstruction of pulmonary arteries and their branches by exclusion of various embols		
+Pulmonary Embolism#prevention#prevention of thrombophlebitis and thrombosis of lower limbs	 prevention and treatment of varicose veins	 etc.
+Pulmonary Embolism#cause#various embolic shedding from systemic circulation causes		
+Pulmonary Embolism#symptom#fatigue	 pallor	 cold sweat
+Pulmonary Embolism#treatment#medical treatment	 surgical treatment	
+Pulmonary Embolism#infectivity#non-infectious		
+Pneumonia#location#Lung		
+Pneumonia#description#pneumonia refers to inflammation of the terminal airways	 alveoli	 and interstitium
+Pneumonia#prevention#inject cold prevention and warmth preservation to enhance physical fitness		
+Pneumonia#cause#bacterial infection		
+Pneumonia#symptom#cough foamy mucus sputum	 dyspnea	 cough
+Pneumonia#treatment#medical therapy	 supportive therapy	
+Pneumonia#infectivity#non-infectious		
+Pulmonary Edema#location#Lung		
+Pulmonary Edema#description#pulmonary edema refers to the extravasation of pulmonary tissue fluid from pulmonary capillaries and accumulation in alveoli	 pulmonary interstitium and small bronchioles	 resulting in severe impairment of pulmonary ventilation and ventilation function.
+Pulmonary Edema#prevention#keep warm and cold-proof to avoid getting cold		
+Pulmonary Edema#cause#it can be divided into two categories: cardiogenic and non-cardiogenic.		
+Pulmonary Edema#symptom#dyspnea	 cyanosis	 sweating
+Pulmonary Edema#treatment#medication		
+Pulmonary Edema#infectivity#non-infectious		
+Lung Cancer#location#Lung		
+Lung Cancer#description#lung cancer is one of the malignant tumors with the fastest increase in morbidity and mortality and the greatest threat to human health and life.		
+Lung Cancer#prevention#quit smoking	 correct eating habits	 pay attention to the respiratory environment
+Lung Cancer#cause#smoking	 occupational exposure	 environmental pollution
+Lung Cancer#symptom#cough	 blood in sputum	 low fever
+Lung Cancer#treatment#pharmacotherapy	 surgical therapy	 radiotherapy
+Lung Cancer#infectivity#non-infectious		
+Lung Cancer#alias#bronchial lung cancer		
+Respiratory Failure#location#Respiratory System		
+Respiratory Failure#description#respiratory failure is a clinical syndrome in which pulmonary ventilation or ventilation function is severely impaired due to various causes	 so that effective gas exchange cannot be carried out	 resulting in hypoxia and a series of physiological and metabolic disorders.
+Respiratory Failure#prevention#keep healthy		
+Respiratory Failure#symptom#obvious upper pulmonary fibrosis	 respiratory failure	 dyspnea
+Respiratory Failure#treatment#medication		
+Respiratory Failure#infectivity#non-infectious		
+Respiratory Failure#alias#respiratory failure		
+Acute Respiratory Distress Syndrome#location#Respiratory System		
+Acute Respiratory Distress Syndrome#prevention#enhanced monitoring		
+Acute Respiratory Distress Syndrome#cause#pneumonia	 aspiration	 pulmonary contusion
+Acute Respiratory Distress Syndrome#symptom#coma	 respiratory failure	
+Acute Respiratory Distress Syndrome#treatment#medical therapy	 supportive therapy	
+Acute Respiratory Distress Syndrome#infectivity#non-infectious		
+Tracheal Neoplasms#location#Trachea		
+Tracheal Neoplasms#description#tracheal tumors are divided into benign tumors and malignant tumors.		
+Tracheal Neoplasms#prevention#early diagnosis	 early treatment	
+Tracheal Neoplasms#cause#a lump or ulcer in the tracheal cavity.		
+Tracheal Neoplasms#symptom#early irritative cough	 little or no phlegm	 late shortness of breath
+Tracheal Neoplasms#treatment#surgical treatment		
+Tracheal Neoplasms#infectivity#non-infectious		
+Tracheal And Bronchial Stenosis#location#Trachea		
+Tracheal And Bronchial Stenosis#description#tracheobronchial stenosis is caused by airway obstruction resulting in shortness of breath and dyspnea	 physical activity and respiratory endocrine increased when aggravated	 often with wheezing
+Tracheal And Bronchial Stenosis#prevention#early detection	 early treatment	
+Tracheal And Bronchial Stenosis#cause#endobronchial lesions	 trauma	
+Tracheal And Bronchial Stenosis#symptom#shortness of breath		
+Tracheal And Bronchial Stenosis#treatment#surgical treatment		
+Tracheal And Bronchial Stenosis#infectivity#non-infectious		
+Osahs#location#Respiratory System		
+Osahs#description#a ubiquitous phenomenon of sleep in which heavy sounds are produced during sleep by breathing obstructed tongue and soft palate tremors.		
+Osahs#prevention#avoid tobacco and alcohol and maintain good living habits		
+Osahs#cause#upper airway stenosis or blockage	 nasal disease	
+Osahs#symptom#snoring	 sleep rhythm disorder	 arrhythmia
+Osahs#treatment#surgical treatment	 rehabilitation treatment	
+Osahs#infectivity#non-infectious		
+Osahs#alias#snoring	 snoring	 sleep apnea syndrome
+Silicosis#location#Lung		
+Silicosis#description#it is caused by long-term inhalation of a large amount of free silica dust	 mainly caused by extensive nodular fibrosis in the lung.	
+Silicosis#prevention#strengthen personal protection during work		
+Silicosis#cause#high dust concentration in air and long contact time		
+Silicosis#symptom#chest pain	 pulmonary fibrosis	
+Silicosis#treatment#medication		
+Silicosis#infectivity#non-infectious		
+Silicosis#alias#silicosis		
+Asthma#location#Respiratory System		
+Asthma#description#chronic inflammatory disease of the airway involving a variety of cells and cellular components		
+Asthma#prevention#pay attention to allergens and strengthen physical exercise		
+Asthma#cause#genetic	 allergen-induced	 environmental
+Asthma#symptom#sudden wheezing	 shortness of breath	 chest tightness
+Asthma#treatment#medication		
+Asthma#infectivity#non-infectious		
+Asthma#alias#bronchial asthma		
+Bacterial Pneumonia#location#Lung		
+Bacterial Pneumonia#description#lung inflammation caused by bacteria		
+Bacterial Pneumonia#prevention#enhance physical fitness		
+Bacterial Pneumonia#cause#bacterial infection		
+Bacterial Pneumonia#symptom#cough	 expectoration	 chest pain
+Bacterial Pneumonia#treatment#medication		
+Bacterial Pneumonia#infectivity#non-infectious		
+Bacterial Pneumonia#susceptible population#children	 the elderly	
+Chlamydia Pneumonia#location#Lung		
+Chlamydia Pneumonia#description#chlamydia pneumonia is pneumonia caused by chlamydia		
+Chlamydia Pneumonia#prevention#enhance immunity		
+Chlamydia Pneumonia#cause#chlamydia infection		
+Chlamydia Pneumonia#symptom#fever	 chills	 myalgia
+Chlamydia Pneumonia#treatment#medication		
+Chlamydia Pneumonia#infectivity#respiratory transmission		
+Chlamydia Pneumonia#susceptible population#school-age children		
+Mycoplasma Pneumonia#location#Lung		
+Mycoplasma Pneumonia#description#mycoplasma pneumonia is an acute respiratory infection with pneumonia caused by mycoplasma pneumoniae.		
+Mycoplasma Pneumonia#prevention#enhance immunity	 less people to intensive places	
+Mycoplasma Pneumonia#cause#mycoplasma infection		
+Mycoplasma Pneumonia#symptom#dry cough	 fever	
+Mycoplasma Pneumonia#treatment#medication		
+Mycoplasma Pneumonia#infectivity#airborne		
+Bronchiectasia#location#Bronchial Tube		
+Bronchiectasia#description#bronchiectasis is due to chronic suppurative inflammation and fibrosis of the bronchi and its surrounding lung tissue	 which destroys the muscles and elastic tissues of the bronchial wall	 leading to bronchial deformation and persistent dilation
+Bronchiectasia#prevention#active treatment of respiratory tract infections		
+Bronchiectasia#cause#infected		
+Bronchiectasia#symptom#chronic cough	 massive purulent sputum	 hemoptysis
+Bronchiectasia#treatment#medication		
+Bronchiectasia#infectivity#non-infectious		
+Single Ventricle#location#Heart		
+Single Ventricle#description#single ventricle is a rare congenital malformation.		
+Single Ventricle#cause#abnormal embryonic development		
+Single Ventricle#symptom#cyanosis	 tachycardia	 slow weight gain
+Single Ventricle#treatment#surgical treatment		
+Single Ventricle#infectivity#non-infectious		
+Single Ventricle#alias#total ventricle	 single ventricle	
+Single Ventricle#susceptible population#baby		
+Single Atrium#location#Heart		
+Single Atrium#description#a single atrium is a rare congenital heart disease caused by the absence of the first and second septums of the atrial septum during embryonic development.		
+Single Atrium#cause#neither septum 1 nor septum 2 developed during fetal development.		
+Single Atrium#symptom#be short of breath and cyanotic when crying		
+Single Atrium#treatment#surgical treatment		
+Single Atrium#infectivity#non-infectious		
+Arteriosclerosis#location#Artery		
+Arteriosclerosis#description#arteriosclerosis is a non-inflammatory disease of arteries	 which can thicken and harden the arterial wall	 lose elasticity and narrow the lumen.
+Arteriosclerosis#prevention#develop good habits		
+Arteriosclerosis#cause#hypertension	 hyperlipidemia	 obesity
+Arteriosclerosis#symptom#palpitations	 chest pain	 chest tightness
+Arteriosclerosis#treatment#medication	 intervention	 surgery
+Arteriosclerosis#infectivity#non-infectious		
+Arteriosclerosis#susceptible population#male		
+Aneurysm#location#Artery		
+Aneurysm#description#aneurysms are manifestations of localized or diffuse dilatation or bulging of the arterial wall due to lesions or damage to the arterial wall.		
+Aneurysm#prevention#regular exercise	 healthy diet	
+Aneurysm#cause#atherosclerosis	 injury	 infection
+Aneurysm#symptom#surface pulsatile mass	 severe pain	 limb necrosis
+Aneurysm#treatment#surgical treatment		
+Aneurysm#infectivity#non-infectious		
+Mitral Insufficiency#location#Heart		
+Mitral Insufficiency#description#mitral insufficiency is defined as partial return of blood from the left ventricle to the left atrium during left ventricular contraction due to abnormal anatomy and function of the mitral valve.		
+Mitral Insufficiency#prevention#avoid excessive physical labor and strenuous exercise and limit sodium intake		
+Mitral Insufficiency#cause#rheumatic heart disease	 coronary heart disease	 congenital malformation
+Mitral Insufficiency#symptom#weakness	 palpitations	 chest pain
+Mitral Insufficiency#treatment#surgical treatment		
+Mitral Insufficiency#infectivity#non-infectious		
+Mitral Stenosis#location#Heart		
+Mitral Stenosis#description#mitral stenosis is caused by restriction of mitral valve opening function and blockage of blood flow from left atrium to left ventricle due to different reasons.		
+Mitral Stenosis#prevention#avoid getting rheumatic fever		
+Mitral Stenosis#cause#rheumatic fever		
+Mitral Stenosis#symptom#dyspnea	 hemoptysis	 cough
+Mitral Stenosis#treatment#surgical treatment	 drug treatment	
+Mitral Stenosis#infectivity#non-infectious		
+Mitral Stenosis#susceptible population#young and middle-aged people		
+Hypertrophic Obstructive Cardiomyopathy#location#Heart		
+Hypertrophic Obstructive Cardiomyopathy#description#hypertrophic obstructive cardiomyopathy is characterized by ventricular hypertrophy	 typically in the left ventricle	 particularly in the interventricular septum
+Hypertrophic Obstructive Cardiomyopathy#prevention#avoid tiredness and excitement		
+Hypertrophic Obstructive Cardiomyopathy#cause#not clear	 may be genetic or endocrine disorders	
+Hypertrophic Obstructive Cardiomyopathy#symptom#dyspnea	 precordial pain	 fatigue
+Hypertrophic Obstructive Cardiomyopathy#treatment#medical treatment	 surgical treatment	
+Hypertrophic Obstructive Cardiomyopathy#infectivity#non-infectious		
+Hypertrophic Cardiomyopathy#location#Heart		
+Hypertrophic Cardiomyopathy#description#hypertrophic cardiomyopathy is a myocardial disease of unknown origin characterized by asymmetric hypertrophy of the ventricular wall		
+Hypertrophic Cardiomyopathy#prevention#avoid tiredness and excitement		
+Hypertrophic Cardiomyopathy#cause#autosomal dominant inheritance		
+Hypertrophic Cardiomyopathy#symptom#palpitations	 exertional dyspnea	 precordial distress
+Hypertrophic Cardiomyopathy#treatment#medical treatment	 surgical treatment	
+Hypertrophic Cardiomyopathy#infectivity#non-infectious		
+Hypertrophic Cardiomyopathy#susceptible population#young adults		
+Pulmonary Arteriovenous Fistula#location#Lung		
+Pulmonary Arteriovenous Fistula#description#pulmonary arteriovenous fistula as congenital pulmonary vascular malformation		
+Pulmonary Arteriovenous Fistula#cause#congenital diseases		
+Pulmonary Arteriovenous Fistula#symptom#chest pain	 dyspnea	 shortness of breath
+Pulmonary Arteriovenous Fistula#treatment#surgical treatment		
+Pulmonary Arteriovenous Fistula#infectivity#non-infectious		
+Coronary Heart Disease#location#Heart		
+Coronary Heart Disease#description#coronary atherosclerosis narrows or obstructs blood vessels	 leading to myocardial ischemia	 hypoxia or necrosis
+Coronary Heart Disease#prevention#control blood pressure	 blood lipids	 blood sugar
+Coronary Heart Disease#cause#atherosclerosis		
+Coronary Heart Disease#symptom#sudden precordial pain	 mostly episodic colic or crushing pain	
+Coronary Heart Disease#treatment#drug therapy	 coronary artery bypass graft therapy	
+Coronary Heart Disease#infectivity#no infectious.		
+Coronary Heart Disease#susceptible population#middle-aged and elderly people	 smokers	 hypertensive patients
+Tricuspid Stenosis#location#Heart		
+Tricuspid Stenosis#description#a type of heart valve disease in which blood flow is blocked by narrowing of the tricuspid orifice	 limited leaflet opening	 and reduced open area due to various etiologies.
+Tricuspid Stenosis#prevention#early detection	 early diagnosis	 early treatment
+Tricuspid Stenosis#cause#rheumatic heart disease		
+Tricuspid Stenosis#symptom#liver discomfort	 loss of appetite	 dyspepsia
+Tricuspid Stenosis#treatment#medical treatment	 surgical treatment	
+Tricuspid Stenosis#infectivity#non-infectious		
+Tricuspid Insufficiency#location#Heart		
+Tricuspid Insufficiency#description#tricuspid insufficiency is the phenomenon that the tricuspid valve leaflet cannot be closed normally due to various reasons and blood flows from the right ventricle to the right atrium during right ventricular contraction.		
+Tricuspid Insufficiency#prevention#timely diagnosis and treatment of cardiac discomfort		
+Tricuspid Insufficiency#cause#pulmonary hypertension	 tricuspid valve dilatation	
+Tricuspid Insufficiency#symptom#weakness	 abdominal distension	 edema
+Tricuspid Insufficiency#treatment#medication		
+Tricuspid Insufficiency#infectivity#non-infectious		
+Atrial Fibrillation#location#Heart		
+Atrial Fibrillation#description#the primary septum of the triatrial system develops abnormally during the embryonic period	 forming a malformed septum in the left atrium	 which divides the left atrium into two parts
+Atrial Fibrillation#prevention#no effective preventive measures	 but the effect of surgery is better	
+Atrial Fibrillation#cause#not clear		
+Atrial Fibrillation#symptom#pale complexion	 tachycardia	 delayed growth and development
+Atrial Fibrillation#treatment#surgical treatment	 rehabilitation treatment	
+Atrial Fibrillation#infectivity#non-infectious		
+Hemangioma#location#Capillary		
+Hemangioma#description#hemangiomas are congenital benign tumors or vascular malformations that arise from the proliferation of angioblasts during the embryonic period	 often in the skin and soft tissues	 and often occur at or shortly after the birth of an infant.
+Hemangioma#prevention#pay attention to diet and life rules during pregnancy		
+Hemangioma#cause#in the early stage of fetal vascular tissue differentiation	 a small range of distortions occur in the control gene segment.	
+Hemangioma#symptom#the capillary type is bright red or purple red plaque		
+Hemangioma#treatment#oral drugs	 topical drugs	 drug injection
+Hemangioma#infectivity#non-infectious		
+Hemangioma#susceptible population#baby		
+Angina Pectoris#location#Heart		
+Angina Pectoris#description#angina is a clinical syndrome characterized by episodic chest pain or chest discomfort caused by insufficient coronary blood supply	 acute temporary ischemia and hypoxia of the myocardium.	
+Angina Pectoris#prevention#prevention of hypertension and hyperlipidemia		
+Angina Pectoris#cause#myocardial insufficiency		
+Angina Pectoris#symptom#precardiac distress	 crushing pain	
+Angina Pectoris#treatment#medical treatment	 surgical treatment	
+Angina Pectoris#infectivity#non-infectious		
+Miocardial Infarction#location#Heart		
+Miocardial Infarction#description#coronary artery occlusion and interruption of blood flow cause local necrosis of some myocardium due to severe and persistent ischemia		
+Miocardial Infarction#prevention#avoid overwork		
+Miocardial Infarction#cause#overwork	 agitation	 overeating
+Miocardial Infarction#symptom#posterior sternal pain	 extensive myocardial necrosis	
+Miocardial Infarction#treatment#medical treatment	 surgical treatment	
+Miocardial Infarction#infectivity#non-infectious		
+Miocardial Infarction#alias#myocardial infarction		
+Pericardial Cyst#location#Heart		
+Pericardial Cyst#description#pericardial cyst is a congenital mediastinal cyst that occurs in the pericardium.		
+Pericardial Cyst#prevention#early detection and early treatment		
+Pericardial Cyst#cause#abnormal development during embryonic period		
+Pericardial Cyst#symptom#chest pain	 chest tightness	 chest swelling
+Pericardial Cyst#treatment#surgical treatment	 conservative treatment	
+Pericardial Cyst#infectivity#non-infectious		
+Pericardial Neoplasms#location#Heart		
+Pericardial Neoplasms#description#pericardial tumors refer to tumors arising in the pericardium and are classified into benign and malignant tumors.		
+Pericardial Neoplasms#cause#primary tumors may develop from embryonic remnants	 while secondary tumors mostly metastasize from malignant tumors of various organs in vivo	
+Pericardial Neoplasms#symptom#benign tumors are generally asymptomatic	 and malignant tumors have precordial and chest pain.	
+Pericardial Neoplasms#treatment#surgical treatment	 medical treatment	 radiotherapy
+Pericardial Neoplasms#infectivity#non-infectious		
+Pericardial Neoplasms#susceptible population#multiple benign tumors in infants and children	 multiple malignant tumors in 20-30 years old	
+Left Ventricular Dysplasia#location#Heart		
+Left Ventricular Dysplasia#description#it is a rare and complex congenital cardiovascular malformation.		
+Left Ventricular Dysplasia#prevention#strengthen health care for pregnant women		
+Left Ventricular Dysplasia#cause#inheritance	 gene mutation	 radiation
+Left Ventricular Dysplasia#symptom#cyanosis	 shortness of breath	 dyspnea
+Left Ventricular Dysplasia#treatment#surgical treatment		
+Left Ventricular Dysplasia#infectivity#non-infectious		
+Left Ventricular Dysplasia#susceptible population#newborn		
+Aortic Aneurysm#location#Artery		
+Aortic Aneurysm#description#pathological dilation of the aorta	 more than 50% of the normal vessel diameter	
+Aortic Aneurysm#prevention#develop good habits		
+Aortic Aneurysm#cause#atherosclerosis	 cystic necrosis in the middle layer of blood vessels	 syphilis infection
+Aortic Aneurysm#symptom#pain	 dyspnea	 dysphagia
+Aortic Aneurysm#treatment#surgical treatment	 drug treatment	
+Aortic Aneurysm#infectivity#non-infectious		
+Amiba Hepatic Abscess#location#Liver		
+Amiba Hepatic Abscess#description#amiba hepatic abscess is caused by histolytic amoeba trophozoites entering the liver via blood flow from intestinal lesions	 causing necrosis of the liver.	
+Amiba Hepatic Abscess#prevention#pay attention to personal hygiene and dietary hygiene	 and treat amoebic dysentery in time	
+Amiba Hepatic Abscess#cause#histolytic amoeba trophozoites enter the liver via blood flow from the intestinal lesions		
+Amiba Hepatic Abscess#symptom#long-term fever	 right upper abdomen or right lower chest pain	 liver swelling tenderness
+Amiba Hepatic Abscess#treatment#medical treatment	 surgical treatment	 supportive treatment
+Amiba Hepatic Abscess#infectivity#non-infectious		
+Constipation#location#Digestive System		
+Constipation#description#reduced number of bowel movements and difficulty in defecation		
+Constipation#prevention#reasonable coordination of diet		
+Constipation#cause#aging	 poor living habits	 psychological disorders
+Constipation#symptom#decreased frequency of defecation	 difficulty in defecation	 fecal induration
+Constipation#treatment#pharmacotherapy	 prokinetic medicine	 physiotherapy of traditional chinese medicine
+Constipation#infectivity#non-infectious		
+Constipation#susceptible population#aged		
+Volvulus#location#Large Intestine		
+Volvulus#description#a volvulus is a closed loop ileus caused by rotation of a loop along the long axis of the mesentery or twisting of two loops into tangles.		
+Volvulus#prevention#avoid heavy physical labor immediately after a full meal		
+Volvulus#cause#anatomical and physiological or pathological factors		
+Volvulus#symptom#sudden persistent severe abdominal pain	 paroxysmal colic	 no exhaust and defecation
+Volvulus#treatment#medical treatment	 surgical treatment	
+Volvulus#infectivity#non-infectious		
+Volvulus#susceptible population#male		
+Cholelithiasis#location#Gallbladder		
+Cholelithiasis#description#cholelithiasis is a disease in which stones occur anywhere in the biliary system	 including the gallbladder and bile duct.	
+Cholelithiasis#prevention#control excessive cholesterol intake in the diet		
+Cholelithiasis#cause#metabolic factors	 biliary infection	
+Cholelithiasis#symptom#dull pain in right upper abdomen		
+Cholelithiasis#treatment#medical treatment	 surgical treatment	
+Cholelithiasis#infectivity#non-infectious		
+Cholelithiasis#alias#gallstone		
+Cholelithiasis#frequent population#more women than men		
+Cholangiocarcinoma#location#Gallbladder		
+Cholangiocarcinoma#description#cholangiocarcinoma refers to malignant tumors originating from extrahepatic bile ducts	 including bile ducts from the portal area to the lower end of the common bile duct.	
+Cholangiocarcinoma#prevention#maintain a happy mental state and develop good eating habits		
+Cholangiocarcinoma#cause#it may be related to bile duct stones	 primary sclerosing cholangitis	 etc.
+Cholangiocarcinoma#symptom#gallbladder enlargement	 abdominal discomfort	 diarrhea
+Cholangiocarcinoma#treatment#surgical treatment		
+Cholangiocarcinoma#infectivity#non-infectious		
+Cholangiocarcinoma#susceptible population#50-70 year old male		
+Colorectal Carcinoid#location#Large Intestine		
+Colorectal Carcinoid#description#colorectal carcinoid is a rare low-grade malignant tumor with localized	 invasive growth and few metastases.	
+Colorectal Carcinoid#prevention#healthy diet		
+Colorectal Carcinoid#cause#genetic factors	 dietary habits	
+Colorectal Carcinoid#symptom#constipation	 diarrhea	 rectal bleeding
+Colorectal Carcinoid#treatment#surgical treatment	 drug treatment	
+Colorectal Carcinoid#infectivity#non-infectious		
+Colorectal Cancer#location#Large Intestine		
+Colorectal Cancer#description#colorectal cancer is a common malignancy	 including colon and rectal cancer	
+Colorectal Cancer#prevention#diet adjustment	 change life habits	 active exercise
+Colorectal Cancer#cause#chronic inflammation of the large intestine	 colorectal adenoma	 genetic factors
+Colorectal Cancer#symptom#early no or no symptoms	 only dyspepsia	 fecal occult blood
+Colorectal Cancer#treatment#surgical treatment	 drug treatment	
+Colorectal Cancer#infectivity#non-infectious		
+Colorectal Cancer#susceptible population#older men		
+Hepatic Fibrosis#location#Liver		
+Hepatic Fibrosis#description#liver fibrosis is a pathophysiological process	 which refers to the abnormal proliferation of connective tissue in the liver caused by various pathogenic factors.	
+Hepatic Fibrosis#prevention#maintain good mood	 quit smoking and alcohol	 eat healthy
+Hepatic Fibrosis#cause#viral hepatitis	 alcoholic liver	 fatty liver
+Hepatic Fibrosis#symptom#weakness	 loss of appetite	 dyspepsia
+Hepatic Fibrosis#treatment#medication		
+Hepatic Fibrosis#infectivity#non-infectious		
+Hepatic Fibrosis#susceptible population#chronic hepatitis and chronic alcoholics		
+Hepatic Abscess#location#Liver		
+Hepatic Abscess#description#liver abscess is a suppurative lesion of the liver caused by a variety of microorganisms	 such as bacteria	 fungi or histolytic amoeba protozoa.
+Hepatic Abscess#prevention#pay attention to personal hygiene and dietary hygiene		
+Hepatic Abscess#cause#bacterial infection		
+Hepatic Abscess#symptom#high fever	 liver pain	 chills
+Hepatic Abscess#treatment#medical treatment	 surgical treatment	
+Hepatic Abscess#infectivity#non-infectious		
+Hepatic Abscess#susceptible population#people aged 60-70		
+Hepatic Adenoma#location#Liver		
+Hepatic Adenoma#description#is a rare benign tumor of the liver		
+Hepatic Adenoma#prevention#reduce the number of oral contraceptives		
+Hepatic Adenoma#cause#there is a close relationship with oral contraceptives		
+Hepatic Adenoma#symptom#asymptomatic or dull pain in the right upper abdomen	 nausea	 anorexia
+Hepatic Adenoma#treatment#surgical treatment	 drug treatment	
+Hepatic Adenoma#infectivity#non-infectious		
+Hepatic Adenoma#alias#hepatocellular adenoma		
+Hepatic Adenoma#susceptible population#young women		
+Hepatic Cyst#location#Liver		
+Hepatic Cyst#description#hepatic cyst is a common benign disease of the liver		
+Hepatic Cyst#prevention#active prevention and treatment of biliary infection and stones		
+Hepatic Cyst#cause#most are congenital		
+Hepatic Cyst#symptom#liver congestion	 loss of appetite	 hepatomegaly
+Hepatic Cyst#treatment#medication		
+Hepatic Cyst#infectivity#non-infectious		
+Hepatic Hemangioma#location#Liver		
+Hepatic Hemangioma#description#hepatic hemangioma is a relatively common benign tumor of the liver	 and cavernous hemangioma is the most common clinical tumor.	
+Hepatic Hemangioma#prevention#healthy diet	 strengthen exercise	 keep good mood
+Hepatic Hemangioma#cause#congenital dysplasia	 hormone stimulation	
+Hepatic Hemangioma#symptom#abdominal discomfort	 abdominal mass	
+Hepatic Hemangioma#treatment#medication		
+Hepatic Hemangioma#infectivity#non-infectious		
+Colon Cancer#location#Large Intestine		
+Colon Cancer#description#colon cancer is a common malignant tumor of the digestive tract	 accounting for the second most common gastrointestinal tract tumors. the predilection sites are the rectum and the junction between rectum and sigmoid colon.	
+Colon Cancer#prevention#healthy diet	 enteroscopy	
+Colon Cancer#cause#high fat meal	 inadequate cellulose intake	
+Colon Cancer#symptom#abdominal distension	 dyspepsia	 mucous stool
+Colon Cancer#treatment#surgical treatment	 drug treatment	
+Colon Cancer#infectivity#non-infectious		
+Colon Cancer#susceptible population#patients with chronic colorectal inflammation and family history of familial multiple intestinal polyposis and colon cancer		
+Alcoholic Liver Disease#location#Liver		
+Alcoholic Liver Disease#description#alcoholic liver disease is a liver disease caused by prolonged heavy drinking.		
+Alcoholic Liver Disease#prevention#do not drink alcoholic beverages		
+Alcoholic Liver Disease#cause#long-term heavy drinking		
+Alcoholic Liver Disease#symptom#nausea	 vomiting	 jaundice
+Alcoholic Liver Disease#treatment#drug therapy		
+Alcoholic Liver Disease#infectivity#non-infectious		
+Alcoholic Liver Disease#susceptible population#long-term drinking history		
+Calculous Cholecystitis#location#Gallbladder		
+Calculous Cholecystitis#description#calcular cholecystitis is a disease in which stones occur in the gallbladder or in the neck of the gallbladder.		
+Calculous Cholecystitis#prevention#healthy diet and exercise		
+Calculous Cholecystitis#cause#gallstones	 bacterial infection	
+Calculous Cholecystitis#symptom#abdominal pain	 abdominal distension	 nausea
+Calculous Cholecystitis#treatment#medical treatment	 surgical treatment	
+Calculous Cholecystitis#infectivity#non-infectious		
+Colon Injury#location#Large Intestine		
+Colon Injury#description#colon injury is a common cavity organ injury caused by blunt abdominal injury and penetrating injury	 and it can also be caused by iatrogenic injury.	
+Colon Injury#prevention#pay attention to avoid trauma		
+Colon Injury#cause#blunt injury	 iatrogenic injury	
+Colon Injury#symptom#abdominal pain		
+Colon Injury#treatment#medical treatment	 surgical treatment	
+Colon Injury#infectivity#non-infectious		
+Splenic Rupture#location#Spleen		
+Splenic Rupture#description#the spleen is a substantial organ with abundant blood supply and brittle substance	 which is easily ruptured by traumatic violence and causes internal hemorrhage.	
+Splenic Rupture#prevention#avoid strenuous exercise		
+Splenic Rupture#cause#the effect of external violence	 severe coughing	 sneezing
+Splenic Rupture#symptom#left upper abdominal pain	 worsened by deep breathing	
+Splenic Rupture#treatment#surgical treatment	 drug treatment	
+Splenic Rupture#infectivity#non-infectious		
+Esophageal Cancer#location#Esophagus		
+Esophageal Cancer#description#esophageal cancer is a common digestive tract tumor	 and about 300	000 people die of it every year worldwide.
+Esophageal Cancer#prevention#change dietary habits		
+Esophageal Cancer#cause#environmental factors	 dietary habits	
+Esophageal Cancer#symptom#feeling of throat food obstruction	 pain behind sternum	 progressive dysphagia
+Esophageal Cancer#treatment#surgical treatment	 drug treatment	
+Esophageal Cancer#infectivity#non-infectious		
+Esophageal Cancer#alias#esophageal cancer		
+Esophageal Cancer#susceptible population#people over 40 years old		
+Leiomyoma Of Esophagus#location#Esophagus		
+Leiomyoma Of Esophagus#description#it is a benign tumor originating from the smooth muscle of the esophagus.		
+Leiomyoma Of Esophagus#prevention#early diagnosis and early treatment		
+Leiomyoma Of Esophagus#cause#not clear		
+Leiomyoma Of Esophagus#symptom#swallowing obstruction	 dull pain behind sternum	
+Leiomyoma Of Esophagus#treatment#surgical treatment	 drug treatment	
+Leiomyoma Of Esophagus#infectivity#non-infectious		
+Gastric Cancer#location#Stomach		
+Gastric Cancer#description#gastric cancer is a malignant tumor originating from gastric mucosal epithelium		
+Gastric Cancer#prevention#pay attention to dietary hygiene and strengthen physical fitness		
+Gastric Cancer#cause#living environment	 helicobacter pylori infection	 genes
+Gastric Cancer#symptom#upper abdominal pain	 loss of appetite	 emaciation
+Gastric Cancer#treatment#surgery	 chemotherapy	 targeted drug therapy
+Gastric Cancer#infectivity#helicobacter pylori infection	 no other infections	
+Gastric Cancer#susceptible population#male over 50 years old		
+Gastrocardiac Syndrome#location#Stomach		
+Gastrocardiac Syndrome#location#Heart		
+Gastrocardiac Syndrome#description#refers to functional disorders of the cardiovascular system caused by reflexive gastric disease.		
+Gastrocardiac Syndrome#prevention#attention should be paid to quitting smoking and alcohol	 and active physical exercise.	
+Gastrocardiac Syndrome#cause#not clear		
+Gastrocardiac Syndrome#symptom#precordial discomfort or dull pain	 or angina	 chest tightness and shortness of breath
+Gastrocardiac Syndrome#treatment#medication		
+Gastrocardiac Syndrome#infectivity#non-infectious		
+Gastrocardiac Syndrome#alias#roemheld syndrome		
+Gastrocardiac Syndrome#susceptible population#puber		
+Gastric Injury#location#Stomach		
+Gastric Injury#description#various injury factors with certain intensity can cause gastric injury.		
+Gastric Injury#cause#sharp instrument		
+Gastric Injury#symptom#upper abdominal pain	 shock	 nausea
+Gastric Injury#treatment#medical treatment	 surgical treatment	
+Gastric Injury#infectivity#non-infectious		
+Gastroptosis#location#Stomach		
+Gastroptosis#description#the lower edge of the stomach reaches the pelvis	 and the lowest point of the arc of the lesser curvature of the stomach falls below the line of the iliac crest.	
+Gastroptosis#prevention#eat less and eat more meals with balanced nutrition		
+Gastroptosis#cause#congenital	 eating disorder	
+Gastroptosis#symptom#abdominal distension and epigastric discomfort	 anorexia	 belching
+Gastroptosis#treatment#medication		
+Gastroptosis#infectivity#non-infectious		
+Gastric Leiomyosarcoma#location#Stomach		
+Gastric Leiomyosarcoma#description#gastric leiomyosarcoma is a malignant tumor originating from gastric smooth muscle tissue		
+Gastric Leiomyosarcoma#prevention#pay attention to dietary hygiene		
+Gastric Leiomyosarcoma#cause#gastric smooth muscle tissue lesions		
+Gastric Leiomyosarcoma#symptom#repeated bleeding	 abdominal discomfort	 abdominal mass
+Gastric Leiomyosarcoma#treatment#surgical treatment	 drug treatment	
+Gastric Leiomyosarcoma#infectivity#non-infectious		
+Gastric Leiomyosarcoma#susceptible population#middle-aged person		
+Stomach Trouble#location#Stomach		
+Stomach Trouble#description#it is a collective term for many gastric-related diseases.		
+Stomach Trouble#prevention#develop good eating habits	 avoid smoking and alcohol	
+Stomach Trouble#cause#genetic factors	 environmental factors	 diet
+Stomach Trouble#symptom#upper abdominal discomfort or pain	 acid regurgitation	 nausea and vomiting
+Stomach Trouble#treatment#medical treatment	 surgical treatment	 interventional treatment
+Stomach Trouble#infectivity#non-infectious		
+Benign Tumors Of Stomach#location#Stomach		
+Benign Tumors Of Stomach#description#benign tumors of the stomach a class of adenomas or polypoid adenomas originating from mucosal epithelial tissue of the gastric wall.		
+Benign Tumors Of Stomach#prevention#pay attention to dietary hygiene		
+Benign Tumors Of Stomach#cause#genetic factors	 dietary habits	
+Benign Tumors Of Stomach#symptom#ulcer	 gastric bleeding	 long-term fecal occult blood positive
+Benign Tumors Of Stomach#treatment#medical treatment	 surgical treatment	
+Benign Tumors Of Stomach#infectivity#non-infectious		
+Mesenteric Injury Of Small Intestine#location#Mesentery		
+Mesenteric Injury Of Small Intestine#description#the small intestine and its mesentery occupy a large volume	 are widely distributed in the abdominal cavity	 lack strong protection
+Mesenteric Injury Of Small Intestine#cause#trauma		
+Mesenteric Injury Of Small Intestine#symptom#abdominal tenderness	 shock	 internal bleeding
+Mesenteric Injury Of Small Intestine#treatment#surgical treatment	 drug treatment	
+Mesenteric Injury Of Small Intestine#infectivity#non-infectious		
+Gastropathy Of Drugs#location#Stomach		
+Gastropathy Of Drugs#description#drug-induced gastric adverse reactions		
+Gastropathy Of Drugs#prevention#rational use		
+Gastropathy Of Drugs#cause#drug damage to normal gastric tissue		
+Gastropathy Of Drugs#symptom#decreased appetite	 stomachache	
+Gastropathy Of Drugs#treatment#symptomatic treatment		
+Gastropathy Of Drugs#infectivity#non-infectious		
+Drug-Induced Liver Disease#location#Liver		
+Drug-Induced Liver Disease#description#drug-induced liver disease refers to the disease caused by direct or indirect damage to the liver by certain drugs.		
+Drug-Induced Liver Disease#prevention#rational use		
+Drug-Induced Liver Disease#cause#use of a drug		
+Drug-Induced Liver Disease#symptom#fever	 fatigue	 anorexia
+Drug-Induced Liver Disease#treatment#medication		
+Drug-Induced Liver Disease#infectivity#non-infectious		
+Drug-Induced Liver Disease#alias#drug-induced hepatitis		
+Primary Liver Cancer#location#Liver		
+Primary Liver Cancer#description#malignant liver tumors		
+Primary Liver Cancer#prevention#actively prevent and treat viral hepatitis	 and strengthen mold prevention and detoxification of grain	 oil and food
+Primary Liver Cancer#cause#chemical carcinogens such as cirrhosis	 viral hepatitis and aflatoxin	
+Primary Liver Cancer#symptom#abdominal mass	 impaired liver function	 pain in damaged liver area
+Primary Liver Cancer#treatment#surgical treatment	 drug treatment	
+Primary Liver Cancer#infectivity#non-infectious		
+Primary Liver Cancer#susceptible population#40-50 year old male		
+Fatty Liver#location#Liver		
+Fatty Liver#description#fatty liver refers to the excessive accumulation of fat in hepatocytes caused by various reasons	 which is a common pathological change of the liver.	
+Fatty Liver#prevention#reasonable diet	 abstinence from alcohol	 proper exercise
+Fatty Liver#cause#alcohol abuse	 rapid weight loss	 malnutrition
+Fatty Liver#symptom#fatigue is the most common conscious symptom in patients with fatty liver		
+Fatty Liver#treatment#pharmacotherapy	 rehabilitation	
+Fatty Liver#infectivity#non-infectious		
+Fatty Liver#susceptible population#obese		
+Polycystic Kidney#location#Kidney		
+Polycystic Kidney#description#polycystic kidneys are numerous cysts of varying sizes in the renal parenchyma	 which enlarge the whole renal volume.	
+Polycystic Kidney#prevention#maintaining normal renal function		
+Polycystic Kidney#cause#the exact cause is unknown	 mostly due to gene deletion	
+Polycystic Kidney#symptom#kidney enlargement	 renal pain	 hematuria
+Polycystic Kidney#treatment#supportive therapy	 rehabilitation therapy	
+Polycystic Kidney#infectivity#non-infectious		
+Polycystic Kidney#alias#potter (i) syndrome	 perlmann syndrome	 congenital renal cystomatosis
+Bladder Cancer#location#Bladder		
+Bladder Cancer#description#bladder cancer refers to malignant tumors occurring in the bladder mucosa		
+Bladder Cancer#prevention#increase water intake		
+Bladder Cancer#cause#genetic factors	 environmental factors	
+Bladder Cancer#symptom#hematuria	 bladder irritation	 dysuria
+Bladder Cancer#treatment#medical therapy	 supportive therapy	 radiotherapy
+Bladder Cancer#infectivity#non-infectious		
+Bladder Cancer#susceptible population#long-term smokers	 workers exposed to aromatic amine chemicals	
+Ureteral Injury#location#Ureter		
+Ureteral Injury#description#ureteral injury caused by surgery or external profits		
+Ureteral Injury#cause#ureteral injury caused by open surgical injury	 intraluminal instrument injury	 radiation injury
+Ureteral Injury#symptom#hematuria	 urine extravasation	 urine leakage
+Ureteral Injury#treatment#medical treatment	 surgical treatment	
+Ureteral Injury#infectivity#non-infectious		
+Renal Injury#location#Kidney		
+Renal Injury#description#kidney injury is mostly caused by firearm injury	 stabbing injury and local direct or indirect violence.	
+Renal Injury#prevention#pay attention to life safety		
+Renal Injury#cause#kidney area directly hit		
+Renal Injury#symptom#shock	 urinary extravasation	
+Renal Injury#treatment#medical treatment	 rehabilitation treatment	 surgical treatment
+Renal Injury#infectivity#non-infectious		
+Renal Cyst#location#Kidney		
+Renal Cyst#description#cystic lesions in the kidney that are not related to the outside world		
+Renal Cyst#cause#not clear		
+Renal Cyst#symptom#intermittent dull pain in the waist	 abdomen and back	
+Renal Cyst#treatment#medical treatment	 surgical treatment	
+Renal Cyst#infectivity#non-infectious		
+Renal Cyst#susceptible population#older male		
+Renal Cell Carcinoma#location#Kidney		
+Renal Cell Carcinoma#description#malignant tumors originating from the urotubular epithelial system of the renal parenchyma		
+Renal Cell Carcinoma#prevention#quit smoking and drinking habits and establish good living habits		
+Renal Cell Carcinoma#cause#smoking	 obesity	 hypertension
+Renal Cell Carcinoma#symptom#fever	 hypertension	 rapid erythrocyte sedimentation rate
+Renal Cell Carcinoma#treatment#medication		
+Renal Cell Carcinoma#infectivity#non-infectious		
+Renal Cell Carcinoma#alias#renal adenocarcinoma		
+Renal Cell Carcinoma#susceptible population#male aged 40-55		
+Arao#location#Kidney		
+Arao#description#renal artery occlusion refers to complete occlusion of the renal artery lumen due to vessel wall or blood factors in the main or larger branches of the renal artery.		
+Arao#prevention#healthy diet		
+Arao#cause#vascular injury	 blood hypercoagulation	
+Arao#symptom#persistent hypochondriac pain	 local tenderness	 fever
+Arao#treatment#medical treatment	 surgical treatment	
+Arao#infectivity#non-infectious		
+Fibrous Cavernositis Of Penis#location#Penis		
+Fibrous Cavernositis Of Penis#description#fibrous cavernositis of the penis is a fibrotic lesion between the corpus cavernosum and the tunica albuginea	 with a single or several lesion plaques on the corpus cavernosum.	
+Fibrous Cavernositis Of Penis#prevention#actively participate in physical exercise to avoid bad habits		
+Fibrous Cavernositis Of Penis#cause#trauma	 genetic factors	
+Fibrous Cavernositis Of Penis#symptom#pain		
+Fibrous Cavernositis Of Penis#treatment#surgical treatment	 drug treatment	
+Fibrous Cavernositis Of Penis#susceptible population#male		
+Alzheimer Disease#location#Brain		
+Alzheimer Disease#description#alzheimer's disease is dementia caused by chronic progressive central nervous system degeneration		
+Alzheimer Disease#prevention#quit smoking and alcohol	 and do more mental activities	
+Alzheimer Disease#cause#genetic factors	 neurotransmitters	 immune factors
+Alzheimer Disease#symptom#decreased cognitive function	 behavioral disorders	 and ability to live gradually
+Alzheimer Disease#treatment#symptomatic treatment	 drug treatment	 rehabilitation treatment
+Alzheimer Disease#infectivity#non-infectious		
+Alzheimer Disease#alias#alzheimer's disease		
+Alzheimer Disease#susceptible population#people over 70 years old		
+Transient Ischemic Attack#location#Brain		
+Transient Ischemic Attack#description#transient ischemic attack (tia) is a transient disorder of brain function caused by insufficient blood supply in a region.		
+Transient Ischemic Attack#prevention#careful management of blood pressure		
+Transient Ischemic Attack#cause#cerebral atherosclerosis	 cerebral arterial microembolism	
+Transient Ischemic Attack#symptom#transient aphasia	 paralysis	 sensory disturbance
+Transient Ischemic Attack#treatment#medication		
+Transient Ischemic Attack#infectivity#non-infectious		
+Transient Ischemic Attack#susceptible population#middle-aged and elderly people		
+Spinal Cord Vasculopathy#location#Spinal Cord		
+Spinal Cord Vasculopathy#description#spinal cord vasculopathy is a group of disorders of the spinal cord caused by blockage or rupture of blood vessels supplying the spinal cord.		
+Spinal Cord Vasculopathy#prevention#early detection	 early diagnosis	 early treatment
+Spinal Cord Vasculopathy#cause#spinal atherosclerosis		
+Spinal Cord Vasculopathy#symptom#ischemic spinal vasculopathy	 spinal cord hemorrhage	 spinal cord vascular malformation
+Spinal Cord Vasculopathy#treatment#medication		
+Spinal Cord Vasculopathy#infectivity#non-infectious		
+Cerebral Hemorrhage#location#Brain		
+Cerebral Hemorrhage#description#it refers to spontaneous hemorrhage in non-traumatic brain parenchyma with various causes	 most of which are caused by vascular rupture of hypertensive arteriolosclerosis.	
+Cerebral Hemorrhage#prevention#pay attention to the weather	 control blood pressure	 pay attention to diet
+Cerebral Hemorrhage#cause#hypertension with arteriolosclerosis	 microaneurysm or microaneurysm rupture	
+Cerebral Hemorrhage#symptom#coma	 partial loss of speech function	 brain death
+Cerebral Hemorrhage#treatment#medical treatment	 surgical treatment	
+Cerebral Hemorrhage#infectivity#non-infectious		
+Cerebral Hemorrhage#alias#cerebral haemorrhage		
+Cerebral Hemorrhage#susceptible population#middle-aged and elderly people	 hypertensive patients	 cerebrovascular malformations
+Cerebral Thrombosis#location#Brain		
+Cerebral Thrombosis#description#cerebral vascular thickening and lumen stenosis occlusion	 leading to thrombosis	 causing the reduction of regional cerebral blood flow or interruption of blood supply
+Cerebral Thrombosis#prevention#diet adjustment	 smoking and alcohol cessation	 law of life
+Cerebral Thrombosis#cause#atherosclerosis	 loss of intravascular emboli	
+Cerebral Thrombosis#symptom#numbness and weakness of upper and lower limbs	 deviation of mouth and eyes	 hemiplegia
+Cerebral Thrombosis#treatment#rehabilitation therapy	 drug treatment	
+Cerebral Thrombosis#infectivity#non-infectious		
+Cerebral Thrombosis#susceptible population#middle-aged and elderly people over 50 years old	 patients with rheumatic heart disease	 patients with hypertension
+Cerebral Arteriosclerosis#location#Brain		
+Cerebral Arteriosclerosis#description#cerebral arteriosclerosis refers to a series of chronic encephalopathy	 such as neurasthenia syndrome	 caused by multiple cerebral infarctions
+Cerebral Arteriosclerosis#prevention#develop a healthy lifestyle and monitor blood sugar regularly		
+Cerebral Arteriosclerosis#cause#diffuse cerebral arteriosclerosis with reduced cerebral blood flow		
+Cerebral Arteriosclerosis#symptom#cardiocerebral insufficiency	 fatigue	 hypertension
+Cerebral Arteriosclerosis#treatment#medication		
+Cerebral Arteriosclerosis#infectivity#non-infectious		
+Cerebral Arteriosclerosis#susceptible population#male middle-aged and elderly over 40 years old		
+Brain Abscess#location#Brain		
+Brain Abscess#description#a suppurative infection of brain tissue caused by pyogenic bacteria.		
+Brain Abscess#prevention#early diagnosis and early treatment		
+Brain Abscess#cause#infected		
+Brain Abscess#symptom#encephalitis	 tissue softening and necrosis	 increased intracranial pressure
+Brain Abscess#treatment#antimicrobial therapy		
+Brain Abscess#infectivity#non-infectious		
+Cerebral Palsy Syndrome#location#Brain		
+Cerebral Palsy Syndrome#description#a group of persistent central motor and postural developmental disorders	 movement restriction syndrome	
+Cerebral Palsy Syndrome#prevention#guarantee good health during pregnancy		
+Cerebral Palsy Syndrome#cause#parents close relatives married	 family history of mental retardation	 abnormal fetal delivery
+Cerebral Palsy Syndrome#symptom#dyskinesia	 abnormal posture	
+Cerebral Palsy Syndrome#treatment#surgical treatment	 drug treatment	
+Cerebral Palsy Syndrome#infectivity#non-infectious		
+Parkinson'S Disease#location#Nervous System		
+Parkinson'S Disease#description#common neurodegenerative diseases in middle-aged and elderly people		
+Parkinson'S Disease#prevention#regular physical examination	 healthy living environment	 attention to geriatric diseases
+Parkinson'S Disease#cause#genetic factors	 environmental factors	
+Parkinson'S Disease#symptom#resting tremor	 bradykinesia	 myotonia
+Parkinson'S Disease#treatment#pharmacotherapy	 rehabilitation	
+Parkinson'S Disease#infectivity#non-infectious		
+Radiation Injury Of Nervous System#location#Nervous System		
+Radiation Injury Of Nervous System#description#radiation injury of nervous system refers to the tissue adverse reaction caused by ionizing radiation in various parts of nervous system		
+Radiation Injury Of Nervous System#prevention#radiotherapy should be stopped immediately when radiation nerve injury occurs during radiotherapy		
+Radiation Injury Of Nervous System#cause#radiation causes nerve tissue damage and inflammation through direct injury	 vascular destruction	 autoimmunity
+Radiation Injury Of Nervous System#symptom#sleepiness	 touch induction	 paralysis
+Radiation Injury Of Nervous System#treatment#medication		
+Radiation Injury Of Nervous System#infectivity#non-infectious		
+Radiation Injury Of Nervous System#susceptible population#tumor patients receiving head and neck radiotherapy		
+Motor Neuron Disease#location#Nervous System		
+Motor Neuron Disease#description#motor neuron disease is a group of chronic progressive neurodegenerative diseases with unknown etiology and selective invasion of anterior horn cells of the spinal cord	 brainstem motor neurons	 cortical pyramidal cells and pyramidal tracts.
+Motor Neuron Disease#symptom#muscle weakness	 muscle atrophy	 fasciculation
+Motor Neuron Disease#treatment#pharmacotherapy	 rehabilitation	
+Motor Neuron Disease#infectivity#non-infectious		
+Neurilemoma Of Pharynx#location#Pharynx		
+Neurilemoma Of Pharynx#description#pharyngeal schwannoma is a common benign neurogenic tumor of the pharynx	 which occurs in the posterior and lateral pharyngeal walls.	
+Neurilemoma Of Pharynx#prevention#healthy diet		
+Neurilemoma Of Pharynx#cause#genetic factors		
+Neurilemoma Of Pharynx#symptom#pharyngeal foreign body sensation	 pharyngeal discomfort	 dysphagia
+Neurilemoma Of Pharynx#treatment#medical treatment	 surgical treatment	
+Neurilemoma Of Pharynx#infectivity#non-infectious		
+Neurilemoma Of Pharynx#susceptible population#20-50 year old population		
+Simple Goiter#location#Thyroid		
+Simple Goiter#description#simple goiter is a goiter with normal thyroid function and is a compensatory goiter caused by iodine deficiency	 goiter-causing substances or related enzyme deficiency.	
+Simple Goiter#cause#iodine deficiency	 goiter-causing substances	 related enzyme deficiency
+Simple Goiter#symptom#goiter		
+Simple Goiter#treatment#medication		
+Simple Goiter#infectivity#non-infectious		
+Simple Goiter#alias#non-toxic goiter	 endemic goiter	 sporadic goiter
+Osteoporosis#location#Skeleton		
+Osteoporosis#description#a systemic osteopathy characterized by decreased bone mass and micro-structural destruction of bone with increased fragility.		
+Osteoporosis#prevention#rational supplementation of body calcium		
+Osteoporosis#cause#multiple diseases	 menopause	
+Osteoporosis#symptom#low back pain	 shortened length	 hunched back
+Osteoporosis#treatment#supportive treatment	 rehabilitation treatment	
+Osteoporosis#infectivity#non-infectious		
+Osteoporosis#susceptible population#middle-aged and elderly people		
+Thyroid Adenoma#location#Thyroid		
+Thyroid Adenoma#description#thyroid adenomas are benign tumors originating from thyroid follicular cells and are the most common benign tumors of the thyroid.		
+Thyroid Adenoma#prevention#early detection	 early diagnosis	 early treatment
+Thyroid Adenoma#cause#not clear		
+Thyroid Adenoma#symptom#neck mass		
+Thyroid Adenoma#treatment#medication		
+Thyroid Adenoma#infectivity#non-infectious		
+Thyroid Adenoma#susceptible population#15-40 years old is the most common		
+Gigantism And Acromegaly#location#Endocrine System		
+Gigantism And Acromegaly#description#gigantism and acromegaly are caused by excessive secretion of growth hormone by the pituitary gland.		
+Gigantism And Acromegaly#cause#excessive secretion of growth hormone by the pituitary gland		
+Gigantism And Acromegaly#symptom#excessive hypertrophy and abnormal body shape		
+Gigantism And Acromegaly#treatment#medication		
+Gigantism And Acromegaly#infectivity#non-infectious		
+Tracheobronchial Foreign Body#location#Trachea		
+Tracheobronchial Foreign Body#location#Bronchial Tube		
+Tracheobronchial Foreign Body#description#tracheobronchial foreign body is a common clinical emergency	 foreign body can be stored in the laryngopharyngeal cavity	 laryngeal cavity
+Tracheobronchial Foreign Body#prevention#educate children to develop good habits		
+Tracheobronchial Foreign Body#cause#foreign body misenters airway		
+Tracheobronchial Foreign Body#symptom#severe cough	 bluish complexion	 hoarseness
+Tracheobronchial Foreign Body#treatment#surgical treatment		
+Tracheobronchial Foreign Body#infectivity#non-infectious		
+Tracheobronchial Foreign Body#susceptible population#children under 2 years of age		
+Hyperplasia Of Mammary Glands#location#Breast		
+Hyperplasia Of Mammary Glands#description#breast hyperplasia is a common breast disease in women	 is breast tissue hyperplasia and degeneration	 and is closely related to endocrine dysfunction.
+Hyperplasia Of Mammary Glands#prevention#change diet and lead a regular life		
+Hyperplasia Of Mammary Glands#cause#endocrine dysfunction		
+Hyperplasia Of Mammary Glands#symptom#breast pain	 breast mass	
+Hyperplasia Of Mammary Glands#treatment#medication		
+Hyperplasia Of Mammary Glands#infectivity#non-infectious		
+Hyperplasia Of Mammary Glands#susceptible population#women aged 25-45		
+Mammary Cancer#location#Breast		
+Mammary Cancer#description#breast cancer is a malignant tumor that occurs in the epithelial tissue of the breast		
+Mammary Cancer#prevention#early detection	 early diagnosis	 early treatment
+Mammary Cancer#cause#not clear		
+Mammary Cancer#symptom#nipple discharge	 breast mass	
+Mammary Cancer#treatment#surgical treatment	 drug treatment	
+Mammary Cancer#infectivity#non-infectious		
+Pineal Tumors#location#Pineal Gland		
+Pineal Tumors#description#pineal neoplasm refers to the increased secretion of gonadotropins and sex hormones caused by pineal neoplasms.		
+Pineal Tumors#prevention#avoid tobacco and alcohol	 develop good habits	 and live a regular life
+Pineal Tumors#cause#not clear		
+Pineal Tumors#symptom#precocious puberty	 headache	 vomiting
+Pineal Tumors#treatment#medication		
+Pineal Tumors#infectivity#non-infectious		
+Pineal Tumors#alias#pineal germinoma	 precocious puberty syndrome	 precocious megagenital giant syndrome
+Pineal Tumors#susceptible population#boy		
+Surgical Lymphangioma#location#Lymph Vessel		
+Surgical Lymphangioma#description#lymphangioma due to proliferation and dilation of lymphatic vessels is a benign tumor.		
+Surgical Lymphangioma#cause#not clear		
+Surgical Lymphangioma#symptom#lymphatic stasis	 oral blebs	 secondary infection
+Surgical Lymphangioma#treatment#medical treatment	 surgical treatment	
+Surgical Lymphangioma#infectivity#non-infectious		
+Thymoma#location#Thymus		
+Thymoma#description#thymoma is a tumor derived from thymic epithelium.		
+Thymoma#prevention#early detection	 early diagnosis	 early treatment
+Thymoma#cause#not clear		
+Thymoma#symptom#chest pain	 chest tightness	 cough
+Thymoma#treatment#medical treatment	 surgical treatment	
+Thymoma#infectivity#non-infectious		
+Diseases Of Hypothaiamus#location#Brain		
+Diseases Of Hypothaiamus#description#hypothalamic diseases are a group of diseases with impaired hypothalamic function caused by multiple causes	 characterized by endocrine dysfunction and autonomic dysfunction.	
+Diseases Of Hypothaiamus#cause#infection	 tumors	 trauma
+Diseases Of Hypothaiamus#symptom#obesity	 precocious puberty	 fear of cold
+Diseases Of Hypothaiamus#treatment#medication		
+Diseases Of Hypothaiamus#infectivity#non-infectious		
+Insulinoma#location#Islets		
+Insulinoma#description#insulinoma refers to hypoglycemia caused by excessive insulin secretion caused by islet beta cell tumor or beta cell proliferation.		
+Insulinoma#prevention#early detection	 early diagnosis	 early treatment
+Insulinoma#cause#excessive insulin secretion caused by islet beta cell tumor or beta cell proliferation		
+Insulinoma#symptom#pale face	 cold limbs	 cold sweat
+Insulinoma#treatment#medical treatment	 surgical treatment	
+Insulinoma#infectivity#non-infectious		
+Multiple Myeloma#location#Bone Marrow		
+Multiple Myeloma#description#multiple myeloma is a malignant plasma cell disease whose tumor cells originate from plasma cells in the bone marrow		
+Multiple Myeloma#prevention#healthy diet		
+Multiple Myeloma#cause#not clear		
+Multiple Myeloma#symptom#anemia	 bone pain	 renal insufficiency
+Multiple Myeloma#treatment#medical treatment	 radiotherapy	
+Multiple Myeloma#infectivity#non-infectious		
+Multiple Myeloma#susceptible population#older people over 40 years of age	 especially those over 60 years of age	
+Malignant Lymphoma#location#Lymph		
+Malignant Lymphoma#description#a general term for malignant tumors originating from the lymphohematopoietic system.		
+Malignant Lymphoma#prevention#reduce infection and exercise appropriately		
+Malignant Lymphoma#cause#viral infection	 bacterial infection	
+Malignant Lymphoma#symptom#lymphadenopathy	 head and neck swelling	 cough
+Malignant Lymphoma#treatment#medical treatment	 surgical treatment	
+Malignant Lymphoma#infectivity#non-infectious		
+Myelofibrosis#location#Bone Marrow		
+Myelofibrosis#description#a myeloproliferative disorder caused by the proliferation of collagen in bone marrow hematopoietic tissue	 whose fibrous tissue severely affects hematopoietic function.	
+Myelofibrosis#prevention#avoid exposure to chemicals and strengthen exercise appropriately		
+Myelofibrosis#cause#not clear		
+Myelofibrosis#symptom#weakness	 fatigue	 pallor
+Myelofibrosis#treatment#medical treatment	 symptomatic treatment	
+Myelofibrosis#infectivity#non-infectious		
+Myelofibrosis#alias#medullary fibers		
+Myelofibrosis#susceptible population#50-70 years old		
+Hodgkin Lymphoma#location#Lymph		
+Hodgkin Lymphoma#description#a unique type of lymphoma	 one of the most common malignancies in young adults	
+Hodgkin Lymphoma#prevention#increase immunity and pay attention to living environment		
+Hodgkin Lymphoma#cause#not clear		
+Hodgkin Lymphoma#symptom#painless lymphadenopathy	 fever	 night sweats
+Hodgkin Lymphoma#treatment#medication		
+Hodgkin Lymphoma#infectivity#non-infectious		
+Hodgkin Lymphoma#alias#hodgkin's disease		
+Hodgkin Lymphoma#susceptible population#young male		
+Congestive Splenomegaly#location#Spleen		
+Congestive Splenomegaly#description#congestive splenomegaly is an inflammation or thrombosis of the portal hypertension	 portal vein or splenic vein caused by cirrhosis of the liver.	
+Congestive Splenomegaly#prevention#pay attention to rest	 combine work and leisure	
+Congestive Splenomegaly#cause#liver cirrhosis	 inflammation	 etc.
+Congestive Splenomegaly#symptom#splenomegaly	 ascites	 portal hypertension
+Congestive Splenomegaly#treatment#medication		
+Congestive Splenomegaly#infectivity#non-infectious		
+Ankylosing Spondylitis#location#Spine		
+Ankylosing Spondylitis#description#ankylosing spondylitis is a chronic progressive inflammatory disease that mainly invades the spine and can involve sacroiliac and peripheral joints to varying degrees.		
+Ankylosing Spondylitis#prevention#pay attention to the prevention of wind and cold	 and insist on regular exercise	
+Ankylosing Spondylitis#cause#environmental factors	 genetic factors	 immune factors
+Ankylosing Spondylitis#symptom#lumbosacral lesions are particularly prominent in the spine		
+Ankylosing Spondylitis#treatment#medical treatment	 surgical treatment	
+Ankylosing Spondylitis#infectivity#non-infectious		
+Ankylosing Spondylitis#susceptible population#young male		
+Breast Fibroma#location#Breast		
+Breast Fibroma#description#benign tumors consisting of a mixture of glandular epithelium and fibrous tissue occur in young women.		
+Breast Fibroma#prevention#adhere to physical examination and develop good habits		
+Breast Fibroma#cause#ovarian function is exuberant and estrogen level is too high.		
+Breast Fibroma#symptom#painless breast mass		
+Breast Fibroma#treatment#medication		
+Breast Fibroma#infectivity#non-infectious		
+Sternal Fracture#location#Skeleton		
+Sternal Fracture#description#fractures often caused by direct violence or compressive forces acting on the chest		
+Sternal Fracture#prevention#pay attention to daily life safety		
+Sternal Fracture#cause#direct violent impact		
+Sternal Fracture#symptom#swelling of sternum	 tenderness	 injury to respiratory tract
+Sternal Fracture#treatment#medical treatment	 rehabilitation treatment	 surgical treatment
+Sternal Fracture#infectivity#non-infectious		
+Sternal Fracture#susceptible population#traffic accident patients		
+Primary Cardiac Tumors#location#Heart		
+Primary Cardiac Tumors#description#primary cardiac tumors refer to tumors originating in various chambers of the heart and their associated large vessels.		
+Primary Cardiac Tumors#prevention#early detection	 early diagnosis	 early treatment
+Primary Cardiac Tumors#cause#not clear		
+Primary Cardiac Tumors#symptom#palpitations	 shortness of breath	 chest tightness
+Primary Cardiac Tumors#treatment#rehabilitation therapy	 surgical treatment	
+Primary Cardiac Tumors#infectivity#non-infectious		
+Lateral Ventricular Tumors#location#Ventricle		
+Lateral Ventricular Tumors#description#tumors located in the lateral ventricle		
+Lateral Ventricular Tumors#prevention#early detection	 early diagnosis	 early treatment
+Lateral Ventricular Tumors#cause#environmental factors	 genetic factors	 metabolic factors
+Lateral Ventricular Tumors#symptom#coma	 headache	 memory loss
+Lateral Ventricular Tumors#treatment#medical treatment	 surgical treatment	
+Lateral Ventricular Tumors#infectivity#non-infectious		
+Lateral Ventricular Tumors#susceptible population#common in young people		
+Tumors Of The Fourth Ventricle#location#Ventricle		
+Tumors Of The Fourth Ventricle#description#fourth ventricular tumors are diseases in which tumors grow in the fourth ventricle located in the infratentorial posterior fossa	 causing clinical symptoms such as intracranial hypertension.	
+Tumors Of The Fourth Ventricle#prevention#maintain good habits		
+Tumors Of The Fourth Ventricle#cause#genetic factors	 immune factors	 environmental factors
+Tumors Of The Fourth Ventricle#symptom#headache	 nausea	 vomiting
+Tumors Of The Fourth Ventricle#treatment#medical treatment	 surgical treatment	
+Tumors Of The Fourth Ventricle#infectivity#non-infectious		
+Tumors Of The Fourth Ventricle#susceptible population#children and young people		
+Multiple Intracranial Hematoma#location#Brain		
+Multiple Intracranial Hematoma#description#when more than two different parts or types of hematoma are formed simultaneously in the intracranium after craniocerebral injury		
+Multiple Intracranial Hematoma#prevention#pay attention to safety and avoid trauma		
+Multiple Intracranial Hematoma#cause#trauma		
+Multiple Intracranial Hematoma#symptom#coma	 disturbance of consciousness	
+Multiple Intracranial Hematoma#treatment#medical treatment	 surgical treatment	
+Multiple Intracranial Hematoma#infectivity#non-infectious		
+Third Ventricular Tumors#location#Ventricle		
+Third Ventricular Tumors#description#third ventricular tumors refer to tumors that originate in or protrude from the third ventricle into the third ventricle.		
+Third Ventricular Tumors#prevention#healthy diet and exercise		
+Third Ventricular Tumors#cause#environmental factors	 immune factors	
+Third Ventricular Tumors#symptom#headache	 decreased vision	
+Third Ventricular Tumors#treatment#medical treatment	 surgical treatment	
+Third Ventricular Tumors#infectivity#non-infectious		
+Third Ventricular Tumors#susceptible population#adult		
+Cervical Canal Stenosis#location#Skeleton		
+Cervical Canal Stenosis#description#the cervical canal is reduced in all directions	 or in volume.	
+Cervical Canal Stenosis#prevention#pay attention to rest	 neck massage	
+Cervical Canal Stenosis#cause#disc herniation	 tumor	 simple degeneration
+Cervical Canal Stenosis#symptom#numbness	 allergy or pain in limbs	 weakness and dizziness in limbs
+Cervical Canal Stenosis#treatment#surgical treatment	 drug treatment	 rehabilitation treatment
+Cervical Canal Stenosis#infectivity#non-infectious		
+Spina Bifida#location#Spine		
+Spina Bifida#description#a common congenital malformation of spina bifida.		
+Spina Bifida#prevention#pay attention to pregnancy observation		
+Spina Bifida#cause#abnormal embryonic development		
+Spina Bifida#symptom#spinal canal defect	 cyst	
+Spina Bifida#treatment#medical treatment	 rehabilitation treatment	 surgical treatment
+Spina Bifida#infectivity#non-infectious		
+Spina Bifida#alias#spinal canal insufficiency		
+Osteomyelitis Of Skull#location#Brain		
+Osteomyelitis Of Skull#description#non-specific inflammatory response caused by invading skull by pathogens		
+Osteomyelitis Of Skull#prevention#treat wounds in time after brain trauma		
+Osteomyelitis Of Skull#cause#contamination of head wounds		
+Osteomyelitis Of Skull#symptom#local redness	 swelling	 heat and pain
+Osteomyelitis Of Skull#treatment#rehabilitation therapy	 surgical treatment	
+Osteomyelitis Of Skull#infectivity#non-infectious		
+Osteomyelitis Of Skull#susceptible population#teenagers		
+Intracranial Aneurysm#location#Brain		
+Intracranial Aneurysm#description#intracranial aneurysm refers to a kind of aneurysmal protrusion of the artery wall caused by the limited abnormal enlargement of the lumen of the cerebral artery.		
+Intracranial Aneurysm#prevention#healthy diet and exercise		
+Intracranial Aneurysm#cause#hypertension	 atherosclerosis	
+Intracranial Aneurysm#symptom#headache		
+Intracranial Aneurysm#treatment#surgical treatment	 drug treatment	
+Intracranial Aneurysm#infectivity#non-infectious		
+Cerebral Hernia#location#Brain		
+Cerebral Hernia#description#when there is a space-occupying lesion in a sublumen of the cranial cavity	 the pressure of the sublumen is higher than that of the adjacent sublumen	 and the brain tissue shifts from the high pressure area to the low pressure area
+Cerebral Hernia#prevention#early detection and treatment		
+Cerebral Hernia#cause#any large intracranial space-occupying lesion		
+Cerebral Hernia#symptom#severe headache	 vomiting	 drowsiness
+Cerebral Hernia#treatment#medical treatment	 surgical treatment	
+Cerebral Hernia#infectivity#non-infectious		
+Intraventricular Hemorrhage#location#Ventricle		
+Intraventricular Hemorrhage#description#syndrome caused by rupture of intracranial vessels and entry of blood into the ventricular system		
+Intraventricular Hemorrhage#cause#trauma	 spontaneous	
+Intraventricular Hemorrhage#symptom#headache	 dizziness	 nausea
+Intraventricular Hemorrhage#treatment#medical treatment	 surgical treatment	 rehabilitation treatment
+Intraventricular Hemorrhage#infectivity#non-infectious		
+Cerebrospinal Fluid Leakage#location#Brain		
+Cerebrospinal Fluid Leakage#description#the csf cavity communicates with the extracranial space	 leading to leakage of csf	
+Cerebrospinal Fluid Leakage#cause#trauma		
+Cerebrospinal Fluid Leakage#symptom#cracking headache	 nausea	 vomiting
+Cerebrospinal Fluid Leakage#treatment#medical treatment	 surgical treatment	
+Cerebrospinal Fluid Leakage#infectivity#non-infectious		
+Hydrocephalus#location#Brain		
+Hydrocephalus#description#hydrocephalus is caused by excessive volume of cerebrospinal fluid and increased pressure due to obstruction of cerebrospinal fluid production or circulation absorption.		
+Hydrocephalus#cause#multiple etiologies		
+Hydrocephalus#symptom#pain	 nausea	 dyskinesia
+Hydrocephalus#treatment#pharmacotherapy	 rehabilitation	
+Hydrocephalus#infectivity#non-infectious		
+Meningioma#location#Brain		
+Meningioma#description#derivatives originating in meninges and meningeal spaces		
+Meningioma#prevention#avoid harmful substances and improve body immunity		
+Meningioma#cause#environmental factors	 genetic factors	 metabolic factors
+Meningioma#symptom#hydrocephalus	 frontal mass	 increased intracranial pressure
+Meningioma#treatment#medical treatment	 surgical treatment	
+Meningioma#infectivity#non-infectious		
+Apoplexy#location#Brain		
+Apoplexy#description#general term for acute cerebrovascular disease		
+Apoplexy#prevention#control of hypertension		
+Apoplexy#cause#hypertension		
+Apoplexy#symptom#sudden fainting	 crooked mouth	 hemiplegia
+Apoplexy#treatment#rehabilitation therapy	 supportive therapy	
+Apoplexy#infectivity#non-infectious		
+Apoplexy#alias#stroke		
+Gallbladder Cancer#location#Gallbladder		
+Gallbladder Cancer#description#gallbladder cancer is the most common malignant epithelial tumor of the gallbladder		
+Gallbladder Cancer#prevention#early treatment of benign gallbladder disease		
+Gallbladder Cancer#cause#chronic irritation of gallstones		
+Gallbladder Cancer#symptom#pain	 indigestion	 gallstones
+Gallbladder Cancer#treatment#surgical treatment	 drug treatment	
+Gallbladder Cancer#infectivity#non-infectious		
+Gallstone#location#Gallbladder		
+Gallstone#description#gallstones are diseases caused by stones that occur in the gallbladder.		
+Gallstone#prevention#regulation of diet and law of life		
+Gallstone#cause#less exercise and unhealthy diet		
+Gallstone#symptom#biliary colic	 epigastric pain	
+Gallstone#treatment#medical treatment	 surgical treatment	
+Gallstone#infectivity#non-infectious		
+Pancreatic Cancer#location#Pancreas		
+Pancreatic Cancer#description#pancreatic cancer is a common pancreatic tumor	 which is a digestive tract malignant tumor with high degree of malignancy and difficult diagnosis and treatment.	
+Pancreatic Cancer#prevention#quit drinking and smoking		
+Pancreatic Cancer#cause#not clear		
+Pancreatic Cancer#symptom#abdominal pain	 jaundice	 emaciation
+Pancreatic Cancer#treatment#surgical treatment	 drug treatment	
+Pancreatic Cancer#infectivity#non-infectious		
+Pancreatic Cancer#susceptible population#diabetes	 chronic pancreatitis	
+Pancreatic Cyst#location#Pancreas		
+Pancreatic Cyst#description#pancreatic cysts include true cysts	 pseudocysts	 and cystic tumors
+Pancreatic Cyst#prevention#early diagnosis of acute pancreatitis or pancreatic injury		
+Pancreatic Cyst#cause#acute pancreatitis	 pancreatic trauma	
+Pancreatic Cyst#symptom#abdominal pain	 abdominal mass	
+Pancreatic Cyst#treatment#medical treatment	 surgical treatment	
+Pancreatic Cyst#infectivity#non-infectious		
+Pancreatic Abscess#location#Pancreas		
+Pancreatic Abscess#description#pancreatic abscesses are caused by infection of necrotic tissue in acute pancreatitis or secondary to pseudocysts.		
+Pancreatic Abscess#prevention#active treatment of biliary diseases	 smoking cessation and avoidance of overeating	
+Pancreatic Abscess#cause#pancreatic abscess is caused by necrotizing pancreatitis or focal necrosis	 liquefaction	 and secondary infection of peripancreatic fat.
+Pancreatic Abscess#symptom#persistent tachycardia	 rapid breathing	 intestinal paralysis
+Pancreatic Abscess#treatment#medication		
+Pancreatic Abscess#infectivity#non-infectious		
+Prostatic Cancer#location#Prostate		
+Prostatic Cancer#description#prostate cancer is an epithelial malignancy that occurs in the prostate.		
+Prostatic Cancer#prevention#healthy diet	 strengthen exercise	 keep good mood
+Prostatic Cancer#cause#genetic factors	 sexual activity	 dietary habits
+Prostatic Cancer#symptom#hematuria	 frequent and urgent urination	
+Prostatic Cancer#treatment#medical treatment	 surgical treatment	
+Prostatic Cancer#infectivity#non-infectious		
+Prostatic Cancer#susceptible population#family history	 middle-aged and old male	
+Renal Cortical Abscess#location#Kidney		
+Renal Cortical Abscess#description#a hematogenous disease caused by infection of the renal cortex.		
+Renal Cortical Abscess#prevention#active management of staphylococcus aureus infection		
+Renal Cortical Abscess#cause#most are caused by blood-borne spread of staphylococcus aureus from distant infection foci		
+Renal Cortical Abscess#symptom#chills	 fatigue	 weight loss
+Renal Cortical Abscess#treatment#surgical treatment	 drug treatment	
+Renal Cortical Abscess#infectivity#non-infectious		
+Perirenal Abscess#location#Kidney		
+Perirenal Abscess#description#perirenal abscess is mainly caused by intrarenal abscess breaking into perirenal		
+Perirenal Abscess#prevention#early detection	 early diagnosis	 early treatment
+Perirenal Abscess#cause#it is mainly caused by bacteria when an intrarenal abscess breaks into the perirenal space.		
+Perirenal Abscess#symptom#fever	 chills	 low back pain
+Perirenal Abscess#treatment#medical treatment	 surgical treatment	
+Perirenal Abscess#infectivity#non-infectious		
+Renal Pelvic Carcinoma#location#Kidney		
+Renal Pelvic Carcinoma#description#renal pelvic carcinoma is a neoplasm of the renal pelvis or calyceal epithelium.		
+Renal Pelvic Carcinoma#prevention#healthy diet	 strengthen exercise	 avoid smoking and alcohol
+Renal Pelvic Carcinoma#cause#long-term exposure to chemicals	 infection	
+Renal Pelvic Carcinoma#symptom#lymphadenopathy	 lumbar mass	 lower abdominal distension and pain
+Renal Pelvic Carcinoma#treatment#medical treatment	 surgical treatment	
+Renal Pelvic Carcinoma#infectivity#non-infectious		
+Renal Carcinoma#location#Kidney		
+Renal Carcinoma#description#renal cancer is a malignant tumor originating from the urotubular epithelial system of the renal parenchyma.		
+Renal Carcinoma#prevention#eat a healthy diet	 exercise more and stay away from carcinogens	
+Renal Carcinoma#symptom#low back pain	 hematuria	
+Renal Carcinoma#treatment#medical treatment	 surgical treatment	
+Renal Carcinoma#infectivity#non-infectious		
+Renal Carcinoma#alias#renal adenocarcinoma	 renal cell carcinoma	
+Colonic Lipoma#location#Large Intestine		
+Colonic Lipoma#description#lipomas are common non-epithelial benign tumors of the large intestine	 especially in the proximal colon	 especially in the cecum.
+Colonic Lipoma#prevention#light diet	 strengthen exercise	
+Colonic Lipoma#cause#excessive fat accumulation may be an important factor		
+Colonic Lipoma#symptom#abnormal defecation frequency	 lower abdominal mass	 hematochezia
+Colonic Lipoma#treatment#medical treatment	 surgical treatment	
+Colonic Lipoma#infectivity#non-infectious		
+Rectal Cancer#location#Large Intestine		
+Rectal Cancer#description#rectal cancer is a cancer that extends from the dentate line to the rectosigmoid junction.		
+Rectal Cancer#prevention#healthy diet	 strengthen exercise	 avoid smoking and alcohol
+Rectal Cancer#cause#environmental factors	 diet	
+Rectal Cancer#symptom#abdominal distension	 hematochezia	 abdominal pain
+Rectal Cancer#treatment#surgical treatment	 drug treatment	
+Rectal Cancer#infectivity#non-infectious		
+Rectal Cancer#susceptible population#about 45 years old		
+Patella Fracture#location#Joint		
+Patella Fracture#description#patella fracture is a common injury	 characterized by local patellar swelling	 pain
+Patella Fracture#prevention#pay attention to daily life safety		
+Patella Fracture#cause#direct violence	 indirect violence	
+Patella Fracture#symptom#subpatellar pain	 knee pain	 knee swelling and hematocele
+Patella Fracture#treatment#supportive therapy	 rehabilitation therapy	 surgical treatment
+Patella Fracture#infectivity#non-infectious		
+Patellomalacia#location#Joint		
+Patellomalacia#description#it is characterized by degenerative changes of cartilage	 including swelling	 fragmentation
+Patellomalacia#prevention#reduce external pressure on the patella		
+Patellomalacia#cause#patellar dysplasia	 abnormal position	 or related to labor
+Patellomalacia#symptom#knee pain		
+Patellomalacia#treatment#supportive therapy	 drug therapy	 rehabilitation therapy
+Patellomalacia#infectivity#non-infectious		
+Patellomalacia#susceptible population#athletes and sports enthusiasts		
+Fracture Of Nasal Bone#location#Nose		
+Fracture Of Nasal Bone#description#the nose is the most prominent part of the face	 vulnerable to external forces	 nasal bone fracture is a common trauma in otolaryngology
+Fracture Of Nasal Bone#prevention#pay attention to daily life safety		
+Fracture Of Nasal Bone#cause#direct violence		
+Fracture Of Nasal Bone#symptom#external nose deformity	 swelling	 epistaxis
+Fracture Of Nasal Bone#treatment#supportive therapy	 rehabilitation therapy	 drug therapy
+Fracture Of Nasal Bone#infectivity#non-infectious		
+Fracture Of Nasal Bone#susceptible population#sportsmen		
+Fracture#location#Skeleton		
+Fracture#description#fracture refers to complete or partial fracture of the continuity of bone structure.		
+Fracture#prevention#pay attention to daily life safety		
+Fracture#cause#direct and indirect violence	 accumulated strain	
+Fracture#symptom#shock	 internal bleeding	 severe pain
+Fracture#treatment#supportive therapy	 rehabilitation therapy	
+Fracture#infectivity#non-infectious		
+Dislocation Of Joint#location#Joint		
+Dislocation Of Joint#description#the upper and lower bony ends of the joint lost their normal position and were dislocated.		
+Dislocation Of Joint#prevention#pay attention to daily life protection		
+Dislocation Of Joint#symptom#joint dislocation	 pain	 difficulty moving
+Dislocation Of Joint#treatment#supportive therapy	 rehabilitation therapy	
+Dislocation Of Joint#infectivity#non-infectious		
+Dislocation Of Joint#alias#dislocation		
+Calcaneal Fracture#location#Skeleton		
+Calcaneal Fracture#description#calcaneal fracture is characterized by severe pain	 swelling and ecchymosis in the heel	 inability to walk on the heel
+Calcaneal Fracture#prevention#pay attention to daily life safety		
+Calcaneal Fracture#cause#it is mostly caused by vertical impact of heel falling from high altitude.		
+Calcaneal Fracture#symptom#pain in heel	 unable to stand or walk	
+Calcaneal Fracture#treatment#surgical treatment	 supportive treatment	 rehabilitation treatment
+Calcaneal Fracture#infectivity#non-infectious		
+Humeral Shaft Fracture#location#Skeleton		
+Humeral Shaft Fracture#description#humeral shaft fracture is a fracture between 1-2 cm below the surgical neck of the phalanx and humerus and 2 cm above the humeral condyle.		
+Humeral Shaft Fracture#prevention#pay attention to daily life safety		
+Humeral Shaft Fracture#cause#direct	 indirect	 rotational violence
+Humeral Shaft Fracture#symptom#pain	 local swelling	 deformity
+Humeral Shaft Fracture#treatment#supportive therapy	 rehabilitation therapy	 surgical treatment
+Humeral Shaft Fracture#infectivity#non-infectious		
+Pelvic Fracture#location#Skeleton		
+Pelvic Fracture#description#pelvic fracture is a serious trauma caused by direct violent pelvic compression.		
+Pelvic Fracture#prevention#pay attention to daily life safety		
+Pelvic Fracture#cause#direct violence		
+Pelvic Fracture#symptom#local pain	 swelling	 subcutaneous ecchymosis in perineum
+Pelvic Fracture#treatment#supportive therapy	 rehabilitation therapy	 surgical treatment
+Pelvic Fracture#infectivity#non-infectious		
+Jaw Fracture#location#Skeleton		
+Jaw Fracture#description#external force is too large to cause discontinuity of jaw continuity		
+Jaw Fracture#prevention#pay attention to daily life safety		
+Jaw Fracture#cause#trauma		
+Jaw Fracture#symptom#local pain	 swelling	 abnormal movement of broken ends of bones
+Jaw Fracture#treatment#supportive therapy	 rehabilitation therapy	 surgical treatment
+Jaw Fracture#infectivity#non-infectious		
+Syringomyelia#location#Spinal Cord		
+Syringomyelia#description#tubular cavities are formed in the spinal cord due to multiple causes		
+Syringomyelia#prevention#reasonable diet and optimism		
+Syringomyelia#cause#congenital dysplasia or myelopathy		
+Syringomyelia#symptom#segmental sensory disturbance	 limb dyskinesia	
+Syringomyelia#treatment#medical therapy	 supportive treatment	 surgical treatment
+Syringomyelia#infectivity#non-infectious		
+Spinal Cord Tumors#location#Spinal Cord		
+Spinal Cord Tumors#description#it refers to primary and secondary tumors that grow in the spinal cord and tissues close to the spinal cord.		
+Spinal Cord Tumors#prevention#pay attention to rest	 combine work and leisure to prevent infection	
+Spinal Cord Tumors#cause#genetic factors	 trauma	 environmental factors
+Spinal Cord Tumors#symptom#pain and paresthesia	 followed by sensory loss	 muscle weakness and atrophy
+Spinal Cord Tumors#treatment#surgical treatment	 medical treatment	 supportive treatment
+Spinal Cord Tumors#infectivity#non-infectious		
+Spinal Cord Tumors#alias#intraspinal tumors		
+Poliomyelitis#location#Spinal Cord		
+Poliomyelitis#description#poliomyelitis is an acute infectious disease caused by poliovirus that seriously endangers the health of children.		
+Poliomyelitis#prevention#vaccination		
+Poliomyelitis#cause#caused by poliovirus		
+Poliomyelitis#symptom#fever	 general discomfort	 severe limb pain and flaccid paralysis
+Poliomyelitis#treatment#medical therapy	 supportive therapy	
+Poliomyelitis#infectivity#transmission by faeces		
+Poliomyelitis#alias#polio		
+Poliomyelitis#susceptible population#children aged 1-6 years		
+Temporal Bone Fracture#location#Skeleton		
+Temporal Bone Fracture#description#temporal bone fracture is part of skull base fracture		
+Temporal Bone Fracture#prevention#pay attention to daily life safety		
+Temporal Bone Fracture#cause#trauma		
+Temporal Bone Fracture#symptom#otorrhea	 deafness	 nausea
+Temporal Bone Fracture#treatment#supportive therapy	 rehabilitation therapy	 surgical treatment
+Temporal Bone Fracture#infectivity#non-infectious		
+Temporomandibular Dislocation#location#Joint		
+Temporomandibular Dislocation#description#mandibular exfoliation from articular fossa and unable to return to radiography		
+Temporomandibular Dislocation#prevention#avoid trauma		
+Temporomandibular Dislocation#cause#yawning	 singing	 laughing
+Temporomandibular Dislocation#symptom#mandibular protrusion	 unable to close mouth	 dysphagia
+Temporomandibular Dislocation#treatment#rehabilitation therapy	 supportive therapy	 surgical treatment
+Temporomandibular Dislocation#infectivity#non-infectious		
+Temporomandibular Ankylosis#location#Joint		
+Temporomandibular Ankylosis#description#temporomandibular ankylosis refers to long-term difficulty or complete inability to open due to organic lesions.		
+Temporomandibular Ankylosis#cause#trauma	 scar	 inflammation
+Temporomandibular Ankylosis#symptom#dysostia		
+Temporomandibular Ankylosis#treatment#surgical treatment	 rehabilitation treatment	 supportive treatment
+Temporomandibular Ankylosis#infectivity#non-infectious		
+Zygomatic Fracture#location#Skeleton		
+Zygomatic Fracture#description#the zygomatic bone and the zygomatic arch are prominent parts of the face and are vulnerable to impact and fracture.		
+Zygomatic Fracture#prevention#avoid trauma		
+Zygomatic Fracture#cause#external violence		
+Zygomatic Fracture#symptom#eyeball displacement	 zygomaticofacial collapse	
+Zygomatic Fracture#treatment#surgical treatment	 rehabilitation treatment	
+Zygomatic Fracture#infectivity#non-infectious		
+Clavicle Fracture#location#Skeleton		
+Clavicle Fracture#description#the clavicle is subcutaneous	 superficial and prone to fracture when subjected to external forces	
+Clavicle Fracture#prevention#avoid trauma		
+Clavicle Fracture#cause#indirect and direct violence		
+Clavicle Fracture#symptom#swelling	 subcutaneous congestion	 tenderness
+Clavicle Fracture#treatment#surgical treatment	 supportive treatment	 rehabilitation treatment
+Clavicle Fracture#infectivity#non-infectious		
+Orbital Fracture#location#Eye		
+Orbital Fracture#description#orbital fracture is one of the common types of craniomaxillofacial injury	 which can occur alone or in combination with other craniofacial fractures.	
+Orbital Fracture#prevention#prevention of facial trauma		
+Orbital Fracture#cause#boxing injury	 fall injury	 traffic accident injury
+Orbital Fracture#symptom#bleeding	 edema	 subconjunctival hemorrhage
+Orbital Fracture#treatment#supportive therapy	 rehabilitation therapy	 drug therapy
+Orbital Fracture#infectivity#non-infectious		
+Metatarsal And Phalangeal Fractures#location#Skeleton		
+Metatarsal And Phalangeal Fractures#description#metatarsal and phalanx fractures are common fractures	 often caused by heavy objects hitting the dorsum of the foot and rolling	
+Metatarsal And Phalangeal Fractures#prevention#avoid trauma and long journeys.		
+Metatarsal And Phalangeal Fractures#cause#direct violence	 cumulative strain	
+Metatarsal And Phalangeal Fractures#symptom#swollen and tender feet		
+Metatarsal And Phalangeal Fractures#treatment#supportive therapy	 rehabilitation therapy	
+Metatarsal And Phalangeal Fractures#infectivity#non-infectious		
+Nasal Hemangioma#location#Nose		
+Nasal Hemangioma#description#nasal hemangioma is one of the benign tumors of vascular tissue	 and nasal and sinus are the predilection sites.	
+Nasal Hemangioma#prevention#eat a healthy diet	 exercise more and stay away from carcinogens	
+Nasal Hemangioma#cause#inflammation	 trauma	
+Nasal Hemangioma#symptom#recurrent epistaxis	 anemia	 shock
+Nasal Hemangioma#treatment#medical treatment	 surgical treatment	
+Nasal Hemangioma#infectivity#non-infectious		
+Breast Fibroadenoma#location#Heart		
+Breast Fibroadenoma#description#breast fibroadenoma is a benign tumor consisting of a mixture of glandular epithelium and fibrous tissue.		
+Breast Fibroadenoma#prevention#check regularly and keep a good rest and mood		
+Breast Fibroadenoma#cause#oversecretion of estrogen		
+Breast Fibroadenoma#symptom#painless breast mass		
+Breast Fibroadenoma#treatment#medical treatment	 surgical treatment	
+Breast Fibroadenoma#infectivity#non-infectious		
+Breast Fibroadenoma#susceptible population#young women		
+Nasopharyngeal Carcinoma#location#Pharynx		
+Nasopharyngeal Carcinoma#description#nasopharyngeal carcinoma is a malignant tumor that occurs in the top and lateral walls of the nasopharyngeal cavity.		
+Nasopharyngeal Carcinoma#prevention#healthy diet	 avoid tobacco and alcohol	
+Nasopharyngeal Carcinoma#cause#genetic factors	 environmental factors	
+Nasopharyngeal Carcinoma#symptom#nasal congestion	 bloody runny nose	 stuffy ears
+Nasopharyngeal Carcinoma#treatment#medical therapy	 radiotherapy	
+Nasopharyngeal Carcinoma#infectivity#non-infectious		
+Nasopharyngeal Sarcoma#location#Pharynx		
+Nasopharyngeal Sarcoma#description#nasopharyngeal sarcoma is far less common than nasopharyngeal carcinoma		
+Nasopharyngeal Sarcoma#prevention#reduce the contact of carcinogens and work regularity		
+Nasopharyngeal Sarcoma#cause#environmental factors	 chronic infections	 genetic factors
+Nasopharyngeal Sarcoma#symptom#nasal obstruction	 eustachian tube blockage	 bleeding
+Nasopharyngeal Sarcoma#treatment#surgical treatment	 radiotherapy	
+Nasopharyngeal Sarcoma#infectivity#non-infectious		
+Angiofibroma Of Nasopharynx#location#Pharynx		
+Angiofibroma Of Nasopharynx#description#nasopharyngeal fibroangioma is a common benign tumor of the nasopharynx		
+Angiofibroma Of Nasopharynx#prevention#early detection	 early diagnosis	 early treatment
+Angiofibroma Of Nasopharynx#cause#not clear		
+Angiofibroma Of Nasopharynx#symptom#recurrent epistaxis	 progressive nasal obstruction	
+Angiofibroma Of Nasopharynx#treatment#surgical treatment	 drug treatment	
+Angiofibroma Of Nasopharynx#infectivity#non-infectious		
+Cervical Carcinoma#location#Uterus		
+Cervical Carcinoma#description#malignant tumors occurring in the uterine vagina and cervical canal		
+Cervical Carcinoma#prevention#avoid smoking	 alcohol	 drugs and sexual hygiene.
+Cervical Carcinoma#cause#hpv infection	 polygamy	 polygamy
+Cervical Carcinoma#symptom#contact bleeding	 frequent urination	
+Cervical Carcinoma#treatment#surgical treatment	 drug treatment	
+Cervical Carcinoma#infectivity#non-infectious		
+Testicular Neoplasms#location#Testis		
+Testicular Neoplasms#description#testicular tumors are the most common malignancies in young men and are classified into primary and secondary types.		
+Testicular Neoplasms#prevention#healthy diet	 avoid tobacco and alcohol	
+Testicular Neoplasms#cause#cryptorchidism	 genetic factor	
+Testicular Neoplasms#symptom#painless testicular enlargement		
+Testicular Neoplasms#treatment#medical treatment	 surgical treatment	 radiotherapy
+Testicular Neoplasms#infectivity#non-infectious		
+Testicular Neoplasms#susceptible population#young male		
+Laryngeal Cancer#location#Throat		
+Laryngeal Cancer#description#laryngeal cancer is a relatively common malignant tumor	 divided into primary and secondary two	
+Laryngeal Cancer#prevention#avoid smoking	 alcohol and chemicals	
+Laryngeal Cancer#cause#it is not clear	 possibly related to alcohol consumption	 inflammatory stimuli
+Laryngeal Cancer#symptom#pharyngeal discomfort	 hoarseness	 dyspnea
+Laryngeal Cancer#treatment#surgical treatment	 radiotherapy	 drug treatment
+Laryngeal Cancer#infectivity#non-infectious		
+Thyroid Cancer#location#Thyroid		
+Thyroid Cancer#description#thyroid cancer is the most common thyroid malignancy		
+Thyroid Cancer#prevention#avoid radiation exposure and exercise actively		
+Thyroid Cancer#cause#not clear	 possibly genetically related	
+Thyroid Cancer#symptom#intrathyroid mass		
+Thyroid Cancer#treatment#surgical treatment	 radiotherapy	
+Thyroid Cancer#infectivity#non-infectious		
+Oophoroma#location#Ovary		
+Oophoroma#description#ovarian cancer is one of the common tumors of female reproductive organs		
+Oophoroma#prevention#regular physical examination		
+Oophoroma#cause#endocrine-related	 genetic factors	
+Oophoroma#symptom#pain	 irregular menstruation	 emaciation
+Oophoroma#treatment#surgical treatment	 medical treatment	 radiotherapy
+Oophoroma#infectivity#non-infectious		
+Lymphangioma#location#Lymph Vessel		
+Lymphangioma#description#benign hyperplasia of the barbital duct		
+Lymphangioma#prevention#minimize infection and exercise appropriately		
+Lymphangioma#cause#gene factors	 environmental factors	 endocrine factors
+Lymphangioma#symptom#lymph node hyperplasia	 cyst	
+Lymphangioma#treatment#medical therapy	 supportive therapy	
+Lymphangioma#infectivity#non-infectious		
+Tongue Cancer#location#Tongue		
+Tongue Cancer#description#tongue cancer is the most common oral cancer	 with more males than females	
+Tongue Cancer#prevention#pay attention to oral hygiene	 avoid smoking and alcohol	
+Tongue Cancer#cause#it is not clear	 and most believe it is related to environmental factors.	
+Tongue Cancer#symptom#tongue pain	 tongue ulcer	
+Tongue Cancer#treatment#surgical treatment	 radiotherapy	
+Tongue Cancer#infectivity#non-infectious		
+Tongue Cancer#susceptible population#male		
+Small Intestinal Tumor#location#Small Intestine		
+Small Intestinal Tumor#description#tumors arising in the small intestinal tract		
+Small Intestinal Tumor#prevention#early detection	 early diagnosis	 early treatment
+Small Intestinal Tumor#cause#not clear		
+Small Intestinal Tumor#symptom#abdominal pain	 intestinal bleeding	 intestinal obstruction
+Small Intestinal Tumor#treatment#surgical treatment	 drug treatment	
+Small Intestinal Tumor#infectivity#non-infectious		
+Penile Cancer#location#Penis		
+Penile Cancer#description#penile cancer is one of the common malignant tumors of male reproductive system		
+Penile Cancer#prevention#hpv vaccine	 quit smoking	 pay attention to personal hygiene
+Penile Cancer#cause#not clear		
+Penile Cancer#symptom#pain in urination	 enlarged inguinal lymph nodes	
+Penile Cancer#treatment#surgical treatment	 drug treatment	 rehabilitation treatment
+Penile Cancer#infectivity#non-infectious		
+Vaginal Malignant Tumors#location#Vagina		
+Vaginal Malignant Tumors#description#malignant tumors of the vagina are mostly secondary		
+Vaginal Malignant Tumors#prevention#regular physical examination		
+Vaginal Malignant Tumors#cause#hpv infection	 endocrine imbalance	 chronic stimulation
+Vaginal Malignant Tumors#symptom#increased vaginal secretions	 rectal pain	 internal urgency and posterior weight
+Vaginal Malignant Tumors#treatment#medical treatment	 surgical treatment	
+Vaginal Malignant Tumors#infectivity#non-infectious		
+Endometrial Cancer#location#Uterus		
+Endometrial Cancer#description#endometrial cancer is a group of epithelial malignancies arising in the endometrium		
+Endometrial Cancer#prevention#pay attention to the use of estrogen and check regularly		
+Endometrial Cancer#cause#not clear		
+Endometrial Cancer#symptom#bleeding	 vaginal discharge	 pain
+Endometrial Cancer#treatment#surgical treatment	 drug treatment	
+Endometrial Cancer#infectivity#non-infectious		
+Endometrial Cancer#susceptible population#perimenopausal and postmenopausal women		
+Middle Ear Cancer#location#Middle Ear		
+Middle Ear Cancer#description#middle ear cancer is a rare malignant cancer occurring in the middle ear	 mostly primary	
+Middle Ear Cancer#prevention#timely cure otitis media		
+Middle Ear Cancer#cause#otitis media not treated in time		
+Middle Ear Cancer#symptom#bleeding	 earache	 hearing loss
+Middle Ear Cancer#treatment#surgical treatment	 radiotherapy	 drug treatment
+Middle Ear Cancer#infectivity#non-infectious		
+Middle Ear Cancer#susceptible population#40-60 years old	 patients with chronic otitis media	
+Retinopathy Of Prematurity#location#Retina		
+Retinopathy Of Prematurity#description#it is caused by retinal neovascularization and fibrous tissue hyperplasia in premature infants that retinal blood vessels are not fully developed.		
+Retinopathy Of Prematurity#prevention#strictly restrict oxygen use in early childhood		
+Retinopathy Of Prematurity#cause#not clear	 possibly related to preterm birth	 weight
+Retinopathy Of Prematurity#symptom#retinal detachment	 blindness	
+Retinopathy Of Prematurity#treatment#medical treatment	 surgical treatment	
+Retinopathy Of Prematurity#infectivity#non-infectious		
+Retinopathy Of Prematurity#susceptible population#premature infant		
+Bullous Keratopathy#location#Corneal		
+Bullous Keratopathy#description#the formation of blisters in the corneal epithelium or subepithelium	 caused by abnormalities or destruction of corneal endothelial cells.	
+Bullous Keratopathy#prevention#early detection	 early diagnosis	 early treatment
+Bullous Keratopathy#cause#crystal bullous keratopathy	 aphakic bullous keratopathy	 contact bullous keratopathy
+Bullous Keratopathy#symptom#corneal epithelial edema	 conscious pain	 severe irritation
+Bullous Keratopathy#treatment#medical treatment	 surgical treatment	
+Bullous Keratopathy#infectivity#non-infectious		
+Bullous Keratopathy#alias#bullous keratopathy	 vesicular keratitis	 bullous keratitis
+Myopic Eye#location#Eye		
+Myopic Eye#description#in a relaxed state	 parallel light passes through the refractive system of the eye and is focused in front of the retina.	
+Myopic Eye#prevention#use eyes appropriately to relieve eye fatigue		
+Myopic Eye#cause#genetic factors	 development	 close work
+Myopic Eye#symptom#far vision loss	 visual fatigue	
+Myopic Eye#treatment#rehabilitation therapy	 surgical treatment	
+Myopic Eye#infectivity#non-infectious		
+Myopic Eye#alias#myopia		
+Myopic Eye#susceptible population#writers or other close workers		
+Keratopathy#location#Corneal		
+Keratopathy#description#keratopathy		
+Keratopathy#prevention#keep eyes fully rested		
+Keratopathy#cause#trauma and infection		
+Keratopathy#symptom#corneal opacity	 bulbar conjunctival edema	 ciliary congestion
+Keratopathy#treatment#medication		
+Keratopathy#infectivity#non-infectious		
+Keratopathy#alias#keratopathy		
+Stromal Keratitis#location#Corneal		
+Stromal Keratitis#description#stromal keratitis is an inflammation located in the stratum and belongs to non-ulcerative deep keratitis.		
+Stromal Keratitis#prevention#prevent bacterial and viral infections		
+Stromal Keratitis#cause#bacterial infection	 viral infection	
+Stromal Keratitis#symptom#corneal stromal edema	 corneal opacity	 ciliary congestion
+Stromal Keratitis#treatment#medication		
+Stromal Keratitis#infectivity#mother-to-child transmission		
+Glaucoma#location#Eye		
+Glaucoma#description#glaucoma is a group of diseases characterized by atrophy and depression of the optic papilla	 visual field defects	 and decreased vision.
+Glaucoma#prevention#pay attention to eye hygiene	 avoid excessive eye use	
+Glaucoma#cause#genetic factors	 refractive factors	 bad life habits
+Glaucoma#symptom#photophobia	 tearing	 headache
+Glaucoma#treatment#medical therapy	 supportive therapy	 interventional therapy
+Glaucoma#infectivity#non-infectious		
+Retinal Detachment#location#Retina		
+Retinal Detachment#description#retinal detachment is the separation between the retinal neuroepithelial layer and the pigmented epithelial layer.		
+Retinal Detachment#prevention#reduce eye fatigue		
+Retinal Detachment#cause#high myopia	 retinal degeneration	 ocular trauma
+Retinal Detachment#symptom#visually impaired		
+Retinal Detachment#treatment#surgical treatment		
+Retinal Detachment#infectivity#non-infectious		
+Retinal Detachment#alias#retinal detachment	 retinal detachment	 retinal detachment
+Retinal Detachment#susceptible population#adults over 30 years of age		
+Hyperopia#location#Eye		
+Hyperopia#description#hyperopia is a refractive state in which parallel beams of light are imaged behind the retina after adjusting the relaxed refraction of the eye	 producing hyperopia when the refraction of the eye is insufficient or when the axial length of the eye is insufficient.	
+Hyperopia#prevention#regular inspection and vitamin supplementation		
+Hyperopia#cause#insufficient refractive power and axial length		
+Hyperopia#symptom#visual impairment		
+Hyperopia#treatment#rehabilitation therapy	 supportive therapy	
+Hyperopia#infectivity#non-infectious		
+Pharyngeal Vascular Malformation#location#Pharynx		
+Pharyngeal Vascular Malformation#description#congenital pharyngeal vascular malformation is caused by abnormal embryonic development		
+Pharyngeal Vascular Malformation#prevention#no effective preventive measures		
+Pharyngeal Vascular Malformation#cause#abnormal embryonic development		
+Pharyngeal Vascular Malformation#symptom#vascular malformation	 foreign body sensation in pharynx	
+Pharyngeal Vascular Malformation#treatment#medical treatment	 surgical treatment	 rehabilitation treatment
+Pharyngeal Vascular Malformation#infectivity#non-infectious		
+Heart Disease#location#Heart		
+Heart Disease#description#heart disease is the general term for heart disease		
+Heart Disease#prevention#avoid tobacco and alcohol	 develop good habits	 and live a regular life
+Heart Disease#cause#arteriosclerosis	 hypertension	 viral infections
+Heart Disease#symptom#palpitations	 angina	 dyspnea
+Heart Disease#treatment#surgical treatment	 interventional treatment	 drug treatment
+Heart Disease#infectivity#non-infectious		
+Coronavirus Infections#location#Lung		
+Coronavirus Infections#description#coronavirus infection is a respiratory infectious disease caused by coronavirus		
+Coronavirus Infections#prevention#wear masks to reduce personal contact		
+Coronavirus Infections#cause#coronavirus		
+Coronavirus Infections#symptom#fever	 chills	 headache
+Coronavirus Infections#treatment#medication		
+Coronavirus Infections#infectivity#dissemination of pathogenic bacteria		
+Myelomyelitis#location#Spinal Cord		
+Myelomyelitis#description#myelomyelitis refers to acute transverse myelitis caused by autoimmune reaction after various infections		
+Myelomyelitis#prevention#pay attention to keeping warm	 enhance physical fitness and prevent upper respiratory tract infection	
+Myelomyelitis#cause#viral infection	 bacterial infection	 parasitic infection
+Myelomyelitis#symptom#sensory and motor nerve dysfunction		
+Myelomyelitis#treatment#medication		
+Myelomyelitis#infectivity#non-infectious		
+Thyroid Nodules#location#Thyroid		
+Thyroid Nodules#description#thyroid nodule refers to a mass in the thyroid gland	 which can move up and down with the swallowing movement. it is a common clinical condition and can be caused by a variety of etiologies.	
+Thyroid Nodules#prevention#control mood	 reasonable iodine intake	 and enhance system
+Thyroid Nodules#cause#genetic factors	 radiation	 iodine deficiency
+Thyroid Nodules#symptom#thyroid may be enlarged		
+Thyroid Nodules#treatment#medical treatment	 rehabilitation treatment	 surgical treatment
+Thyroid Nodules#infectivity#non-infectious		
+Intestinal Cancer#location#Large Intestine		
+Intestinal Cancer#description#colorectal cancer is a common malignancy	 including colon and rectal cancer	
+Intestinal Cancer#prevention#pay attention to diet and strengthen exercise		
+Intestinal Cancer#cause#chronic inflammation of the large intestine	 colorectal adenoma	 genetic factors
+Intestinal Cancer#symptom#dyspepsia	 fecal occult blood	
+Intestinal Cancer#treatment#surgical treatment	 medical treatment	 radiotherapy
+Intestinal Cancer#infectivity#non-infectious		
+Gastritis#location#Stomach		
+Gastritis#description#gastritis is a general term for gastric mucosal inflammation	 which can be divided into acute and chronic categories.	
+Gastritis#prevention#eat a healthy diet	 avoid tobacco and alcohol	 and maintain good living habits
+Gastritis#cause#chemical factors	 physical factors	 microbial infections
+Gastritis#symptom#upper abdominal pain	 abdominal distension	 belching
+Gastritis#treatment#medication		
+Gastritis#infectivity#non-infectious		
+Gallstones#location#Gallbladder		
+Gallstones#description#cholelithiasis is the most common lesion in the biliary system		
+Gallstones#prevention#healthy diet and exercise		
+Gallstones#cause#obesity	 pregnancy	 high fat diet
+Gallstones#symptom#upper abdominal pain	 nausea	 vomiting
+Gallstones#treatment#surgical treatment	 drug treatment	
+Gallstones#infectivity#non-infectious		
+Pharyngitis#location#Pharynx		
+Pharyngitis#description#pharyngitis is a non-specific inflammation of the pharynx	 which is a general term for inflammation caused by various microorganisms infecting the pharynx.	
+Pharyngitis#prevention#drink more water	 avoid excessive voice	 quit smoking and drinking
+Pharyngitis#symptom#dry and congestive pharynx	 burning	 swelling
+Pharyngitis#treatment#pharmacotherapy	 physiotherapy	
+Pharyngitis#infectivity#non-infectious		
+Uterine Malignancy#location#Uterus		
+Uterine Malignancy#description#uterine malignancy refers to malignant tumors occurring in utero-vaginal and cervical canal		
+Uterine Malignancy#prevention#maintain safety relationship	 pay attention to local cleaning	
+Uterine Malignancy#cause#genetic factors	 bacterial factors	
+Uterine Malignancy#symptom#increased vaginal secretions	 vaginal bleeding	 uterine bleeding
+Uterine Malignancy#treatment#medical treatment	 surgical treatment	
+Uterine Malignancy#infectivity#non-infectious		
+Oral Hemangioma#location#Oral Cavity		
+Oral Hemangioma#description#oral hemangioma is a common benign tumor in oral and maxillofacial region		
+Oral Hemangioma#prevention#light diet	 avoid spicy and irritating food	
+Oral Hemangioma#cause#congenital diseases		
+Oral Hemangioma#symptom#appears as bright red or purple-red plaques		
+Oral Hemangioma#treatment#medical treatment	 surgical treatment	 interventional treatment
+Oral Hemangioma#infectivity#non-infectious		
+Cholangioma#location#Gallbladder		
+Cholangioma#description#tumors of the biliary system	 including gallbladder and bile duct tumors	 can be classified as benign and malignant.
+Cholangioma#prevention#eat a healthy diet and check regularly		
+Cholangioma#cause#biliary calculi	 chronic inflammation of biliary tract	
+Cholangioma#symptom#abdominal discomfort	 weight loss	 loss of appetite
+Cholangioma#treatment#surgical treatment		
+Cholangioma#infectivity#non-infectious		
+Gastrointestinal Cancer#location#Stomach		
+Gastrointestinal Cancer#location#Large Intestine		
+Gastrointestinal Cancer#description#intestinal cancer is the most common and major malignancy	 including gastric cancer	 colon and rectal cancer
+Gastrointestinal Cancer#prevention#healthy diet and exercise		
+Gastrointestinal Cancer#cause#environmental factors	 diet	 helicobacter pylori infection
+Gastrointestinal Cancer#symptom#abdominal pain	 weight loss	 change in stool habits
+Gastrointestinal Cancer#treatment#surgery	 chemotherapy	 targeted therapy
+Gastrointestinal Cancer#infectivity#non-infectious		
+Lipoma Of Breast#location#Breast		
+Lipoma Of Breast#description#breast lipoma is a benign tumor derived from breast adipose tissue.		
+Lipoma Of Breast#prevention#healthy diet	 strengthen exercise	 avoid smoking and alcohol
+Lipoma Of Breast#cause#liver qi disturbance		
+Lipoma Of Breast#symptom#breast pain	 breast mass	 breast swelling pain
+Lipoma Of Breast#treatment#surgical treatment	 medical treatment	 supportive treatment
+Lipoma Of Breast#infectivity#non-infectious		
+Lipoma Of Breast#texture#soft		
+Renal Aneurysm#location#Kidney		
+Renal Aneurysm#description#renal aneurysms are the earliest known renal artery-derived diseases.		
+Renal Aneurysm#prevention#early detection	 early diagnosis	 early treatment
+Renal Aneurysm#cause#structural injury of arterial wall	 blunt injury of waist	
+Renal Aneurysm#symptom#severe pain	 abdominal mass	 vascular murmur
+Renal Aneurysm#treatment#surgical treatment	 rehabilitation treatment	
+Renal Aneurysm#infectivity#non-infectious		
+Ductoma Of Breast#location#Breast		
+Ductoma Of Breast#description#mammary ductal tumors are benign papillomas arising in the ductal epithelium of the breast.		
+Ductoma Of Breast#prevention#check regularly and keep a good rest and mood		
+Ductoma Of Breast#cause#degenerative lesions	 infections	 diet
+Ductoma Of Breast#symptom#nipple discharge	 breast mass	
+Ductoma Of Breast#treatment#surgical treatment	 medical treatment	 supportive treatment
+Ductoma Of Breast#infectivity#non-infectious		
+Testicular Cancer#location#Testis		
+Testicular Cancer#description#testicular cancer refers to the malignant transformation of testicular cell carcinoma into malignant tumor.		
+Testicular Cancer#prevention#healthy diet	 strengthen exercise	 avoid smoking and alcohol
+Testicular Cancer#cause#cryptorchidism	 genetic factor	
+Testicular Cancer#symptom#progressive painless enlargement of testis	 swelling and hardening of testis	
+Testicular Cancer#treatment#surgical treatment	 drug treatment	 rehabilitation treatment
+Testicular Cancer#infectivity#non-infectious		
+Liver Cancer#location#Liver		
+Liver Cancer#description#liver cancer refers to malignant tumors occurring in the liver	 including primary liver cancer and metastatic liver cancer.	
+Liver Cancer#prevention#avoid tobacco and alcohol	 develop good habits	 and live a regular life
+Liver Cancer#cause#genetic factors	 environmental factors	 viral infections
+Liver Cancer#symptom#liver pain	 abdominal distension	 poor appetite
+Liver Cancer#treatment#surgical treatment	 chemotherapy	 radiotherapy
+Liver Cancer#infectivity#non-infectious		
+Liver Cancer#alias#malignant liver tumors		
+Thyroid Microcarcinoma#location#Thyroid		
+Thyroid Microcarcinoma#description#thyroid microcarcinoma refers to thyroid cancer with a diameter of less than 10 mm.		
+Thyroid Microcarcinoma#prevention#early detection	 early diagnosis	 early treatment
+Thyroid Microcarcinoma#cause#iodine deficiency	 radiation	 chronic thyrotropin stimulation
+Thyroid Microcarcinoma#symptom#goiter	 cervical lymph node enlargement	 lymph node degeneration
+Thyroid Microcarcinoma#treatment#surgical treatment	 supportive treatment	
+Thyroid Microcarcinoma#infectivity#non-infectious		
+Gastric Perforation#location#Stomach		
+Gastric Perforation#description#gastric perforation is one of the most serious complications in patients with ulcer disease		
+Gastric Perforation#prevention#gastroscopy	 regular diet	
+Gastric Perforation#cause#peptic ulcer		
+Gastric Perforation#symptom#abdominal pain	 shock	 nausea
+Gastric Perforation#treatment#surgical treatment	 medical treatment	 supportive treatment
+Gastric Perforation#infectivity#non-infectious		
+Splenomegaly#location#Spleen		
+Splenomegaly#description#enlarged spleen volume is the main manifestation of splenic disease		
+Splenomegaly#prevention#develop good habits	 physical examination	
+Splenomegaly#cause#viral infection	 bacterial infection	 parasitic infection
+Splenomegaly#symptom#enlarged spleen		
+Splenomegaly#treatment#pharmacotherapy	 rehabilitation	
+Splenomegaly#infectivity#non-infectious		
+Thymic Cyst#location#Thymus		
+Thymic Cyst#description#thymic cyst is a type of intrathoracic mediastinal cyst		
+Thymic Cyst#prevention#early detection	 early diagnosis	 early treatment
+Thymic Cyst#cause#congenital		
+Thymic Cyst#symptom#chest pain	 shortness of breath	
+Thymic Cyst#treatment#surgical treatment	 drug treatment	
+Thymic Cyst#infectivity#non-infectious		
+Renal Abscess#location#Kidney		
+Renal Abscess#description#renal abscess refers to the destruction of renal parenchyma due to inflammation and suppuration.		
+Renal Abscess#prevention#early detection	 early diagnosis	 early treatment
+Renal Abscess#cause#acute pyelonephritis continues to develop		
+Renal Abscess#symptom#fever	 hematuria	 low back pain with renal percussion pain
+Renal Abscess#treatment#medical therapy	 supportive therapy	
+Renal Abscess#infectivity#non-infectious		
+Breast Cyst#location#Breast		
+Breast Cyst#description#breast cysts are divided into simple cysts and galactocele		
+Breast Cyst#prevention#keep regular life and pay attention to diet		
+Breast Cyst#cause#bacterial invasion	 endocrine disorders	
+Breast Cyst#symptom#intramammary mass		
+Breast Cyst#treatment#medical treatment	 surgical treatment	
+Breast Cyst#infectivity#non-infectious		
+Breast Cyst#alias#galactostasis		
+Gastric Malignant Lymphoma#location#Lymph		
+Gastric Malignant Lymphoma#description#gastric malignant lymphoma is divided into primary and secondary		
+Gastric Malignant Lymphoma#cause#not clear		
+Gastric Malignant Lymphoma#symptom#stomach pain	 emaciation	 indigestion
+Gastric Malignant Lymphoma#treatment#surgical treatment	 drug treatment	
+Gastric Malignant Lymphoma#infectivity#non-infectious		
+Pulmonary Fibrosis#location#Lung		
+Pulmonary Fibrosis#description#abnormal repair of normal alveolar tissue after damage results in structural abnormalities		
+Pulmonary Fibrosis#prevention#quit smoking	 strengthen physical exercise	 physical examination
+Pulmonary Fibrosis#cause#long-term smoking	 environmental factors	 chronic bronchitis and other lung diseases
+Pulmonary Fibrosis#symptom#chest tightness	 dyspnea	
+Pulmonary Fibrosis#treatment#medical treatment	 surgical treatment	
+Pulmonary Fibrosis#infectivity#non-infectious		
+Brain Edema#location#Brain		
+Brain Edema#description#brain edema refers to the pathological phenomenon of brain volume increase caused by the increase of water in brain	 and is the response of brain tissue to various pathogenic factors.	
+Brain Edema#cause#craniocerebral injury	 intracranial space-occupying lesions	 intracranial inflammation
+Brain Edema#symptom#encephalomalacia	 local edema	 confusion
+Brain Edema#prevention#treat brain diseases promptly	 keep healthy	
+Brain Edema#treatment#pharmacotherapy	 rehabilitation	
+Brain Edema#infectivity#non-infectious		
+Renal Neoplasms#location#Kidney		
+Renal Neoplasms#description#renal tumors are one of the more common tumors of the urinary system.		
+Renal Neoplasms#prevention#eat a healthy diet and maintain good living habits		
+Renal Neoplasms#cause#not clear		
+Renal Neoplasms#symptom#fever	 anemia	 hypertension
+Renal Neoplasms#treatment#medical treatment	 rehabilitation treatment	 surgical treatment
+Renal Neoplasms#infectivity#non-infectious		
+Testicular Cyst#location#Testis		
+Testicular Cyst#description#it often occurs in the head of the testis or epididymis and contains a large number of sperm in the cyst.		
+Testicular Cyst#prevention#attention to rest	 reasonable diet	 happy mood
+Testicular Cyst#cause#inflammation	 injury	
+Testicular Cyst#symptom#scrotal swelling pain	 scrotal swelling	 testicular droop
+Testicular Cyst#treatment#medical treatment	 surgical treatment	 rehabilitation treatment
+Testicular Cyst#infectivity#non-infectious		
+Bone Cancer#location#Skeleton		
+Bone Cancer#description#bone cancer is a malignant tumor of bone		
+Bone Cancer#prevention#eat a healthy diet	 maintain good living habits and avoid radiation	
+Bone Cancer#cause#overgrowth	 chronic inflammation	 genetic factors
+Bone Cancer#symptom#lump	 pain	
+Bone Cancer#treatment#surgical treatment	 radiotherapy	 drug treatment
+Bone Cancer#infectivity#non-infectious		
+Bone Cancer#susceptible population#all populations		
+Bone Cancer#alias#malignant bone tumors		
+Small Intestinal Hemangioma#location#Small Intestine		
+Small Intestinal Hemangioma#description#small intestinal hemangioma is a hamartoma	 mostly derived from submucosal vascular plexus	 but also from subserosal blood vessels
+Small Intestinal Hemangioma#prevention#no smoking	 no alcohol	 light diet
+Small Intestinal Hemangioma#cause#not clear		
+Small Intestinal Hemangioma#symptom#gastrointestinal bleeding	 abdominal pain	 intestinal obstruction
+Small Intestinal Hemangioma#treatment#surgical treatment		
+Small Intestinal Hemangioma#infectivity#non-infectious		
+Small Intestinal Lipoma#location#Small Intestine		
+Small Intestinal Lipoma#description#small intestinal lipomas are benign tumors derived from small intestinal submucosal or subserosal adipose tissue		
+Small Intestinal Lipoma#prevention#no smoking	 no alcohol	 light diet
+Small Intestinal Lipoma#cause#poor diet	 environmental factors	
+Small Intestinal Lipoma#symptom#abdominal pain	 gastrointestinal bleeding	 chronic intestinal obstruction
+Small Intestinal Lipoma#treatment#surgical treatment	 medical treatment	 supportive treatment
+Small Intestinal Lipoma#infectivity#non-infectious		
+Memory Impairment#location#Brain		
+Memory Impairment#description#memory impairment refers to a state in which an individual is unable to remember or recall information.		
+Memory Impairment#prevention#adequate sleep	 adequate rest	 reasonable use
+Memory Impairment#cause#alzheimer's disease	 vascular dementia	 lewy body dementia and other diseases
+Memory Impairment#symptom#memory weakening	 forgetting	 distortions
+Memory Impairment#treatment#psychotherapy	 drug therapy	
+Memory Impairment#infectivity#non-infectious		
+Memory Impairment#susceptible population#aged		
+Cerebellar Atrophy#location#Cerebellum		
+Cerebellar Atrophy#description#is a familial dominant neurological disorder		
+Cerebellar Atrophy#prevention#early detection	 early diagnosis	 early treatment
+Cerebellar Atrophy#cause#genetic factors	 ischemia and hypoxia	 drug poisoning
+Cerebellar Atrophy#symptom#gait instability	 ataxia	 slurred speech
+Cerebellar Atrophy#treatment#surgical treatment	 rehabilitation treatment	
+Cerebellar Atrophy#infectivity#non-infectious		
+Breast Mass#location#Breast		
+Breast Mass#description#breast mass is a common sign of breast disease		
+Breast Mass#prevention#keep a good mood	 keep regular sleep	 and eat reasonably
+Breast Mass#cause#endocrine disorders	 mood	 induced abortion
+Breast Mass#symptom#breast swelling	 pain	 unequal size
+Breast Mass#treatment#medical therapy	 supportive therapy	
+Breast Mass#infectivity#non-infectious		
+Lipoma Of Large Intestine#location#Large Intestine		
+Lipoma Of Large Intestine#description#it is a benign tumor of large intestine.		
+Lipoma Of Large Intestine#prevention#physical examination		
+Lipoma Of Large Intestine#cause#it is not clear	 possibly related to inflammation and stimulation	
+Lipoma Of Large Intestine#symptom#hematochezia	 abdominal pain	 intussusception
+Lipoma Of Large Intestine#treatment#surgical treatment	 medical treatment	 supportive treatment
+Lipoma Of Large Intestine#infectivity#non-infectious		
+Tumor Of Biliary Tract#location#Gallbladder		
+Tumor Of Biliary Tract#description#biliary tract tumors mainly refer to tumors originating from the biliary system	 including gallbladder tumors and bile duct tumors.	
+Tumor Of Biliary Tract#prevention#regular inspection		
+Tumor Of Biliary Tract#cause#not clear	 possibly related to stones	
+Tumor Of Biliary Tract#symptom#dyspepsia	 greasy	 belching
+Tumor Of Biliary Tract#treatment#surgical treatment	 supportive treatment	
+Tumor Of Biliary Tract#infectivity#non-infectious		
+Comminuted Fracture#location#Skeleton		
+Comminuted Fracture#description#a comminuted fracture is a complete fracture in which the phalanges break into more than three pieces	 also known as a t or y fracture.	
+Comminuted Fracture#prevention#pay attention to avoid injury		
+Comminuted Fracture#cause#direct and indirect violence		
+Comminuted Fracture#symptom#pain	 perifracture hematoma	 ecchymosis
+Comminuted Fracture#treatment#surgical treatment	 supportive treatment	 rehabilitation treatment
+Comminuted Fracture#infectivity#non-infectious		
+Biliary Tract Cancer#location#Gallbladder		
+Biliary Tract Cancer#description#extrahepatic biliary malignancies originating from the confluence of the left and right hepatic ducts to the lower end of the common bile duct		
+Biliary Tract Cancer#prevention#early detection	 early diagnosis	 early treatment
+Biliary Tract Cancer#cause#stones	 mood	 diet
+Biliary Tract Cancer#symptom#abdominal mass	 lymphadenopathy	 weight loss
+Biliary Tract Cancer#treatment#surgical treatment	 supportive treatment	
+Biliary Tract Cancer#infectivity#non-infectious		
+Nasal Neoplasms#location#Nose		
+Nasal Neoplasms#description#nasal tumors are tumors of the nasal cavity and sinuses.		
+Nasal Neoplasms#prevention#diet should be light	 avoid smoking and alcohol	 away from irritating odor
+Nasal Neoplasms#cause#not clear		
+Nasal Neoplasms#symptom#nasal obstruction	 epistaxis	
+Nasal Neoplasms#treatment#pharmacotherapy	 rehabilitation	
+Nasal Neoplasms#infectivity#non-infectious		
+Liver Rupture#location#Liver		
+Liver Rupture#description#liver rupture is a common disease in abdominal trauma		
+Liver Rupture#prevention#pay attention to life safety		
+Liver Rupture#cause#external force or trauma to the liver itself		
+Liver Rupture#symptom#abdominal tenderness	 decreased blood pressure	 abdominal muscle tension
+Liver Rupture#treatment#medical treatment	 surgical treatment	 supportive treatment
+Liver Rupture#infectivity#non-infectious		
+Tonsil Cancer#location#Tonsils		
+Tonsil Cancer#description#malignant tumors originating in the tonsillar region		
+Tonsil Cancer#prevention#do not smoke or drink		
+Tonsil Cancer#cause#heavy drinking	 long-term smoking	
+Tonsil Cancer#symptom#tonsil hypertrophy	 foreign body sensation in pharynx	 dysphagia
+Tonsil Cancer#treatment#radiotherapy	 surgery	 medication
+Tonsil Cancer#infectivity#non-infectious		
+Lymphocarcinoma#location#Lymph		
+Lymphocarcinoma#description#malignant tumors originating from lymph nodes or other lymphoid tissues		
+Lymphocarcinoma#prevention#maintain optimistic mood	 strengthen physical exercise and regularity of life	
+Lymphocarcinoma#cause#viral infection	 low immunity	
+Lymphocarcinoma#symptom#fever of unknown origin	 splenomegaly	 lymphadenopathy
+Lymphocarcinoma#treatment#medical treatment	 surgical treatment	 supportive treatment
+Lymphocarcinoma#infectivity#non-infectious		
+Temporal Lobe Epilepsy#location#Brain		
+Temporal Lobe Epilepsy#description#the uncinate gyrus seizure	 which is mainly caused by the epileptic focus in the anterior and medial basal part of the temporal lobe	 is called temporal lobe epilepsy and is the representative of localized epilepsy.
+Temporal Lobe Epilepsy#cause#many factors in perinatal period	 diseases in childbirth	
+Temporal Lobe Epilepsy#symptom#language disorders	 memory disorders	 recognition disorders
+Temporal Lobe Epilepsy#treatment#surgical treatment	 drug treatment	 rehabilitation treatment
+Temporal Lobe Epilepsy#infectivity#non-infectious		
+Fissure#location#Skeleton		
+Fissure#description#it is one of many fractures with mild symptoms	 usually without dislocation.	
+Fissure#prevention#pay attention to avoid injury		
+Fissure#cause#direct violence	 indirect violence	 accumulated strain
+Fissure#symptom#pain	 swelling	
+Fissure#treatment#rehabilitation therapy	 surgical treatment	
+Fissure#infectivity#non-infectious		
+Fissure#alias#crack fracture		
+Laryngeal Fibroma#location#Throat		
+Laryngeal Fibroma#description#laryngeal fibroma is a benign tumor derived from connective tissue and consists of fibrocytes and fibrous bundles.	
+Laryngeal Fibroma#cause#environmental factors	 smoking and alcohol abuse	
+Laryngeal Fibroma#symptom#blocked throat	 hoarse voice	 dyspnea
+Laryngeal Fibroma#treatment#surgical treatment	 medical treatment	 supportive treatment
+Laryngeal Fibroma#infectivity#non-infectious		
+Pulmonary Arteriovenous Aneurysm#location#Lung		
+Pulmonary Arteriovenous Aneurysm#description#pulmonary arteriovenous aneurysms are congenital pulmonary vascular malformations		
+Pulmonary Arteriovenous Aneurysm#cause#congenital factor		
+Pulmonary Arteriovenous Aneurysm#symptom#shortness of breath and cyanosis after activity		
+Pulmonary Arteriovenous Aneurysm#treatment#medical treatment	 surgical treatment	 supportive treatment
+Pulmonary Arteriovenous Aneurysm#infectivity#non-infectious		
+Pulmonary Arteriovenous Aneurysm#susceptible population#youth		
+Alcoholic Cirrhosis#location#Liver		
+Alcoholic Cirrhosis#description#alcoholic cirrhosis is a cirrhosis caused by prolonged heavy drinking.		
+Alcoholic Cirrhosis#prevention#moderate alcohol consumption		
+Alcoholic Cirrhosis#cause#long-term excessive drinking		
+Alcoholic Cirrhosis#symptom#mild fatigue	 abdominal distension	 emaciation
+Alcoholic Cirrhosis#treatment#alcohol withdrawal	 drug treatment	
+Alcoholic Cirrhosis#infectivity#non-infectious		
+Epilepsy#location#Brain		
+Epilepsy#description#a chronic disease in which sudden abnormal discharges of brain neurons lead to transient brain dysfunction.		
+Epilepsy#prevention#avoid birth injury and brain trauma		
+Epilepsy#cause#brain injury	 viral infection	 radiation exposure
+Epilepsy#symptom#limb twitching		
+Epilepsy#treatment#medical treatment	 surgical treatment	 rehabilitation treatment
+Epilepsy#infectivity#non-infectious		
+Epilepsy#alias#epilepsy		
+Spinal Fracture#location#Spine		
+Spinal Fracture#description#spinal fracture is a common trauma in orthopedics		
+Spinal Fracture#prevention#pay attention to safety and avoid trauma as far as possible		
+Spinal Fracture#cause#direct or indirect external forces		
+Spinal Fracture#symptom#localized swelling	 tenderness	 dyskinesia of the spine
+Spinal Fracture#treatment#surgical treatment	 rehabilitation treatment	
+Spinal Fracture#infectivity#non-infectious		
+Lymphoma#location#Lymph		
+Lymphoma#description#lymphoma is a malignant tumor originating from lymph nodes or lymphoid tissues	 and its clinical manifestation is painless and progressive lymphadenopathy.	
+Lymphoma#prevention#physical examination		
+Lymphoma#cause#the cause is unclear and may be related to viral factors		
+Lymphoma#symptom#painless lymphadenopathy with fever and night sweats		
+Lymphoma#treatment#medical treatment	 surgical treatment	 radiotherapy
+Lymphoma#infectivity#non-infectious		
+Mouth Cancer#location#Oral Cavity		
+Mouth Cancer#description#oral cancer refers to malignant tumors occurring in the oral cavity		
+Mouth Cancer#prevention#pay attention to diet	 avoid smoking and alcohol	 and ensure oral health
+Mouth Cancer#cause#long-term smoking	 long-term drinking	 malnutrition
+Mouth Cancer#symptom#numbness	 burning or dryness in the mouth	 lumps
+Mouth Cancer#treatment#surgical treatment	 radiotherapy	 drug treatment
+Mouth Cancer#infectivity#non-infectious		
+Hepatic Aneurysm#location#Liver		
+Hepatic Aneurysm#description#hepatic aneurysm is a rare vascular lesion.		
+Hepatic Aneurysm#prevention#early detection	 early diagnosis	 early treatment
+Hepatic Aneurysm#cause#trauma	 biliary tract infection	 polyarteritis nodosa
+Hepatic Aneurysm#symptom#blunt pain in right upper abdomen		
+Hepatic Aneurysm#treatment#medical treatment	 supportive treatment	 surgical treatment
+Hepatic Aneurysm#infectivity#non-infectious		
+Liver Tumors#location#Liver		
+Liver Tumors#description#liver tumors are neoplastic lesions that occur in the liver.		
+Liver Tumors#prevention#early detection	 early diagnosis	 early treatment
+Liver Tumors#cause#liver cirrhosis	 viral hepatitis	 chemical carcinogens
+Liver Tumors#symptom#decreased appetite	 nausea	 hepatomegaly
+Liver Tumors#treatment#surgical treatment	 chemotherapy	 radiotherapy
+Liver Tumors#infectivity#non-infectious		
+Invasive Carcinoma Of Cervix#location#Uterus		
+Invasive Carcinoma Of Cervix#description#cervical invasive carcinoma is a malignant tumor arising from the cervical epithelium		
+Invasive Carcinoma Of Cervix#prevention#early detection	 early diagnosis	 early treatment
+Invasive Carcinoma Of Cervix#cause#early childbearing	 prolificacy	 premature and frequent sexual life
+Invasive Carcinoma Of Cervix#symptom#increased vaginal discharge	 vaginal bleeding	 lower abdomen and lumbosacral pain
+Invasive Carcinoma Of Cervix#treatment#medical treatment	 surgical treatment	 radiotherapy
+Invasive Carcinoma Of Cervix#infectivity#non-infectious		
+Adrenal Tumors#location#Adrenal Gland		
+Adrenal Tumors#description#the classification of adrenal tumors can be divided into benign tumors and malignant tumors according to their nature		
+Adrenal Tumors#cause#not clear		
+Adrenal Tumors#symptom#limb weakness	 low back pain	 dizziness
+Adrenal Tumors#treatment#medical treatment	 surgical treatment	
+Adrenal Tumors#infectivity#non-infectious		
+Bladder Squamous Cell Carcinoma#location#Bladder		
+Bladder Squamous Cell Carcinoma#description#epithelial malignant tumors originating from bladder mucosa		
+Bladder Squamous Cell Carcinoma#prevention#regular physical examination	 early detection	 early treatment
+Bladder Squamous Cell Carcinoma#cause#chronic urinary tract infection	 intravesical calculi	
+Bladder Squamous Cell Carcinoma#symptom#bladder irritation sign	 hematuria	 dysuria
+Bladder Squamous Cell Carcinoma#treatment#surgical treatment	 medical treatment	 supportive treatment
+Bladder Squamous Cell Carcinoma#infectivity#non-infectious		
+Ankle Fracture#location#Joint		
+Ankle Fracture#description#the ankle joint consists of the lower end of the tibia and fibula and the talus.		
+Ankle Fracture#prevention#pay attention to daily life safety		
+Ankle Fracture#cause#ankle sprains caused by indirect violence		
+Ankle Fracture#symptom#ankle pain	 swelling	 cyanosis
+Ankle Fracture#treatment#supportive therapy	 rehabilitation therapy	
+Ankle Fracture#infectivity#non-infectious		
+Renal Atrophy#location#Kidney		
+Renal Atrophy#description#renal atrophy refers to the loss of nephron or insufficient blood supply to the kidney caused by various reasons	 resulting in reduced kidney volume and reduced physiological function.	
+Renal Atrophy#prevention#limit protein and fat intake and eat a healthy diet		
+Renal Atrophy#cause#congenital	 renal parenchymal disease	 secondary kidney disease
+Renal Atrophy#symptom#low back pain	 nausea	 vomiting
+Renal Atrophy#treatment#medication		
+Renal Atrophy#infectivity#non-infectious		
+Brain Cancer#location#Brain		
+Brain Cancer#description#brain malignant tumors		
+Brain Cancer#prevention#eat a healthy diet and maintain good living habits		
+Brain Cancer#cause#genetic factors	 radiation	 chemicals
+Brain Cancer#symptom#headache	 vomiting	
+Brain Cancer#treatment#surgical treatment	 medical treatment	 physiotherapy
+Brain Cancer#infectivity#non-infectious		
+Seminal Vesicle Malignancy#location#Seminal Vesicle		
+Seminal Vesicle Malignancy#description#malignant tumors occurring in the seminal vesicles		
+Seminal Vesicle Malignancy#prevention#early detection	 early diagnosis	 early treatment
+Seminal Vesicle Malignancy#cause#not clear		
+Seminal Vesicle Malignancy#symptom#hemospermia	 intermittent hematuria	 frequency of urination
+Seminal Vesicle Malignancy#treatment#pharmacotherapy	 rehabilitation	
+Seminal Vesicle Malignancy#infectivity#non-infectious		
+Brain Tumour#location#Brain		
+Brain Tumour#description#brain tumor is a tumor that grows in a certain part of the brain		
+Brain Tumour#prevention#pay attention to dietary hygiene	 strengthen physical fitness and avoid brain trauma	
+Brain Tumour#cause#brain embryonic tissue dysplasia	 genetic factors	 chemical factors
+Brain Tumour#symptom#visual impairment	 vomiting	 tinnitus
+Brain Tumour#treatment#medical treatment	 supportive treatment	 surgical treatment
+Brain Tumour#infectivity#non-infectious		
+Nasal Carcinoma#location#Nasal Cavity		
+Nasal Carcinoma#description#nasal cancer is a malignant tumor originating in the nasal cavity.		
+Nasal Carcinoma#prevention#early diagnosis	 early treatment	
+Nasal Carcinoma#cause#genetic factors	 viral infections	 environmental factors
+Nasal Carcinoma#symptom#epistaxis	 nasal obstruction	 nasal mass
+Nasal Carcinoma#treatment#medical therapy	 supportive therapy	 surgical treatment
+Nasal Carcinoma#infectivity#non-infectious		
+Nasal Cyst#location#Nasal Cavity		
+Nasal Cyst#description#nasal cyst is a common rhinopathy	 which is a general term for various cysts occurring in various parts of the nose.	
+Nasal Cyst#prevention#early detection	 early diagnosis	 early treatment
+Nasal Cyst#cause#congenital dysplasia	 secretion accumulation in sinuses	
+Nasal Cyst#symptom#red nose	 eye pain	 eye displacement
+Nasal Cyst#treatment#surgical treatment		
+Nasal Cyst#infectivity#non-infectious		
+Thyroid Neoplasms#location#Thyroid		
+Thyroid Neoplasms#description#thyroid tumors are common tumors of the head and neck		
+Thyroid Neoplasms#prevention#eat a healthy diet	 avoid tobacco and alcohol	 and maintain good living habits
+Thyroid Neoplasms#cause#genetic factors	 environmental factors	 iodine deficiency
+Thyroid Neoplasms#symptom#neck mass	 hoarse voice	 dysphagia
+Thyroid Neoplasms#treatment#medical treatment	 supportive treatment	 surgical treatment
+Thyroid Neoplasms#infectivity#non-infectious		
+Pulmonary Nodules#location#Lung		
+Pulmonary Nodules#prevention#Quit smoking	 enhance physical fitness	
+Pulmonary Nodules#description#focal	 quasi-circular	 hyperdense parenchymal or sub-parenchymal pulmonary shadows with an intrapulmonary diameter of <3 cm on imaging
+Pulmonary Nodules#cause#pulmonary infection	 chronic irritation	
+Pulmonary Nodules#symptom#chest tightness	 fatigue	
+Pulmonary Nodules#treatment#medical treatment	 surgical treatment	
+Pulmonary Nodules#infectivity#non-infectious		
+Uterine Cyst#location#Uterus		
+Uterine Cyst#description#uterine cyst is a common gynecological disease		
+Uterine Cyst#prevention#early detection	 early diagnosis	 early treatment
+Uterine Cyst#cause#environmental factors	 mood	 metabolic factors
+Uterine Cyst#symptom#lower abdominal mass	 increased vaginal secretions	 burning sensation
+Uterine Cyst#treatment#medication		
+Uterine Cyst#infectivity#non-infectious		
+Uterine Cyst#alias#cervical cyst		
+Brain Cyst#location#Brain		
+Brain Cyst#description#abnormal cystic mass in brain		
+Brain Cyst#cause#not clear		
+Brain Cyst#symptom#headache	 nausea and vomiting	 hydrocephalus
+Brain Cyst#treatment#surgical treatment	 drug treatment	 rehabilitation treatment
+Brain Cyst#infectivity#non-infectious		
+Encephalitis#location#Brain		
+Encephalitis#description#inflammatory lesions of the brain parenchyma caused by pathogens		
+Encephalitis#prevention#develop immunity from disease		
+Encephalitis#cause#viral factors	 bacteria	 rickettsia
+Encephalitis#symptom#fever	 tinnitus	 headache
+Encephalitis#treatment#pharmacotherapy	 rehabilitation	
+Encephalitis#susceptible population#population with low immunity		
+Encephalitis#infectivity#infectious		
+Encephalitis#route of transmission#wildlife	 ticks	
+Small Intestinal Fibroma#location#Small Intestine		
+Small Intestinal Fibroma#description#small intestinal fibroma is a benign tumor arising from the fibrous tissue of the small intestinal mucosa.		
+Small Intestinal Fibroma#prevention#avoid tobacco	 alcohol and healthy diet	
+Small Intestinal Fibroma#cause#not clear		
+Small Intestinal Fibroma#symptom#abdominal pain	 abdominal distension	 gastrointestinal bleeding
+Small Intestinal Fibroma#treatment#surgical treatment	 drug treatment	 rehabilitation treatment
+Small Intestinal Fibroma#infectivity#non-infectious		
+Thyroid Cyst#location#Thyroid		
+Thyroid Cyst#description#thyroid cysts are cysts found in the thyroid gland that contain fluid.		
+Thyroid Cyst#prevention#avoid tobacco and alcohol	 develop good habits	 and live a regular life
+Thyroid Cyst#cause#inheritance	 iodine deficiency	
+Thyroid Cyst#symptom#anterior cervical mass		
+Thyroid Cyst#treatment#medical treatment	 supportive treatment	 surgical treatment
+Cyst Of Bladder#location#Bladder		
+Cyst Of Bladder#description#a cyst of the bladder is a cystic dilatation of the submucosa of the bladder that protrudes into the bladder.		
+Cyst Of Bladder#prevention#frequent physical examination		
+Cyst Of Bladder#cause#not clear		
+Cyst Of Bladder#symptom#urine frequency	 urgency	
+Cyst Of Bladder#treatment#surgical treatment		
+Cyst Of Bladder#infectivity#non-infectious		
+Cyst Of Gallbladder#location#Gallbladder		
+Cyst Of Gallbladder#description#gallbladder cysts are cystic benign masses that grow on the gallbladder.		
+Cyst Of Gallbladder#prevention#regular physical examination and regular monitoring of cyst changes		
+Cyst Of Gallbladder#cause#not clear		
+Cyst Of Gallbladder#symptom#radiation pain	 abdominal pain with jaundice	
+Cyst Of Gallbladder#treatment#medical treatment	 supportive treatment	 surgical treatment
+Cyst Of Gallbladder#infectivity#non-infectious		
+Cyst Of Gallbladder#susceptible population#irregular diet		
+Alveolar Carcinoma#location#Lung		
+Alveolar Carcinoma#description#is an early lung adenocarcinoma		
+Alveolar Carcinoma#prevention#no smoking	 pay attention to the air environment	
+Alveolar Carcinoma#cause#smoking	 radiation	 atmospheric pollution
+Alveolar Carcinoma#symptom#blood in sputum	 chest pain	 fever with cough
+Alveolar Carcinoma#treatment#surgical treatment	 drug treatment	
+Alveolar Carcinoma#infectivity#non-infectious		
+Liver Stones#location#Liver		
+Liver Stones#description#liver stones are intrahepatic stones		
+Liver Stones#prevention#attention to rest	 reasonable diet	 regular physical examination
+Liver Stones#cause#bacterial infection of biliary tract	 parasitic infection	
+Liver Stones#symptom#upper abdominal pain	 upper abdominal discomfort	
+Liver Stones#treatment#surgical treatment	 medical treatment	 supportive treatment
+Liver Stones#infectivity#non-infectious		
+Scrotal Cancer#location#Scrotum		
+Scrotal Cancer#description#scrotal cancer mainly includes squamous cell carcinoma	 basal cell carcinoma and inflammatory cancer	 and squamous cell carcinoma is the most common type.
+Scrotal Cancer#prevention#avoid carcinogens		
+Scrotal Cancer#cause#not clear		
+Scrotal Cancer#symptom#inguinal lymph node enlargement	 painless intrascrotal mass	 scrotal itching
+Scrotal Cancer#treatment#surgical treatment	 chemotherapy	 radiotherapy
+Scrotal Cancer#infectivity#non-infectious		
+Laryngeal Carcinoma#location#Pharynx		
+Laryngeal Carcinoma#description#throat cancer is the general term for nasopharyngeal	 oropharyngeal	 and laryngeal cancer.
+Laryngeal Carcinoma#prevention#avoid tobacco and alcohol	 develop good habits	 and live a regular life
+Laryngeal Carcinoma#cause#chemicals	 bad oral habits	 genetic
+Laryngeal Carcinoma#symptom#throat pain	 throat congestion	
+Laryngeal Carcinoma#treatment#medical treatment	 surgical treatment	 radiotherapy
+Laryngeal Carcinoma#infectivity#non-infectious		
+Phalangeal Fracture#location#Skeleton		
+Phalangeal Fracture#description#phalangeal fractures are most common in the hand	 mostly open fractures	
+Phalangeal Fracture#prevention#pay attention to life safety		
+Phalangeal Fracture#cause#direct violence		
+Phalangeal Fracture#symptom#pain	 swelling	 limited mobility
+Phalangeal Fracture#treatment#rehabilitation therapy	 supportive therapy	
+Phalangeal Fracture#infectivity#non-infectious		
+Phalangeal Fracture#alias#bamboo fracture		
+Esophageal Stromal Tumors#location#Esophagus		
+Esophageal Stromal Tumors#description#esophageal stromal tumors are another type of mesenchymal tumors originating in the esophagus in addition to leiomyomas or neurogenic tumors.		
+Esophageal Stromal Tumors#prevention#pay attention to dietary hygiene and strengthen physical fitness		
+Esophageal Stromal Tumors#cause#environmental factors	 genetic factors	
+Esophageal Stromal Tumors#symptom#dysphagia	 gastrointestinal bleeding	
+Esophageal Stromal Tumors#treatment#surgical treatment	 supportive treatment	
+Esophageal Stromal Tumors#infectivity#non-infectious		
+Intestinal Neoplasms#location#Large Intestine		
+Intestinal Neoplasms#description#tumors arising in the small and large intestine		
+Intestinal Neoplasms#prevention#eat a healthy diet and maintain good living habits		
+Intestinal Neoplasms#cause#unreasonable dietary structure	 chronic colitis	 environmental factors
+Intestinal Neoplasms#symptom#abnormal defecation frequency	 hematochezia	 constipation
+Intestinal Neoplasms#treatment#surgical treatment	 supportive treatment	 drug treatment
+Intestinal Neoplasms#infectivity#non-infectious		
+Pineal Cell Tumor#location#Pineal Gland		
+Pineal Cell Tumor#description#pineal cell tumors are tumors that arise from pineal parenchymal cells.		
+Pineal Cell Tumor#prevention#regular physical examination		
+Pineal Cell Tumor#cause#not clear		
+Pineal Cell Tumor#symptom#headache	 vomiting	 fundus edema
+Pineal Cell Tumor#treatment#surgical treatment	 supportive treatment	 rehabilitation treatment
+Pineal Cell Tumor#infectivity#non-infectious		
+Breast Nodules#location#Breast		
+Breast Nodules#description#breast nodules are cystic hyperplasia of the breast	 a non-neoplastic disease	
+Breast Nodules#prevention#regular physical examination		
+Breast Nodules#cause#endocrine disorders	 genetic factors	
+Breast Nodules#symptom#breast pain	 breast mass	
+Breast Nodules#treatment#medical treatment	 symptomatic treatment	 rehabilitation treatment
+Breast Nodules#infectivity#non-infectious		
+Breast Nodules#susceptible population#female of childbearing age		
+Bronchiogenic Cyst#location#Bronchial Tube		
+Bronchiogenic Cyst#description#bronchiogenic cyst refers to a cystic mass caused by congenital abnormal respiratory system development	 also known as bronchial cyst	
+Bronchiogenic Cyst#prevention#active treatment of respiratory tract infections		
+Bronchiogenic Cyst#cause#it is not clear	 possibly related to embryonic development factors	
+Bronchiogenic Cyst#symptom#cough	 expectoration	 chest pain
+Bronchiogenic Cyst#treatment#medical treatment	 supportive treatment	 surgical treatment
+Bronchiogenic Cyst#infectivity#non-infectious		
+Bronchiogenic Cyst#alias#bronchial cyst		
+Cerebral Venous Aneurysm#location#Brain		
+Cerebral Venous Aneurysm#description#large cerebral venous aneurysms are mainly aneurysmal dilatation of large cerebral veins rather than aneurysms in the true sense		
+Cerebral Venous Aneurysm#prevention#early detection	 early diagnosis	 early treatment
+Cerebral Venous Aneurysm#symptom#enlarged head circumference	 cerebral ischemia	 epilepsy
+Cerebral Venous Aneurysm#treatment#surgical treatment	 medical treatment	 supportive treatment
+Cerebral Venous Aneurysm#infectivity#non-infectious		
+Cerebral Venous Aneurysm#alias#galen venous aneurysm		
+Mesenteric Aneurysm#location#Mesentery		
+Mesenteric Aneurysm#description#mesenteric aneurysms refer to aneurysms formed by the expansion of superior and inferior mesenteric arteries and their branches.		
+Mesenteric Aneurysm#prevention#pay attention to rest	 combine work and leisure	 lead an orderly life and maintain an optimistic attitude towards life
+Mesenteric Aneurysm#cause#fungal and bacterial infections	 arteriosclerosis	 media degeneration
+Mesenteric Aneurysm#symptom#abdominal discomfort	 abdominal pain after eating	 diarrhea
+Mesenteric Aneurysm#treatment#surgical treatment	 rehabilitation treatment	 supportive treatment
+Mesenteric Aneurysm#infectivity#non-infectious		
+Esophageal Sarcoma#location#Esophagus		
+Esophageal Sarcoma#description#esophageal sarcoma is a malignant tumor originating from mesenchymal tissue		
+Esophageal Sarcoma#prevention#physical examination		
+Esophageal Sarcoma#cause#not clear		
+Esophageal Sarcoma#symptom#dysphagia	 foreign body sensation behind sternum	 burning sensation
+Esophageal Sarcoma#treatment#surgical treatment	 drug treatment	
+Esophageal Sarcoma#infectivity#non-infectious		
+Ovarian Tumor#location#Ovary		
+Ovarian Tumor#description#ovarian tumors are tumors that occur on the ovary		
+Ovarian Tumor#prevention#regular physical examination	 early detection	 early treatment
+Ovarian Tumor#cause#genetic factors	 environmental factors	
+Ovarian Tumor#symptom#falling or distracting lower abdomen	 abdominal mass	 ascites
+Ovarian Tumor#treatment#medical treatment	 surgical treatment	
+Ovarian Tumor#infectivity#non-infectious		
+Pulmonary Failure#location#Lung		
+Pulmonary Failure#description#severe impairment of pulmonary ventilation and ventilation		
+Pulmonary Failure#cause#drowning	 electric shock	 trauma
+Pulmonary Failure#symptom#dyspnea		
+Pulmonary Failure#treatment#low or high concentration oxygen inhalation through nasal cannula		
+Pulmonary Failure#infectivity#non-infectious		
+Hepatitis#location#Liver		
+Hepatitis#description#hepatitis is the general term for hepatic inflammation.		
+Hepatitis#prevention#early detection	 early diagnosis	 early treatment
+Hepatitis#cause#viral factors	 bacteria	 parasites
+Hepatitis#symptom#loss of appetite	 abdominal distension	 nausea and vomiting
+Hepatitis#treatment#medical therapy	 supportive therapy	
+Hepatitis#infectivity#mother-to-child transmission	 iatrogenic transmission	 blood transfusion transmission
+Brainstem Tumors#location#Brainstem		
+Brainstem Tumors#description#brainstem tumors are most common in glioblastoma	 followed by hemangioreticuloma and cavernous hemangioma	
+Brainstem Tumors#cause#not clear		
+Brainstem Tumors#symptom#increased intracranial pressure	 nausea	 headache
+Brainstem Tumors#treatment#surgical treatment	 radiotherapy	 drug treatment
+Brainstem Tumors#infectivity#non-infectious		
+Bladder Neoplasms#location#Bladder		
+Bladder Neoplasms#description#bladder tumors are the most common tumors of the urinary system		
+Bladder Neoplasms#prevention#strengthen labor protection	 reduce exposure to exogenous carcinogens	 and drink more water and urinate in time at ordinary times
+Bladder Neoplasms#cause#not clear	 possibly related to chemical carcinogens	
+Bladder Neoplasms#symptom#abdominal mass	 voiding pain	 frequent urination
+Bladder Neoplasms#treatment#surgical treatment	 medical treatment	 supportive treatment
+Bladder Neoplasms#infectivity#non-infectious		
+Splenic Aneurysm#location#Artery		
+Splenic Aneurysm#description#splenic aneurysm is the most common aneurysm in visceral artery		
+Splenic Aneurysm#prevention#early detection	 early diagnosis	 early treatment
+Splenic Aneurysm#cause#atrophy and defect of the middle tissue and elastic fiber layer of the splenic artery		
+Splenic Aneurysm#symptom#hepatosplenomegaly	 ascites	 upper abdominal pain
+Splenic Aneurysm#treatment#surgical treatment	 rehabilitation treatment	 supportive treatment
+Splenic Aneurysm#infectivity#non-infectious		
+Splenic Cyst#location#Spleen		
+Splenic Cyst#description#tumor-like cystic lesions of splenic tissue		
+Splenic Cyst#prevention#healthy diet and exercise		
+Splenic Cyst#cause#parasite		
+Splenic Cyst#symptom#upper abdominal discomfort	 constipation	 dyspepsia
+Splenic Cyst#treatment#surgical treatment	 drug treatment	
+Splenic Cyst#infectivity#non-infectious		
+Glioma#location#Brain		
+Glioma#description#gliomas are primary brain tumors arising from the canceration of glial cells of the brain and spinal cord.		
+Glioma#prevention#away from carcinogenic factors		
+Glioma#cause#genetic factors	 chemical factors	 radioactive radiation
+Glioma#symptom#hydrocephalus	 holder instability	 mental disorders
+Glioma#treatment#comprehensive treatment based on surgery		
+Glioma#infectivity#non-infectious		
+Prostate Cyst#location#Prostate		
+Prostate Cyst#description#prostate cysts are cystic changes due to congenital or acquired causes of the prostate gland.		
+Prostate Cyst#prevention#pay attention to personal hygiene	 keep a good mood	 and sit soon
+Prostate Cyst#cause#prostate glands are disturbed during embryonic development and endocrine disorders		
+Prostate Cyst#symptom#frequent urination	 pyuria	 hematuria
+Prostate Cyst#treatment#pharmacotherapy	 supportive therapy	 rehabilitation therapy
+Prostate Cyst#infectivity#non-infectious		
+Mesenteric Cyst#location#Mesentery		
+Mesenteric Cyst#description#mesenteric cyst mesenteric lymphatic vessel enlargement	 cystification	
+Mesenteric Cyst#cause#congenital causes	 trauma	 infection
+Mesenteric Cyst#symptom#abdominal mass	 swelling	 abdominal pain
+Mesenteric Cyst#treatment#surgical treatment	 drug treatment	 rehabilitation treatment
+Mesenteric Cyst#infectivity#non-infectious		
+Gastric Neurofibroma#location#Stomach		
+Gastric Neurofibroma#description#gastric neurofibroma is a neurogenic tumor		
+Gastric Neurofibroma#prevention#maintain a good mentality	 eat a healthy diet	 and exercise more
+Gastric Neurofibroma#cause#not clear		
+Gastric Neurofibroma#symptom#periodic pain	 indigestion	 loss of appetite
+Gastric Neurofibroma#treatment#medical treatment	 supportive treatment	 surgical treatment
+Gastric Neurofibroma#infectivity#non-infectious		
+Gastric Neurofibroma#susceptible population#middle-aged person		
+Gastric Ulcer#location#Stomach		
+Gastric Ulcer#description#gastric ulcer is an ulcer that occurs in the corners of the stomach	 antrum	 cardia
+Gastric Ulcer#prevention#pay attention to dietary hygiene and strengthen physical fitness		
+Gastric Ulcer#cause#helicobacter pylori infection	 drug factors	 dietary problems
+Gastric Ulcer#symptom#upper abdominal pain		
+Gastric Ulcer#treatment#pharmacotherapy	 rehabilitation	
+Gastric Ulcer#infectivity#non-infectious		
+Fibrosarcoma Of Breast#location#Breast		
+Fibrosarcoma Of Breast#description#breast fibrosarcoma is more common in breast sarcoma		
+Fibrosarcoma Of Breast#prevention#develop good work and exercise to avoid excessive stimulation		
+Fibrosarcoma Of Breast#cause#not clear		
+Fibrosarcoma Of Breast#symptom#lactation disorders	 nodules	 breast masses
+Fibrosarcoma Of Breast#treatment#surgical treatment	 medical treatment	 supportive
+Fibrosarcoma Of Breast#infectivity#non-infectious		
+Congenital Diseases Of Nervous System#location#Nervous System		
+Congenital Diseases Of Nervous System#description#nervous system congenital diseases are acquired neurogenesis or developmental defects caused by multiple pathogenic factors during embryonic development.		
+Congenital Diseases Of Nervous System#prevention#pay attention to maternal and infant perinatal care and neonatal feeding care		
+Congenital Diseases Of Nervous System#cause#it is not clear	 possibly related to teratogenic factors on embryonic development	
+Congenital Diseases Of Nervous System#symptom#skull and spine deformities	 neurological deficits	 metabolic dysfunction
+Congenital Diseases Of Nervous System#treatment#pharmacotherapy	 rehabilitation	
+Congenital Diseases Of Nervous System#infectivity#non-infectious		
+Congenital Diseases Of Nervous System#alias#neurodevelopmental disorders		
+Congenital Diseases Of Nervous System#susceptible population#fetus		
+Pancreatic Polypeptide Tumors#location#Pancreas		
+Pancreatic Polypeptide Tumors#description#pancreatic polypeptide tumor is one of the digestive tract endocrine tumors	 which mainly occurs in pancreatic endocrine cells containing pancreatic polypeptide cells.	
+Pancreatic Polypeptide Tumors#prevention#early detection	 early diagnosis	 early treatment
+Pancreatic Polypeptide Tumors#cause#pancreatic polypeptide hypersecretion		
+Pancreatic Polypeptide Tumors#symptom#abdominal pain	 weight loss	 diarrhea
+Pancreatic Polypeptide Tumors#treatment#surgical treatment	 medical treatment	 supportive treatment
+Pancreatic Polypeptide Tumors#infectivity#non-infectious		
+Duodenal Ulcer#location#Duodenum		
+Duodenal Ulcer#description#duodenal ulcer defects of duodenal mucosa and muscularis caused by various factors		
+Duodenal Ulcer#prevention#quit smoking and control diet		
+Duodenal Ulcer#cause#gastric hyperacidity	 genetic factors	 environmental factors
+Duodenal Ulcer#symptom#persistent pain under the xiphoid process that can be relieved by antacids or eating		
+Duodenal Ulcer#treatment#medical treatment	 supportive treatment	 surgical treatment
+Duodenal Ulcer#infectivity#non-infectious		
+Adenocarcinoma Of Duodenum#location#Duodenum		
+Adenocarcinoma Of Duodenum#description#duodenal adenocarcinoma duodenal carcinoma originating from duodenal mucosal epithelium		
+Adenocarcinoma Of Duodenum#prevention#early detection	 early diagnosis	 early treatment
+Adenocarcinoma Of Duodenum#cause#not clear		
+Adenocarcinoma Of Duodenum#symptom#upper abdominal discomfort	 dull pain	 nausea
+Adenocarcinoma Of Duodenum#treatment#surgical treatment is the main treatment	 other such as chemotherapy	 symptomatic treatment
+Adenocarcinoma Of Duodenum#infectivity#non-infectious		
+Esophageal Carcinoid#location#Esophagus		
+Esophageal Carcinoid#description#esophageal carcinoid is a well-differentiated neuroendocrine tumor originating from gastrointestinal chromaffin cells		
+Esophageal Carcinoid#prevention#healthy diet	 regular physical examination	
+Esophageal Carcinoid#cause#not clear	 possibly dietary	
+Esophageal Carcinoid#symptom#posterior sternal discomfort or choking pain during swallowing		
+Esophageal Carcinoid#treatment#surgical treatment	 medical treatment	 supportive treatment
+Esophageal Carcinoid#infectivity#non-infectious		
+Esophageal Carcinoid#susceptible population#male		
+Esophageal Cyst#location#Esophagus		
+Esophageal Cyst#description#esophageal cysts are rare benign masses of the esophagus and are remnants of embryonic tissue		
+Esophageal Cyst#prevention#early detection	 early diagnosis	 early treatment
+Esophageal Cyst#cause#unknown etiology or congenital developmental malformation		
+Esophageal Cyst#symptom#chest pain	 dyspnea	 dysphagia
+Esophageal Cyst#treatment#medical therapy	 supportive therapy	
+Esophageal Cyst#infectivity#non-infectious		
+Ureteral Neoplasms#location#Ureter		
+Ureteral Neoplasms#description#ureteral tumors can be divided into benign and malignant according to the nature of tumors		
+Ureteral Neoplasms#cause#not clear		
+Ureteral Neoplasms#symptom#abdominal mass	 ureteral spasm	 hematuria
+Ureteral Neoplasms#treatment#surgical treatment	 medical treatment	 supportive treatment
+Ureteral Neoplasms#infectivity#non-infectious		
+Brain Atrophy#location#Brain		
+Brain Atrophy#description#atrophy occurs when brain tissue itself generates a qualitative lesion.		
+Brain Atrophy#prevention#early detection	 early diagnosis	 early treatment
+Brain Atrophy#cause#genetic factors	 brain trauma	 stroke
+Brain Atrophy#symptom#dementia	 memory impairment	 slurred speech
+Brain Atrophy#treatment#pharmacotherapy	 rehabilitation	
+Brain Atrophy#infectivity#non-infectious		
+Diabetic Retinopathy#location#Retina		
+Diabetic Retinopathy#description#diabetic retinopathy is a fundus disease with specific changes and is one of the serious complications of diabetes.		
+Diabetic Retinopathy#prevention#controlling the development of diabetes		
+Diabetic Retinopathy#cause#abnormal insulin metabolism		
+Diabetic Retinopathy#symptom#microaneurysms	 bleeding spots	 macular edema
+Diabetic Retinopathy#treatment#medical treatment	 surgical treatment	
+Diabetic Retinopathy#infectivity#non-infectious		
+Diabetic Retinopathy#alias#diabetic retinopathy		
+Cholecystitis#location#Gallbladder		
+Cholecystitis#description#cholecystitis is an inflammatory lesion of the gallbladder caused by bacterial infection or chemical stimulation.		
+Cholecystitis#prevention#eat a healthy diet and maintain good living habits		
+Cholecystitis#cause#immunocompromise	 stone obstruction	
+Cholecystitis#symptom#right upper abdominal pain or colic		
+Cholecystitis#treatment#medical therapy	 supportive therapy	
+Cholecystitis#infectivity#non-infectious		
+Atelectasis#location#Lung		
+Atelectasis#prevention#quit smoking	 enhance physical fitness	
+Atelectasis#description#atelectasis refers to a decrease in the volume or air content of one or more lung segments or lobes		
+Atelectasis#cause#bronchial obstruction		
+Atelectasis#symptom#chest tightness	 shortness of breath	 difficulty breathing
+Atelectasis#treatment#physical therapy	 surgical treatment	
+Atelectasis#infectivity#non-infectious		
+Cardiomegaly#location#Heart		
+Cardiomegaly#prevention#live healthy	 enhance physical fitness	
+Cardiomegaly#description#increase of heart volume		
+Cardiomegaly#cause#hypertension	 dilated cardiomyopathy	
+Cardiomegaly#symptom#chest tightness	 arrhythmia	
+Cardiomegaly#treatment#physical therapy	 medication	
+Cardiomegaly#infectivity#non-infectious		
+Pleural Effusion#prevention#live healthy	 enhance physical fitness	
+Pleural Effusion#description#excessive fluid accumulation in the pleural cavity		
+Pleural Effusion#cause#inflammation	 malignant tumor	 trauma
+Pleural Effusion#symptom#chest tightness	 dyspnea	 chest pain
+Pleural Effusion#treatment#medical treatment	 surgical treatment	
+Pleural Effusion#infectivity#non-infectious		
+Pulmonary Infiltration#location#Lung		
+Pulmonary Infiltration#prevention#live healthy	 enhance physical fitness	
+Pulmonary Infiltration#description#pulmonary infiltrate is a substance denser than air	 such as pus	 blood
+Pulmonary Infiltration#cause#inflammation	 bacterial infection	 etc
+Pulmonary Infiltration#symptom#chest pain	 cough	 expectoration
+Pulmonary Infiltration#treatment#medical treatment		
+Pulmonary Infiltration#infectivity#non-infectious		
+Pulmonary Mass#location#Lung		
+Pulmonary Mass#prevention#keep healthy		
+Pulmonary Mass#description#pulmonary mass refers to the pulmonary shadow with a diameter of more than 3cm		
+Pulmonary Mass#cause#pulmonary infection	 lung tumor	 tuberculosis and other diseases
+Pulmonary Mass#symptom#dyspnea	 hemoptysis	 chest pain
+Pulmonary Mass#treatment#medical treatment	 surgical treatment	
+Pulmonary Mass#infectivity#non-infectious		
+Pulmonary Nodules#location#Lung		
+Pulmonary Nodules#prevention#quit smoking	 enhance physical fitness	
+Pulmonary Nodules#description#focal	 quasi-circular	 hyperdense parenchymal or sub-parenchymal pulmonary shadows with an intrapulmonary diameter of <3 cm on imaging
+Pulmonary Nodules#cause#pulmonary infection	 chronic irritation	
+Pulmonary Nodules#symptom#chest tightness	 fatigue	
+Pulmonary Nodules#treatment#medical treatment	 surgical treatment	
+Pulmonary Nodules#infectivity#non-infectious		
+Pneumonia#location#Lung		
+Pneumonia#description#pneumonia refers to inflammation of the terminal airways	 alveoli	 and interstitium
+Pneumonia#prevention#pay attention to prevent cold and keep warm	 enhance physical fitness	
+Pneumonia#cause#bacterial infection		
+Pneumonia#symptom#cough foamy mucus sputum	 dyspnea	 cough
+Pneumonia#treatment#medical therapy	 supportive therapy	
+Pneumonia#infectivity#non-infectious		
+Pneumothorax#location#Lung		
+Pneumothorax#description#air enters the pleural cavity	 causing an accumulation of gas	
+Pneumothorax#prevention#quit smoking	 avoid strenuous exercise	
+Pneumothorax#cause#chest injury	 lung disease	 bullae
+Pneumothorax#symptom#chest pain	 dyspnea	
+Pneumothorax#treatment#medical therapy	 supportive therapy	
+Pneumothorax#infectivity#non-infectious		
+Motor System#component#bone	 bone junctions	 skeletal muscles
+Motor System#function#movement and support		
+Skeleton#definition#a structure used to support something		
+Joint#definition#connecting points between bone fragments of human bones		
+Joint#component#joint capsule	 articular surface	 articular cavity
+Ligament#definition#ligaments belong to dense connective tissue		
+Ligament#classification#elastic connective tissue	 dense connective tissue	
+Ligament#nature#flexible	 fibrous dense connective tissue	
+Ligament#effect#limit the range of motion of bones to avoid injury		
+Spine#position#the median of back and the upper end is connected with the skull		
+Spine#characteristic#gradual widening from top to bottom		
+Digestive System#component#oral cavity	 pharynx	 esophagus
+Digestive System#status#one of the nine systems of the human body		
+Digestive System#component#digestive tract	 digestive gland	
+Oral Cavity#definition#initial part of digestive tract		
+Tooth#definition#organs of human and higher animals chewing food		
+Tooth#main ingredient#calcium hydroxyphosphate		
+Tooth#effect#cutting	 chewing	 maintaining facial contour and assisting pronunciation
+Tongue#nature#taste organs		
+Tongue#function#perceived taste		
+Sublingual Gland#secretion#saliva	 mucus	
+Pharynx#definition#access to lung and stomach		
+Pharynx#function#is the passage of gas		
+Pharynx#length#about 12-14cm long		
+Pharynx#function#respiratory function		
+Esophagus#definition#a passage made up of muscles		
+Esophagus#position#connect throat to stomach		
+Esophagus#effect#food delivery		
+Stomach#function#digest food	 secrete enzymes	
+Stomach#position#located below the diaphragm	 connecting the upper esophagus and the lower intestine	
+Small Intestine#component#duodenum	 jejunum	 ileum
+Small Intestine#position#posterior superior part of abdominal cavity		
+Small Intestine#function#absorb nutrients	 secrete enzymes	 digest food
+Small Intestine#alias#Small Bowel		
+Duodenum#position#between stomach and jejunum		
+Duodenum#length#20-25cm		
+Duodenum#function#absorb nutrients	 secrete enzymes	 digest food
+Jejunum#definition#the posterior portion of the small intestine and duodenum in mammals		
+Jejunum#position#left superior side of abdominal cavity		
+Large Intestine#component#colon	 rectum	
+Large Intestine#definition#an important component of the digestive system		
+Large Intestine#function#protect mucosa and lubricate feces		
+Colon#definition#an important component of the digestive system		
+Colon#function#digest food	 absorb water	 excrete body waste
+Rectum#definition#the last section of the bowel		
+Rectum#function#store feces	 excrete feces	
+Liver#definition#an organ in the body that has a predominant metabolic function		
+Liver#position#right upper abdomen	 hidden under diaphragm and deep ribs	
+Liver#texture#normal liver is reddish brown with soft texture		
+Liver#weight#adults have liver weights equivalent to 2% of their body weight		
+Liver#function#biotransformation	 detoxification	
+Gallbladder#position#pear-shaped pouch structure behind right subcostal liver		
+Gallbladder#effect#concentration and storage of bile		
+Gallbladder#component#mucosa	 muscularis	 adventitia
+Gallbladder#function#bile can be directly discharged into the intestine to participate in digestive function		
+Gallbladder#divided into#bottom	 body	 neck and tube
+Mesentery#divided into#mesoappendix	 transverse mesocolon	
+Mesentery#definition#a part of the peritoneum that suspends and fixes an intestinal tube		
+Pancreas#position#transverse the stomach	 between the spleen and duodenum	
+Pancreas#shape#large slender grape strings		
+Pancreas#component#pancreas	 islet	
+Pancreas#function#reduce blood sugar	 promote intestinal protein breakdown	
+Respiratory System#component#respiratory tract	 lung	
+Respiratory System#therapeutic method#negative ion natural therapy		
+Nasal Cavity#tissue structure#nasal vestibule	 mucosa	 blood vessel
+Nasal Cavity#position#human head		
+Pharynx#function#breathing	 diet	
+Larynx#function#ventilation	 pronunciation	
+Larynx#position#upper connecting pharyngeal and lower ventilation tubes		
+Trachea#component#cartilage	 muscle	 connective tissue
+Trachea#wall composition#mucosa	 submucosa	 adventitia
+Trachea#cell composition#ciliated cells	 goblet cells	 basal cells
+Trachea#function#gas delivery		
+Ciliated Cell#function#purify inhaled air		
+Bronchial Tube#diameter#1.0-1.5cm		
+Bronchial Tube#long#about 5cm		
+Lung#function#breathe		
+Lung#position#pleural		
+Lung#component#bronchi	 alveoli	 blood vessels
+Diaphragm#function#helping the lungs breathe		
+Diaphragm#definition#separation between thoracic and abdominal cavity		
+Urinary System#component#kidney	 ureter	 bladder and urethra
+Urinary System#function#excretion		
+Kidney#position#both sides of the spine	 close to the posterior abdominal wall	
+Kidney#shape#faba bean		
+Kidney#function#discharge waste	 adjust water and osmotic pressure balance	
+Ureter#uplink#renal pelvis		
+Ureter#downlink#bladder		
+Ureter#shape#elongated pipe	 flat cylindrical	
+Ureter#characteristic#stones and necrotic tissues tend to stay		
+Ureter#diameter#2-5mm		
+Ureter#function#delivery of urine		
+Bladder#definition#urinary storage organs		
+Bladder#position#intrapelvic		
+Bladder#function#store urine		
+Urethra#definition#pipeline from bladder to the outside of body		
+Urethra#function#deliver urine		
+Reproductive System#function#reproductive progeny		
+Ovary#position#intrapelvic		
+Ovary#function#egg emission	 sex hormone synthesis	
+Fallopian Tube#position#upper margin of broad ligament of uterus		
+Fallopian Tube#length#8-15cm		
+Fallopian Tube#function#delivery of eggs	 fertilization site	
+Uterus#position#central pelvic cavity		
+Uterus#shape#inverted triangle		
+Uterus#function#a place to give birth to new life		
+Vagina#function#sexual organ		
+Clitoris#shape#cylindrical shape		
+Clitoris#effect#stimulate women's libido and pleasure		
+Placenta#effect#material exchange	 synthetic function	
+Testis#artery#testicular artery		
+Testis#vein#testicular vein	 vine plexus	
+Testis#nerve#spermatic plexus		
+Testis#lymph#lumbar ganglion		
+Testis#effect#reproduction	 secretion of hormones	
+Epididymis#position#close to the upper and posterior edges of the testis		
+Epididymis#structure#head	 body and tail	
+Epididymis#epididymal duct#about 4-5m long		
+Epididymis#epididymal canal function#storage of sperm and secretion of epididymal fluid		
+Vas Deferens#effect#delivery of sperm		
+Seminal Vesicle#alias#Seminal Vesicle Gland		
+Seminal Vesicle#shape#long oval sac		
+Seminal Vesicle#function#secretion and storage of semen		
+Seminal Vesicle#position#posterior to the bottom of the bladder		
+Prostate#definition#male-specific gonadal organs		
+Prostate#shape#chestnut-like bottom up	 tip down	
+Prostate#size#about 4cm transverse	 about 3cm vertical	 about 2cm anterior and posterior
+Prostate#effect#secretion and control of urination		
+Penis#nature#reproduction organs		
+Penis#function#urination	 sexual intercourse	 ejaculation
+Scrotum#definition#a sagging sac of the male vulva		
+Scrotum#characteristic#contractile	 stretch easily	
+Scrotum#effect#protection	 temperature regulation	
+Breast#function#secreting milk		
+Breast#position#chest		
+Endocrine System#definition#an integrative regulatory mechanism		
+Endocrine System#function#hormone secretion		
+Pituitary Gland#position#ventral hypothalamus		
+Pituitary Gland#size#1*1.5*0.5cm		
+Pituitary Gland#function#secretory hormones		
+Pineal Gland#shape#reddish-brown lenticular bodies		
+Pineal Gland#long#5-8mm		
+Pineal Gland#function#secretion of melatonin and hypoglycemic factors		
+Thyroid#function#secretion of thyroid hormones to control metabolism and growth		
+Thyroid#position#located in front of trachea		
+Thyroid#shape#h-shaped		
+Parathyroid#position#close to thyroid		
+Parathyroid#function#secretion of parathyroid hormones to maintain calcium and phosphorus balance		
+Thymus#weight#10-15g		
+Thymus#position#posterior sternum		
+Thymus#colour#gray-red		
+Thymus#shape#flat ellipse		
+Thymus#characteristic#is the body's first aging organ		
+Thymus#function#immune organ	 endocrine organ	
+Adrenal Gland#position#above both kidneys		
+Adrenal Gland#function#secretion of adrenaline		
+Islets#function#secretion of insulin and glucagon		
+Islets#component#many cell clusters of varying sizes and shapes		
+Islets#effect#regulation of blood glucose stability		
+Gonad#male#testis		
+Gonad#female sex#ovary		
+Gonad#function#promote the development of gonads and their appendages		
+Circulatory System#component#extracellular fluids of organisms		
+Heart#component#myocardium		
+Heart#four chambers#left atrium	 left ventricle	 right atrium
+Heart#length#about 15cm		
+Heart#weight#about 250g		
+Heart#number of heartbeats per year#36 million times		
+Heart#function#promote blood flow		
+Heart#position#mid-left inferior thoracic cavity		
+Artery#definition#vessels emanating from the ventricles		
+Artery#function#transport of blood		
+Vein#definition#vessels that return blood to the heart		
+Vein#function#transport of blood		
+Lymphatic System#function#important defense systems		
+Lymphatic System#component#lymphatic vessels	 lymphoid organs	 lymph
+Lymphatic System#occurrence and development#primitive to higher animals		
+Lymph Vessel#essence#confluence of capillary lymphatics		
+Lymph Vessel#characteristic#thin diameter and thin wall		
+Lymph Node#shape#oval		
+Lymph Node#interruption#Lymph Vessel		
+Lymph Node#function#filter lymph	 remove bacteria	
+Bone Marrow#definition#hematopoietic tissue		
+Bone Marrow#classification#red and yellow bone marrow		
+Bone Marrow#function#hematopoiesis	 immunity and defense	
+Spleen#nature#immune organ		
+Spleen#position#relative to 9-11 ribs		
+Spleen#function#improve the body's immunity		
+Gut-Associated Lymphoid Tissue#type#lymphoid tissue		
+Gut-Associated Lymphoid Tissue#position#abdominal and inguinal regions		
+Gut-Associated Lymphoid Tissue#function#immunity		
+Lymph#function#immunity		
+Lymph#definition#colorless transparent liquid containing lymphocytes		
+Tonsils#position#lateral wall of isthmus of pharynx		
+Tonsils#nature#immune organ		
+Tonsils#function#enhance immunity		
+Nervous System#classification#central and peripheral nervous systems		
+Nervous System#function#regulation of physiological function activities		
+Brain#component#telencephalon	 diencephalon	
+Brain#definition#the most advanced part of the nervous system		
+Brain#function#organs of thinking	 regulating all activities in the body	
+Cerebral Hemisphere#component#internal cerebral nucleus and external cerebral cortex		
+Cerebral Hemisphere#definition#the cerebral hemisphere is part of the brain		
+Cerebral Hemisphere#function#controlling body motion and sensation		
+Diencephalon#position#above the brainstem	 the caudate nucleus and the medial side of the internal capsule	
+Brainstem#position#below the brain		
+Brainstem#function#maintain individual life	 control heartbeat and breathing	
+Midbrain#effect#reflex centers of vision and hearing		
+Midbrain#position#just above the pons is the midpoint of the whole brain		
+Pons#position#superior medulla oblongata		
+Pons#function#adjust breathing		
+Medulla Oblongata#function#processing sensory and motor message delivery		
+Medulla Oblongata#position#anterior cerebellum		
+Medulla Oblongata#shape#inverted cone		
+Cerebellum#component#cerebellar hemisphere	 cerebellar tonsil	
+Cerebellum#function#maintain balance and integrate nerve impulses		
+Cerebellum#position#intracranial fossa		
+Spinal Cord#position#spinal canal composed of vertebrae		
+Spinal Cord#shape#long cylindrical shape		
+Spinal Cord#length#41-45cm		
+Spinal Cord#effect#bridge between brain and peripheral nerve		
+Ventricle#definition#lacunae within the brain		
+Choroid Plexus#position#ventricle		
+Choroid Plexus#effect#product cerebrospinal fluid as a buffer medium		
+Cranial Nerve#definition#brain sends out right and left pairs of nerves		
+Cranial Nerve#type#12 kinds of olfaction	 optic nerve	 etc
+Cranial Nerve#function#the various organs that govern the face		
+Spinal Nerve#logarithm#31		
+Spinal Nerve#function#control various activities of trunk		
+Ganglion#classification#cerebrospinal ganglion	 vegetative ganglion	
+Ganglion#the surface layer contains#epimysium		
+Ganglion#effect#conductive excitation		
+Sense Organ#definition#an organ that senses changes in its surroundings.		
+Eye#nature#visual organ		
+Eye#color#brown	 green	 light brown
+Eye#eyelid type#binocular eyelid	 single eyelid	
+Eye#effect#sensing light		
+Ear#nature#organ of hearing		
+Ear#component#outer ear	 middle ear	 inner ear
+Ear#function#receive sound		
+Nose#nature#olfactory organ		
+Nose#characteristic#highly differentiated organs that sense chemical stimuli		
+Nose#function#identify odors		
+Corneal#position#anterior wall of eyeball		
+Corneal#shape#transverse ellipse		
+Corneal#function#refracted light		
+Iris#position#the anterior part of the blood vessel membrane of the middle layer of the eyeball		
+Iris#function#adjust the amount of light entering the eye		
+Ciliary Body#definition#circumferential thickening of the posterolateral part of the iris of the eye		
+Ciliary Body#effect#generation of aqueous humor and adjustment of refractive capacity of the eye		
+Ciliary Body#position#posterolateral part of iris		
+Lens#position#anterior vitreous		
+Lens#shape#biconvex lenticular		
+Lens#diameter#about 9mm		
+Lens#definition#main refractive structure of the eyeball		
+Lens#effect#refraction		
+Retina#component#pigment epithelium	 sensory layer of retina	
+Retina#function#nourish	 regenerate and repair photoreceptor cells	
+Retina#position#applying to the posterior wall of the eyeball		
+Earlobe#definition#a narrow portion of the lower part of the auricle		
+Tympanic Membrane#alias#Eardrum		
+Tympanic Membrane#component#elastic gray-white translucent film		
+Tympanic Membrane#position#between the external auditory canal and the tympanic cavity		
+Tympanic Membrane#shape#oval		
+Tympanic Membrane#effect#sensory sound wave		
+Middle Ear#effect#propagating sound wave		
+Middle Ear#component#tympanic cavity	 eustachian tube	 tympanic sinus
+Ossicle#definition#the smallest bone in the human body		
+Ossicle#number#3 pieces each in left and right ears		
+Ossicle#function#shake each other	 duplicate sound source	 stimulate inner ear
+Inner Ear#nature#components of the hearing system		
+Inner Ear#position#between the tympanic cavity and the floor of the internal auditory canal		
+Inner Ear#component#bone labyrinth and membrane labyrinth		
+Cochlea#position#deep temporal bone		
+Cochlea#function#conduct and sense sound waves		
+Vestibule Of Ear#position#inner ear		
+Vestibule Of Ear#function#relevant to maintaining body balance		
+Semicircular Canal#function#maintain posture and balance		
+Semicircular Canal#definition#inner ear sensory apparatus		
+Parotid#function#secrete saliva	 secrete enzymes	
+Parotid#nature#salivary gland
+Skeleton#belong to#Motor System
+Joint#belong to#Motor System
+Ligament#belong to#Motor System
+Spine#belong to#Motor System
+Oral Cavity#belong to#Digestive System
+Tooth#belong to#Digestive System
+Tongue#belong to#Digestive System
+Salivary Gland#belong to#Digestive System
+Parotid Gland#belong to#Digestive System
+Mandibular Gland#belong to#Digestive System
+Sublingual Gland#belong to#Digestive System
+Pharynx#belong to#Digestive System
+Esophagus#belong to#Digestive System
+Stomach#belong to#Digestive System
+Small Intestine#belong to#Digestive System
+Duodenum#belong to#Digestive System
+Jejunum#belong to#Digestive System
+Ileum#belong to#Digestive System
+Large Intestine#belong to#Digestive System
+Liver#belong to#Digestive System
+Gallbladder#belong to#Digestive System
+Parotid#belong to#Digestive System
+Mesentery#belong to#Digestive System
+Pancreas#belong to#Digestive System
+Nasal Cavity#belong to#Respiratory System
+Pharynx#belong to#Respiratory System
+Larynx#belong to#Respiratory System
+Trachea#belong to#Respiratory System
+Bronchial Tube#belong to#Respiratory System
+Lung#belong to#Respiratory System
+Diaphragm#belong to#Respiratory System
+Kidney#belong to#Urinary System
+Ureter#belong to#Urinary System
+Bladder#belong to#Urinary System
+Rectum#belong to#Digestive System
+Colon#belong to#Digestive System
+Urethra#belong to#Urinary System
+Ovary#belong to#Reproductive System
+Fallopian Tube#belong to#Reproductive System
+Uterus#belong to#Reproductive System
+Vagina#belong to#Reproductive System
+Clitoris#belong to#Reproductive System
+Placenta#belong to#Reproductive System
+Testis#belong to#Reproductive System
+Epididymis#belong to#Reproductive System
+Vas Deferens#belong to#Reproductive System
+Seminal Vesicle#belong to#Reproductive System
+Prostate#belong to#Reproductive System
+Penis#belong to#Reproductive System
+Scrotum#belong to#Reproductive System
+Breast#belong to#Reproductive System
+Pituitary Gland#belong to#Endocrine System
+Pineal Gland#belong to#Endocrine System
+Thyroid#belong to#Endocrine System
+Parathyroid#belong to#Endocrine System
+Thymus#belong to#Endocrine System
+Adrenal Gland#belong to#Endocrine System
+Islets#belong to#Endocrine System
+Gonad#belong to#Endocrine System
+Heart#belong to#Circulatory System
+Artery#belong to#Circulatory System
+Vein#belong to#Circulatory System
+Capillary#belong to#Circulatory System
+Lymph Vessel#belong to#Lymphatic System
+Lymph Node#belong to#Lymphatic System
+Bone Marrow#belong to#Lymphatic System
+Thymus#belong to#Lymphatic System
+Spleen#belong to#Lymphatic System
+Gut-Associated Lymphoid Tissue#belong to#Lymphatic System
+Lymph#belong to#Lymphatic System
+Tonsils#belong to#Lymphatic System
+Brain#belong to#Nervous System
+Cerebral Hemisphere#belong to#Nervous System
+Diencephalon#belong to#Nervous System
+Brainstem#belong to#Nervous System
+Midbrain#belong to#Nervous System
+Pons#belong to#Nervous System
+Medulla Oblongata#belong to#Nervous System
+Cerebellum#belong to#Nervous System
+Spinal Cord#belong to#Nervous System
+Ventricle#belong to#Nervous System
+Choroid Plexus#belong to#Nervous System
+Cranial Nerve#belong to#Nervous System
+Spinal Nerve#belong to#Nervous System
+Ganglion#belong to#Nervous System
+Eye#belong to#Sense Organ
+Ear#belong to#Sense Organ
+Nose#belong to#Sense Organ
+Tongue#belong to#Sense Organ
+Corneal#belong to#Eye
+Iris#belong to#Eye
+Ciliary Body#belong to#Eye
+Lens#belong to#Eye
+Retina#belong to#Eye
+Earlobe#belong to#Ear
+Tympanic Membrane#belong to#Ear
+Middle Ear#belong to#Ear
+Ossicle#belong to#Ear
+Inner Ear#belong to#Ear
+Cochlea#belong to#Ear
+Vestibule Of Ear#belong to#Ear
+Semicircular Canal#belong to#Ear
+Olfactory Epithelium#belong to#Nose
+		
