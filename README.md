@@ -33,11 +33,7 @@ pip install -r requirements.txt # method 2
 
 ### Dataset
 
-Please follow [here](https://github.com/zhjohnchan/M3AE?tab=readme-ov-file#1-dataset-preparation-1) and only use the `SLAKE, VQA RAD, and MedVQA 2019 datasets`.
-
-### External data
-
-Download the [external_data](https://unisydneyedu-my.sharepoint.com/:f:/g/personal/tigu8498_uni_sydney_edu_au/Ev_GsFFY9BpKi-cOHSFIHecBRxYEB-9jjelVen4WUyyEGg?e=g3bbrC) and put it in the `download/external_data`.
+Please follow [here](https://github.com/zhjohnchan/M3AE?tab=readme-ov-file#1-dataset-preparation-1) and only use the `SLAKE and VQA-RAD datasets`.
 
 ### Pretrained
 
