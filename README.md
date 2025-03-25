@@ -49,7 +49,7 @@ Download the [roberta-base](https://drive.google.com/drive/folders/1ouRx5ZAi98Lu
 
 ### Checkpoints
 
-Download the [checkpoints]([CKRA_checkpoints](https://1drv.ms/f/c/0ef3f7692d30fc19/En6cIAzp7r1Iseb-3y1vyw8BF-_NjnusZUB-Dp2nYI3ZGA?e=cd2pvp)) we trained and put it in the `download/checkpoints`.
+Download the [checkpoints](https://1drv.ms/f/c/0ef3f7692d30fc19/En6cIAzp7r1Iseb-3y1vyw8BF-_NjnusZUB-Dp2nYI3ZGA?e=cd2pvp) we trained and put it in the `download/checkpoints`.
 
 
 ## Train & Test
