@@ -16,6 +16,130 @@ from m3ae.modules.Loss import *
 import sys
 import hashlib
 
+class resnet_encoder(nn.Module):
+    def __init__(self, args):
+        super().__init__()
+        self.args = args
+        self.model = models.resnet152(pretrained=True).to(device)
+
+        self.fix2 = nn.Sequential(*list(self.model.children())[:-7])
+        self.fix3 = nn.Sequential(*list(self.model.children())[:-5])
+        self.fix4 = nn.Sequential(*list(self.model.children())[:-4])
+        self.fix5 = nn.Sequential(*list(self.model.children())[:-3])
+        self.fix7 = nn.Sequential(*list(self.model.children())[:-2])
+
+        self.relu = nn.ReLU()
+        self.conv2 = nn.Conv2d(64, args.hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        self.conv3 = nn.Conv2d(256, args.hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        self.conv4 = nn.Conv2d(512, args.hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        self.conv5 = nn.Conv2d(1024, args.hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        self.conv7 = nn.Conv2d(2048, args.hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+
+        self.gap2 = nn.AdaptiveAvgPool2d((1, 1))
+        self.gap3 = nn.AdaptiveAvgPool2d((1, 1))
+        self.gap4 = nn.AdaptiveAvgPool2d((1, 1))
+        self.gap5 = nn.AdaptiveAvgPool2d((1, 1))
+        self.gap7 = nn.AdaptiveAvgPool2d((1, 1))
+
+        self.grad_cam = True
+        self.gradients = None
+        self.activations = None
+
+    def activations_hook(self, grad):
+        self.gradients = grad
+
+    def forward(self, img):
+        img = img.to(device)
+
+        inter_2 = self.conv2(self.fix2(img))
+        v_2 = self.gap2(self.relu(inter_2)).view(-1, self.args.hidden_size, 4).permute(0, 2, 1)
+
+        inter_3 = self.conv3(self.fix3(img))
+        v_3 = self.gap3(self.relu(inter_3)).view(-1, self.args.hidden_size, 4).permute(0, 2, 1)
+
+        inter_4 = self.conv4(self.fix4(img))
+        v_4 = self.gap4(self.relu(inter_4)).view(-1, self.args.hidden_size, 4).permute(0, 2, 1)
+
+        inter_5 = self.conv5(self.fix5(img))
+        v_5 = self.gap5(self.relu(inter_5)).view(-1, self.args.hidden_size, 4).permute(0, 2, 1)
+
+        o_7 = self.fix7(img)
+        if self.grad_cam:
+            self.activations = o_7
+            h = o_7.register_hook(self.activations_hook)
+        inter_7 = self.conv7(o_7)
+        v_7 = self.gap7(self.relu(inter_7)).view(-1, self.args.hidden_size, 4).permute(0, 2, 1)
+
+        return torch.cat((v_2, v_3, v_4, v_5, v_7), dim=1)
+
+    def get_heatmap_data(self):
+        return self.gradients, self.activations
+
+    def activations_hook(self, grad):
+        self.gradients = grad
+
+    def get_activations_gradient(self):
+        return self.gradients
+
+    def get_activations(self):
+        return self.feat
+
+
+def get_param(*shape):
+    param = Parameter(torch.zeros(shape))
+    xavier_normal_(param)
+    return param
+
+class TSE(nn.Module):
+    def __init__(self, args):
+        super().__init__()
+
+        base_model = BertModel.from_pretrained(bert_base)
+        bert_model = nn.Sequential(*list(base_model.children())[0:])
+        self.bert_embedding = bert_model[0]
+        self.word_embedding = nn.Linear(768, args.hidden_size, bias=False).to(device)
+
+        self.sen = AutoModel.from_pretrained("../pre-model/biobert_v1.1")
+        self.sen_embedding = nn.Linear(768, args.hidden_size, bias=False).to(device)
+
+        self.heads = args.num_heads
+
+        self.scale = (2 * args.head_dim) ** -0.5
+
+        self.attend = nn.Softmax(dim=-1)
+        self.dropout = nn.Dropout(args.dropout)
+
+        self.to_qkv1 = nn.Linear(args.hidden_size, args.hidden_size * 3, bias=False)
+        self.to_qkv2 = nn.Linear(args.hidden_size, args.hidden_size * 2, bias=False)
+
+
+
+    def forward(self, w, s, mask):
+        word_embedding = self.bert_embedding(w)
+        tokens_embedding = self.word_embedding(word_embedding)
+
+        sen_embedding = self.sen(w)
+        sen_embedding = self.sen_embedding(sen_embedding.pooler_output.unsqueeze(1))
+
+        qkv1 = self.to_qkv1(tokens_embedding).chunk(3, dim=-1)
+        qkv2 = self.to_qkv2(sen_embedding).chunk(2, dim=-1)
+
+        q1, k1, v1 = map(lambda t: rearrange(t, 'b n (h d) -> b h n d', h=self.heads), qkv1)
+        q2, k2 = map(lambda t: rearrange(t, 'b n (h d) -> b h n d', h=self.heads), qkv2)
+
+        dots = self.scale * (torch.matmul(q1, k1.transpose(-1, -2)) + torch.matmul(q2, k2.transpose(-1, -2)))
+
+        if mask is not None:
+            mask = mask[:, None, None, :].float()
+            dots -= 10000.0 * (1.0 - mask)
+        attn = self.attend(dots)
+        attn = self.dropout(attn)
+        out = torch.matmul(attn, v1)
+        out = rearrange(out, 'b h n d -> b n (h d)')
+        return out
+
+def gelu(x):
+    return x * 0.5 * (1.0 + torch.erf(x / math.sqrt(2.0)))
 
 class M3AETransformerSS(pl.LightningModule):
     def __init__(self, config):
@@ -67,12 +191,11 @@ class M3AETransformerSS(pl.LightningModule):
         if self.is_clip:
             self.vision_encoder = build_model(config['vit'], resolution_after=resolution_after)
         else:
-            self.vision_encoder = getattr(swin, self.hparams.config["vit"])(pretrained=True, config=self.hparams.config)
-            self.vision_pooler = nn.AdaptiveAvgPool1d(1)
+            self.vision_encoder = resnet_encoder(config['resnet'])
         if 'roberta' in config['tokenizer']:
             self.language_encoder = RobertaModel.from_pretrained(config['tokenizer'])
         else:
-            self.language_encoder = BertModel.from_pretrained(config['tokenizer'])
+            self.language_encoder = TSE(config['TSE'])
 
         self.knowledge_encoder = KG_Embedding(config['hidden_size'])
 
