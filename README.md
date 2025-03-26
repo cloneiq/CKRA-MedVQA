@@ -22,7 +22,7 @@ pip install -r requirements.txt # method 2
 │   ├── ......
 ├── download
 │   ├── checkpoints
-│   ├── external_data
+│   ├── biobert_v1.1
 │   ├── pretrained
 │   │   ├── m3ae.ckpt
 │   ├── roberta-base
@@ -42,6 +42,10 @@ Download the [m3ae pretrained weight](https://drive.google.com/drive/folders/1b3
 ### roberta-base
 
 Download the [roberta-base](https://drive.google.com/drive/folders/1ouRx5ZAi98LuS6QyT3hHim9Uh7R1YY1H) and put it in the `download/roberta-base`.
+
+### biobert_v1.1
+
+Download the [biobert_v1.1](https://huggingface.co/dmis-lab/biobert-v1.1/tree/main) and put it in the `download/roberta-base`.
 
 ### Checkpoints
 
