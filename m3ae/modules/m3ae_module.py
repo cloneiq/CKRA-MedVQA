@@ -3,7 +3,9 @@ import torch
 import torch.nn as nn
 from transformers import RobertaConfig, RobertaModel
 from transformers.models.bert.modeling_bert import BertConfig, BertModel
-
+from torchvision import models, transforms
+from transformers import BertTokenizer, BertModel
+from transformers import AutoTokenizer, AutoModel
 from m3ae.modules import objectives, m3ae_utils
 from m3ae.modules import prediction_heads
 from m3ae.modules.language_encoders.bert_model import BertCrossLayer
@@ -94,12 +96,12 @@ class TSE(nn.Module):
     def __init__(self, args):
         super().__init__()
 
-        base_model = BertModel.from_pretrained(bert_base)
+        base_model = BertModel.from_pretrained('download/roberta-base')
         bert_model = nn.Sequential(*list(base_model.children())[0:])
         self.bert_embedding = bert_model[0]
         self.word_embedding = nn.Linear(768, args.hidden_size, bias=False).to(device)
 
-        self.sen = AutoModel.from_pretrained("../pre-model/biobert_v1.1")
+        self.sen = AutoModel.from_pretrained("download/biobert_v1.1")
         self.sen_embedding = nn.Linear(768, args.hidden_size, bias=False).to(device)
 
         self.heads = args.num_heads

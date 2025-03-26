@@ -328,7 +328,7 @@ def get_kg(src, dst, rel, n_ent, device):
     return kg
 
 def encode_kg(ents, rels):
-    tokenizer = AutoTokenizer.from_pretrained("pre-model/biobert_v1.1")
+    tokenizer = AutoTokenizer.from_pretrained("download/roberta-base")
     ents_emb, rels_emb, ents_mask, rels_mask = [], [], [], []
     for ent in ents:
         ent_word = tokenizer.tokenize(ent)
