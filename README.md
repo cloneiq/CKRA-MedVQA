@@ -43,9 +43,9 @@ Download the [m3ae pretrained weight](https://drive.google.com/drive/folders/1b3
 
 Download the [roberta-base](https://drive.google.com/drive/folders/1ouRx5ZAi98LuS6QyT3hHim9Uh7R1YY1H) and put it in the `download/roberta-base`.
 
-### biobert_v1.1
+### BioBert
 
-Download the [biobert_v1.1](https://huggingface.co/dmis-lab/biobert-v1.1/tree/main) and put it in the `download/roberta-base`.
+Download the [BioBert](https://huggingface.co/dmis-lab/biobert-v1.1/tree/main) and put it in the `download/biobert_v1.1`.
 
 ### Checkpoints
 
