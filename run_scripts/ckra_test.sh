@@ -10,7 +10,7 @@ python main.py with data_root=data/finetune_arrows/ \
  image_size=384 \
  test_only=True \
  tokenizer=downloaded/roberta-base \
- load_path=checkpoints/VQARAD/7827.ckpt
+ load_path=checkpoints/VQARAD_78.27.ckpt
 
 # === SLACK ===
 python main.py with data_root=data/finetune_arrows/ \
@@ -21,4 +21,4 @@ python main.py with data_root=data/finetune_arrows/ \
  image_size=384 \
  test_only=True \
  tokenizer=downloaded/roberta-base \
- load_path=checkpoints/SLAKE/8280.ckpt
+ load_path=checkpoints/SLAK_82.80.ckpt
