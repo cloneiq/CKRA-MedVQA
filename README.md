@@ -4,7 +4,7 @@ This is the implementation of Beyond Static Knowledge: Dynamic Context-Aware Cro
 
 ## Abstract
 
-![all](all.svg)
+![Overall_framework](Overall_framework.svg)
 
 ## Requirements
 Run the following command to install the required packages:
