@@ -8,7 +8,7 @@ python main.py with data_root=data/finetune_arrows/ \
  task_finetune_vqa_vqarad\
  per_gpu_batchsize=${per_gpu_batchsize} \
  clip16 text_roberta \
- image_size=384 \
+ image_size=224 \
  tokenizer=downloaded/roberta-base \
  load_path=downloaded/pretrained/m3ae.ckpt \
  clip_resizedcrop
@@ -19,7 +19,7 @@ python main.py with data_root=data/finetune_arrows/ \
  task_finetune_vqa_slack \
  per_gpu_batchsize=${per_gpu_batchsize} \
  clip16 text_roberta \
- image_size=384 \
+ image_size=224 \
  tokenizer=downloaded/roberta-base \
  load_path=downloaded/pretrained/m3ae.ckpt \
  clip_resizedcrop
