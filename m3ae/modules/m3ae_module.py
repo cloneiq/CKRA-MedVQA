@@ -1,11 +1,10 @@
 import pytorch_lightning as pl
 import torch
 import torch.nn as nn
+from einops import rearrange
 from transformers import RobertaConfig, RobertaModel
 from transformers.models.bert.modeling_bert import BertConfig, BertModel
-from torchvision import models, transforms
-from transformers import BertTokenizer, BertModel
-from transformers import AutoTokenizer, AutoModel
+
 from m3ae.modules import objectives, m3ae_utils
 from m3ae.modules import prediction_heads
 from m3ae.modules.language_encoders.bert_model import BertCrossLayer
@@ -15,13 +14,15 @@ from m3ae.modules.vision_encoders.clip_model import build_model, adapt_position_
 from m3ae.modules.vision_encoders.swin_helpers import swin_adapt_position_encoding
 from m3ae.modules.knowledgeEmb import *
 from m3ae.modules.Loss import *
+from torchvision import models, transforms
 import sys
 import hashlib
 
-class resnet_encoder(nn.Module):
-    def __init__(self, args):
+
+class ResNetEncoder(nn.Module):
+    def __init__(self, hidden_size):
         super().__init__()
-        self.args = args
+        self.hidden_size = hidden_size
         self.model = models.resnet152(pretrained=True).to(device)
 
         self.fix2 = nn.Sequential(*list(self.model.children())[:-7])
@@ -31,11 +32,11 @@ class resnet_encoder(nn.Module):
         self.fix7 = nn.Sequential(*list(self.model.children())[:-2])
 
         self.relu = nn.ReLU()
-        self.conv2 = nn.Conv2d(64, args.hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
-        self.conv3 = nn.Conv2d(256, args.hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
-        self.conv4 = nn.Conv2d(512, args.hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
-        self.conv5 = nn.Conv2d(1024, args.hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
-        self.conv7 = nn.Conv2d(2048, args.hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        self.conv2 = nn.Conv2d(64, hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        self.conv3 = nn.Conv2d(256, hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        self.conv4 = nn.Conv2d(512, hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        self.conv5 = nn.Conv2d(1024, hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        self.conv7 = nn.Conv2d(2048, hidden_size * 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
 
         self.gap2 = nn.AdaptiveAvgPool2d((1, 1))
         self.gap3 = nn.AdaptiveAvgPool2d((1, 1))
@@ -43,34 +44,35 @@ class resnet_encoder(nn.Module):
         self.gap5 = nn.AdaptiveAvgPool2d((1, 1))
         self.gap7 = nn.AdaptiveAvgPool2d((1, 1))
 
-        self.grad_cam = True
+        self.grad_cam = False
         self.gradients = None
         self.activations = None
-
+        
     def activations_hook(self, grad):
-        self.gradients = grad
+        self.gradients = grad 
 
     def forward(self, img):
         img = img.to(device)
 
-        inter_2 = self.conv2(self.fix2(img))
-        v_2 = self.gap2(self.relu(inter_2)).view(-1, self.args.hidden_size, 4).permute(0, 2, 1)
+        inter_2 = self.conv2(
+            self.fix2(img)) 
+        v_2 = self.gap2(self.relu(inter_2)).view(-1, self.hidden_size, 4).permute(0, 2, 1)
 
         inter_3 = self.conv3(self.fix3(img))
-        v_3 = self.gap3(self.relu(inter_3)).view(-1, self.args.hidden_size, 4).permute(0, 2, 1)
+        v_3 = self.gap3(self.relu(inter_3)).view(-1, self.hidden_size, 4).permute(0, 2, 1)
 
         inter_4 = self.conv4(self.fix4(img))
-        v_4 = self.gap4(self.relu(inter_4)).view(-1, self.args.hidden_size, 4).permute(0, 2, 1)
+        v_4 = self.gap4(self.relu(inter_4)).view(-1, self.hidden_size, 4).permute(0, 2, 1)
 
         inter_5 = self.conv5(self.fix5(img))
-        v_5 = self.gap5(self.relu(inter_5)).view(-1, self.args.hidden_size, 4).permute(0, 2, 1)
+        v_5 = self.gap5(self.relu(inter_5)).view(-1, self.hidden_size, 4).permute(0, 2, 1)
 
         o_7 = self.fix7(img)
         if self.grad_cam:
-            self.activations = o_7
+            self.activations = o_7 
             h = o_7.register_hook(self.activations_hook)
         inter_7 = self.conv7(o_7)
-        v_7 = self.gap7(self.relu(inter_7)).view(-1, self.args.hidden_size, 4).permute(0, 2, 1)
+        v_7 = self.gap7(self.relu(inter_7)).view(-1, self.hidden_size, 4).permute(0, 2, 1)
 
         return torch.cat((v_2, v_3, v_4, v_5, v_7), dim=1)
 
@@ -87,69 +89,13 @@ class resnet_encoder(nn.Module):
         return self.feat
 
 
-def get_param(*shape):
-    param = Parameter(torch.zeros(shape))
-    xavier_normal_(param)
-    return param
-
-class TSE(nn.Module):
-    def __init__(self, args):
-        super().__init__()
-
-        base_model = BertModel.from_pretrained('download/roberta-base')
-        bert_model = nn.Sequential(*list(base_model.children())[0:])
-        self.bert_embedding = bert_model[0]
-        self.word_embedding = nn.Linear(768, args.hidden_size, bias=False).to(device)
-
-        self.sen = AutoModel.from_pretrained("download/biobert_v1.1")
-        self.sen_embedding = nn.Linear(768, args.hidden_size, bias=False).to(device)
-
-        self.heads = args.num_heads
-
-        self.scale = (2 * args.head_dim) ** -0.5
-
-        self.attend = nn.Softmax(dim=-1)
-        self.dropout = nn.Dropout(args.dropout)
-
-        self.to_qkv1 = nn.Linear(args.hidden_size, args.hidden_size * 3, bias=False)
-        self.to_qkv2 = nn.Linear(args.hidden_size, args.hidden_size * 2, bias=False)
-
-
-
-    def forward(self, w, s, mask):
-        word_embedding = self.bert_embedding(w)
-        tokens_embedding = self.word_embedding(word_embedding)
-
-        sen_embedding = self.sen(w)
-        sen_embedding = self.sen_embedding(sen_embedding.pooler_output.unsqueeze(1))
-
-        qkv1 = self.to_qkv1(tokens_embedding).chunk(3, dim=-1)
-        qkv2 = self.to_qkv2(sen_embedding).chunk(2, dim=-1)
-
-        q1, k1, v1 = map(lambda t: rearrange(t, 'b n (h d) -> b h n d', h=self.heads), qkv1)
-        q2, k2 = map(lambda t: rearrange(t, 'b n (h d) -> b h n d', h=self.heads), qkv2)
-
-        dots = self.scale * (torch.matmul(q1, k1.transpose(-1, -2)) + torch.matmul(q2, k2.transpose(-1, -2)))
-
-        if mask is not None:
-            mask = mask[:, None, None, :].float()
-            dots -= 10000.0 * (1.0 - mask)
-        attn = self.attend(dots)
-        attn = self.dropout(attn)
-        out = torch.matmul(attn, v1)
-        out = rearrange(out, 'b h n d -> b n (h d)')
-        return out
-
-def gelu(x):
-    return x * 0.5 * (1.0 + torch.erf(x / math.sqrt(2.0)))
-
 class M3AETransformerSS(pl.LightningModule):
     def __init__(self, config):
         super().__init__()
         self.save_hyperparameters()
 
         # == Begin: 1. Build Models ==
-        self.is_clip = ('swin' not in config['vit'])
+        self.is_clip = False
         if 'roberta' in config['tokenizer']:
             bert_config = RobertaConfig(
                 vocab_size=config["vocab_size"],
@@ -193,11 +139,24 @@ class M3AETransformerSS(pl.LightningModule):
         if self.is_clip:
             self.vision_encoder = build_model(config['vit'], resolution_after=resolution_after)
         else:
-            self.vision_encoder = resnet_encoder(config['resnet'])
+            print("use ResNet-152")
+            self.vision_encoder = ResNetEncoder(config['hidden_size'])
         if 'roberta' in config['tokenizer']:
             self.language_encoder = RobertaModel.from_pretrained(config['tokenizer'])
         else:
-            self.language_encoder = TSE(config['TSE'])
+            self.language_encoder = BertModel.from_pretrained(config['tokenizer'])
+
+        ###########################TSE################################################################
+        print("use TSE")
+        self.sentence_encoder = AutoModel.from_pretrained("pre-model/biobert_v1.1")
+        self.senttence_embedding = nn.Linear(768, config['hidden_size'], bias=False).to(device)
+        self.heads = config['heads']
+        self.scale = (2 * int(config['hidden_size'] / config['heads'])) ** -0.5
+        self.attend = nn.Softmax(dim=-1)
+        self.dropout = nn.Dropout(config['drop_rate'])
+        self.to_qkv1 = nn.Linear(config['hidden_size'], config['hidden_size'] * 3, bias=False)
+        self.to_qkv2 = nn.Linear(config['hidden_size'], config['hidden_size'] * 2, bias=False)
+        ##############################################################################################
 
         self.knowledge_encoder = KG_Embedding(config['hidden_size'])
 
@@ -229,7 +188,7 @@ class M3AETransformerSS(pl.LightningModule):
         self.multi_modal_language_pooler.apply(init_weights)
         self.multi_modal_knowledge_pooler = prediction_heads.Pooler(config["hidden_size"])
         self.multi_modal_knowledge_pooler.apply(init_weights)
-        
+
         self.contrastive_loss = ContrastiveLoss(margin=0.45, measure='dot', max_violation=False)
         # == End  : 1. Build Models ==
 
@@ -260,7 +219,6 @@ class M3AETransformerSS(pl.LightningModule):
 
         # == 4. Build Heads For Downstream Tasks ==
         hs = self.hparams.config["hidden_size"]
-        # VQA head ###########################################################################################
         if self.hparams.config["loss_names"]["vqa"] > 0:
             vs = self.hparams.config["vqa_label_size"]
             self.vqa_head = nn.Sequential(
@@ -358,6 +316,18 @@ class M3AETransformerSS(pl.LightningModule):
         image_id = hashlib.sha256(image_bytes).hexdigest()
         return image_id
     
+    def normalize_tensor(self, tensor, target_min=0, target_max=28995):
+        original_min = torch.min(tensor)
+        original_max = torch.max(tensor)
+
+        if original_max == original_min:
+            return torch.full_like(tensor, target_min)
+
+        normalized_tensor = (tensor - original_min) / (original_max - original_min) * (
+                    target_max - target_min) + target_min
+
+        return normalized_tensor
+
     def infer(
             self,
             batch,
@@ -377,34 +347,41 @@ class M3AETransformerSS(pl.LightningModule):
             else:
                 img_key = "image"
             img = batch[img_key][0]
-        # img.shape: [batch_size, 3, 384, 384]
         img_id = [self.get_image_id(image) for image in img]
         array = np.array(img_id)
-        # 创建相似性矩阵
         matrix = (array[:, np.newaxis] == array).astype(int)
-        # 将对角线上的元素设置为False
         np.fill_diagonal(matrix, False)
         do_mlm = "_mlm" if mask_text else ""
         text_ids = batch[f"text_ids{do_mlm}"]
         text_labels = batch[f"text_labels{do_mlm}"]
         text_masks = batch[f"text_masks"]
         device = text_ids.device
-        # == End  : Fetch the inputs ==
 
-        # == Begin: Text Encoding ==
         uni_modal_text_feats = self.language_encoder.embeddings(input_ids=text_ids)
         text_input_shape = text_masks.size()
         extended_text_masks = self.language_encoder.get_extended_attention_mask(text_masks, text_input_shape, device)
         for layer in self.language_encoder.encoder.layer:
             uni_modal_text_feats = layer(uni_modal_text_feats, extended_text_masks)[0]
         uni_modal_text_feats = self.multi_modal_language_proj(uni_modal_text_feats)
+
+        sentence_embedding = self.sentence_encoder(self.normalize_tensor(text_ids).long())
+        sentence_embedding = self.senttence_embedding(sentence_embedding.pooler_output.unsqueeze(1))
+        qkv1 = self.to_qkv1(uni_modal_text_feats).chunk(3, dim=-1)
+        qkv2 = self.to_qkv2(sentence_embedding).chunk(2, dim=-1)
+        q1, k1, v1 = map(lambda t: rearrange(t, 'b n (h d) -> b h n d', h=self.heads), qkv1)
+        q2, k2 = map(lambda t: rearrange(t, 'b n (h d) -> b h n d', h=self.heads), qkv2)
+        dots = self.scale * (torch.matmul(q1, k1.transpose(-1, -2)) + torch.matmul(q2, k2.transpose(-1, -2)))
+        if text_masks is not None:
+            mask = text_masks[:, None, None, :].float()
+            dots -= 10000.0 * (1.0 - mask)
+        attn = self.attend(dots)
+        attn = self.dropout(attn)
+        uni_modal_text_feats = torch.matmul(attn, v1)
+        uni_modal_text_feats = rearrange(uni_modal_text_feats, 'b h n d -> b n (h d)')
         # == End  : Text Encoding ==
 
         # == Begin: Image Encoding ==
         if mask_image:
-            # == Begin: Image Masking ==
-            # Mask: length -> length * mask_ratio
-            # Perform position embedding inside the masking function
             uni_modal_image_feats = self.vision_encoder.forward_patch_embed(img)
             uni_modal_image_feats, mim_masks, mim_ids_restore = self.random_masking(uni_modal_image_feats,
                                                                                     self.hparams.config["mim_prob"])
@@ -419,17 +396,15 @@ class M3AETransformerSS(pl.LightningModule):
                                  device=device)
         extended_image_masks = self.language_encoder.get_extended_attention_mask(image_masks, image_masks.size(),
                                                                                  device)
-
         # == End  : Image Encoding ==
-        
+
         # == Begin: Knowledge Encoding ==
-        uni_model_knowledge_feats, Loss_corr, extended_knowledge_masks = self.knowledge_encoder(self.kg, uni_modal_text_feats)
+        uni_model_knowledge_feats, Loss_corr, extended_knowledge_masks = self.knowledge_encoder(self.kg,
+                                                                                                uni_modal_text_feats)
         extended_knowledge_masks = extended_knowledge_masks.to(device)
         y_f = uni_modal_image_feats[:, 0]
         k_f = uni_model_knowledge_feats[:, 0]
         contra_loss = self.contrastive_loss(y_f, k_f, matrix)
-#         print("Knowledge:@@@@@@@", uni_model_knowledge_feats.shape)  # torch.Size([2, 32, 768])
-#         sys.exit()
         # == End  : Knowledge Encoding ==
 
         # == Begin: Assign Type Embeddings ==
@@ -443,10 +418,11 @@ class M3AETransformerSS(pl.LightningModule):
         # =======================================================================================================
         ret["attentions"] = {"text2image_attns": [], "image2text_attns": []} if output_attentions else None
         x, y, k = uni_modal_text_feats, uni_modal_image_feats, uni_model_knowledge_feats
-        for layer_idx, (text_layer, image_layer, knowledge_x_layer, knowledge_y_layer) in enumerate(zip(self.multi_modal_language_layers,
-                                                                  self.multi_modal_vision_layers,
-                                                                  self.multi_modal_knowledge_x_layers,
-                                                                  self.multi_modal_knowledge_y_layers)):
+        for layer_idx, (text_layer, image_layer, knowledge_x_layer, knowledge_y_layer) in enumerate(
+                zip(self.multi_modal_language_layers,
+                    self.multi_modal_vision_layers,
+                    self.multi_modal_knowledge_x_layers,
+                    self.multi_modal_knowledge_y_layers)):
             # == Begin: Fetch the intermediate outputs (different layers to perform MIM) ==
             if mask_image and self.hparams.config["mim_layer"] == layer_idx:
                 ret[f"multi_modal_text_feats_{layer_idx}"], ret[f"multi_modal_image_feats_{layer_idx}"] = x, y
@@ -458,6 +434,7 @@ class M3AETransformerSS(pl.LightningModule):
             k2 = knowledge_y_layer(k, y, extended_knowledge_masks, extended_image_masks, output_attentions=True)
             x, y, k = x1[0], y1[0], k1[0] + k2[0]
             # == End: Co-Attention ==
+                        
             # == Begin: For visualization: Return the attention weights ==
             if output_attentions:
                 ret["attentions"]["text2image_attns"].append(x1[1:])
@@ -468,14 +445,10 @@ class M3AETransformerSS(pl.LightningModule):
         # == Begin: == Output Multi-Modal Features ==
         multi_modal_text_feats, multi_modal_image_feats, multi_modal_knowledge_feats = x, y, k
         multi_modal_text_cls_feats = self.multi_modal_language_pooler(x)
-        if self.is_clip:
-            multi_modal_image_cls_feats = self.multi_modal_vision_pooler(y)
-        else:
-            avg_image_feats = self.vision_pooler(multi_modal_image_feats.transpose(1, 2)).view(
-                multi_modal_image_feats.size(0), 1, -1)
-            multi_modal_image_cls_feats = self.multi_modal_vision_pooler(avg_image_feats)
+        multi_modal_image_cls_feats = self.multi_modal_vision_pooler(y)
         multi_modal_knowledge_cls_feats = self.multi_modal_knowledge_pooler(k)
-        multi_modal_cls_feats = torch.cat([multi_modal_text_cls_feats, multi_modal_image_cls_feats, multi_modal_knowledge_cls_feats], dim=-1)
+        multi_modal_cls_feats = torch.cat(
+            [multi_modal_text_cls_feats, multi_modal_image_cls_feats, multi_modal_knowledge_cls_feats], dim=-1)
         # == End  : == Output Multi-Modal Features ==
 
         ret.update({
