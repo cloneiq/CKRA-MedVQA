@@ -49,7 +49,7 @@ Download the [BioBert](https://huggingface.co/dmis-lab/biobert-v1.1/tree/main) a
 
 ### Checkpoints
 
-Download the [checkpoints](https://1drv.ms/f/c/0ef3f7692d30fc19/En6cIAzp7r1Iseb-3y1vyw8BF-_NjnusZUB-Dp2nYI3ZGA?e=DbGU3Y)we trained and put it in the `download/checkpoints`.
+Download the [checkpoints](https://1drv.ms/f/c/0ef3f7692d30fc19/En6cIAzp7r1Iseb-3y1vyw8BF-_NjnusZUB-Dp2nYI3ZGA?e=DbGU3Y) we trained and put it in the `download/checkpoints`.
 
 
 ## Train & Test
