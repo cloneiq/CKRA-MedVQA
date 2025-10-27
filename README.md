@@ -63,6 +63,17 @@ bash run_scripts/ckra_test.sh
 ```
 
 ## Citations
+
+```angular2
+@article{Yang2025CKRA-MedVQA,
+  title={Beyond Static Knowledge: Dynamic Context-Aware Cross-Modal Contrastive Learning for Medical Visual Question Answering},
+  author={Rui Yang, Lijun Liu*,Xupeng Feng,Wei Peng, Xiaobing Yang},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2025},
+  publisher={IEEE}
+}
+```
+
 ```angular2
 @inproceedings{chen2022m3ae,
   title={Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training},
