@@ -63,6 +63,7 @@ bash run_scripts/ckra_test.sh
 ```
 
 ## Citations
+If this repository is useful for your research, please cite:
 
 ```angular2
 @article{Yang2025CKRA-MedVQA,
