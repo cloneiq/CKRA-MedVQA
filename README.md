@@ -172,8 +172,6 @@ If this repository is useful for your research, please cite:
 
 ## Contact
 
-For questions about this repository, please open an issue on GitHub:
-
 **First Author**: Rui Yang, Kunming University of Science and Technology Kunming, Yunnan CHINA, email: r2125381663@163.com
 
 **Corresponding Author**: Lijun Liu, Associate Professor (Ph.D.), Kunming University of Science and Technology Kunming, Yunnan CHINA, email: cloneiq@kust.edu.cn
