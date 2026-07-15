@@ -43,7 +43,7 @@ To address these challenges, we propose a **Contextual Knowledge-Aware Dynamic P
   <sub>Overall architecture of CKRA-MedVQA.</sub>
 </p>
 
-This paper was published in **IEEE Transactions on Medical Imaging**, 45,3,1075-1087. The source code and weights of the model are available at:  <a href="https://github.com/cloneiq/CKRA-MedVQA">
+This paper has been published in **IEEE Transactions on Medical Imaging**, 45,3,1075-1087. The source code and weights of the model are available at:  <a href="https://github.com/cloneiq/CKRA-MedVQA">
     <b>https://github.com/cloneiq/CKRA-MedVQA</b>
   </a>
 
