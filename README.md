@@ -31,8 +31,6 @@
 
 > **Beyond Static Knowledge: Dynamic Context-Aware Cross-Modal Contrastive Learning for Medical Visual Question Answering**
 
-This paper was published in **IEEE Transactions on Medical Imaging (IEEE TMI)**.
-
 Medical Visual Question Answering (Med-VQA) aims to analyze medical images and accurately respond to natural language queries, thereby optimizing clinical workflows and improving diagnostic and therapeutic outcomes. Although medical images contain rich visual information, the corresponding textual queries frequently lack sufficient descriptive content. This imbalance of information and modality differences leads to significant semantic bias. Furthermore, existing approaches integrate external medical knowledge to enhance model performance, they primarily rely on static knowledge that lacks dynamic adaptation to specific input samples, leading to redundant information and noise interference.
 
 To address these challenges, we propose a **Contextual Knowledge-Aware Dynamic Perception for the Cross-Modal Reasoning and Alignment (CKRA)** Model. To mitigate knowledge redundancy, CKRA employs a dynamic perception mechanism that leverages semantic cues from the query to selectively filter relevant medical knowledge specific to the current sample’s context. To alleviate cross-modal semantic bias, CKRA bridges the distance between visual and linguistic features through knowledge-image contrastive learning, optimizing knowledge feature representation and directing the model’s attention to key image regions. Further, we design a dual-stream guided attention network that facilitates cross-modal interaction and alignment across multiple dimensions. Experimental results show that the proposed CKRA model outperforms the state-of-the-art method on SLAKE and VQA-RAD datasets. In addition, ablation studies validate the effectiveness of each module, while Grad-CAM maps further demonstrate the feasibility of CKRA for medical visual questioning tasks. The overall architecture of the proposed method is depicted in the figure below.
@@ -45,13 +43,9 @@ To address these challenges, we propose a **Contextual Knowledge-Aware Dynamic P
   <sub>Overall architecture of CKRA-MedVQA.</sub>
 </p>
 
-The source code and weights of the model are available at:
-
-<p align="center">
-  <a href="https://github.com/cloneiq/CKRA-MedVQA">
+This paper was published in **IEEE Transactions on Medical Imaging**, 45,3,1075-1087. The source code and weights of the model are available at:  <a href="https://github.com/cloneiq/CKRA-MedVQA">
     <b>https://github.com/cloneiq/CKRA-MedVQA</b>
   </a>
-</p>
 
 ## Key Features
 
@@ -151,12 +145,19 @@ bash run_scripts/ckra_test.sh
 If this repository is useful for your research, please cite:
 
 ```bibtex
-@article{Yang2025CKRA-MedVQA,
-  title={Beyond Static Knowledge: Dynamic Context-Aware Cross-Modal Contrastive Learning for Medical Visual Question Answering},
-  author={Rui Yang, Lijun Liu*,Xupeng Feng,Wei Peng, Xiaobing Yang},
-  journal={IEEE Transactions on Medical Imaging},
-  year={2025},
-  publisher={IEEE}
+@article{yang2026beyondstatic,
+  title     = {Beyond Static Knowledge: Dynamic Context-Aware Cross-Modal Contrastive Learning for Medical Visual Question Answering},
+  author    = {Yang, Rui and Liu, Lijun and Feng, Xupeng and Peng, Wei and Yang, Xiaobing},
+  journal   = {IEEE Transactions on Medical Imaging},
+  year      = {2026},
+  volume    = {45},
+  number    = {3},
+  pages     = {1075--1087},
+  issn      = {1558-254X},
+  doi       = {10.1109/TMI.2025.3617289},
+  url       = {https://doi.org/10.1109/TMI.2025.3617289},
+  publisher = {IEEE},
+  keywords  = {Medical visual question answering; Dynamic knowledge; Contrastive learning; Cross-modal alignment; Multimodal interaction}
 }
 ```
 
