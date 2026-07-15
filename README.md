@@ -180,7 +180,3 @@ Lijun Liu, Associate Professor (Ph.D.), Kunming University of Science and Techno
 ## Acknowledges
 
 We thank [M3AE](https://github.com/zhjohnchan/M3AE) for its open-source implementation and dataset preparation reference, and we also thank the SLAKE and VQA-RAD datasets for supporting reproducible evaluation in medical visual question answering. We further acknowledge BioBERT and `roberta-base` for providing useful language representation backbones for medical vision-language modeling.
-
-<p align="center">
-  <sub>Maintained for dynamic knowledge-aware and cross-modal reasoning research in Medical Visual Question Answering.</sub>
-</p>
