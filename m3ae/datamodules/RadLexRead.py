@@ -5,27 +5,27 @@ from rdflib import Graph, URIRef, Literal, RDF, RDFS
 g = Graph()
 g.parse("RadLex.owl")
 
-# 读取RID到英文标签的映射字典
+# Read the mapping dictionary from RID to English labels
 with open("rid_to_label.json", "r", encoding="utf-8") as f:
     rid_to_label = json.load(f)
 
-# 读取原始TXT文件
+# Read the original TXT file
 with open("RIDRadLex.txt", "r", encoding="utf-8") as f:
     lines = f.readlines()
 
-# 创建一个新的列表来存储处理后的三元组
+# Create a new list to store the processed triples
 processed_triples = []
 
 for line in lines:
-    # 清理行末尾的换行符
+    # Remove the newline character at the end of the line
     line = line.strip()
 
-    # 将三元组用“%”分割
+    # Split the triple using "%"
     parts = line.split("%")
 
-    # 提取RID、谓词和对象
+    # Extract the RID, predicate, and object
     if len(parts) != 3:
-        continue  # 如果格式不正确，跳过此行
+        continue  # Skip this line if the format is incorrect
 
     subj, pred, obj = parts[0], parts[1], parts[2]
 
@@ -34,12 +34,12 @@ for line in lines:
     obj = obj.strip("<>")
 
     if subj == obj:
-        continue  # 如果主语和宾语相同，跳过此行
+        continue  # Skip this line if the subject and object are identical
 
-    # 替换RID为对应的英文标签
+    # Replace the RID with the corresponding English label
     rid = subj
     if rid in rid_to_label:
-        subj = f'{rid_to_label[rid]}'  # 使用引号包裹英文标签
+        subj = f'{rid_to_label[rid]}'  # Wrap the English label in quotes
     else:
         continue
 
@@ -50,17 +50,17 @@ for line in lines:
         else:
             continue
 
-    # 检查谓词是否为<Preferred_name>
+    # Check whether the predicate is <Preferred_name>
     if "<Preferred_name>" in pred:
-        continue  # 跳过这个三元组
+        continue  # Skip this triple
 
 
-    # 添加处理后的三元组到列表中
+    # Add the processed triple to the list
     processed_triples.append(f"{subj}%{pred}%{obj}")
 
-# 将处理后的三元组写入新的TXT文件
+# Write the processed triples to a new TXT file
 with open("RadLex.txt", "w", encoding="utf-8") as f:
     for triple in processed_triples:
         f.write(triple + "\n")
 
-print("处理完成，已保存到文件中。")
+print("Finished.")
